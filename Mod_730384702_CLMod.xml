@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CrashLanding.CLSettings">
+		<rainTimeDelay>2</rainTimeDelay>
+		<partsTimeDelayMultiplier>1</partsTimeDelayMultiplier>
+		<colonistPerBlockCount>0</colonistPerBlockCount>
+		<fireMultiplier>3</fireMultiplier>
+	</ModSettings>
+</SettingsBlock>

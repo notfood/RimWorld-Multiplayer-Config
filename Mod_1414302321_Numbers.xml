@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Numbers.Numbers_Settings">
+		<showMoreInfoThanVanilla>False</showMoreInfoThanVanilla>
+		<maxHeight>1</maxHeight>
+		<numbersPawnTableDefs />
+	</ModSettings>
+</SettingsBlock>

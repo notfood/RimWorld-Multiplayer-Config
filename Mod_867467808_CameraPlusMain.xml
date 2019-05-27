@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CameraPlus.CameraPlusSettings">
+		<zoomedOutPercent>65</zoomedOutPercent>
+		<zoomedInPercent>1</zoomedInPercent>
+		<zoomedOutDollyPercent>1</zoomedOutDollyPercent>
+		<zoomedInDollyPercent>1</zoomedInDollyPercent>
+		<soundNearness>0</soundNearness>
+	</ModSettings>
+</SettingsBlock>

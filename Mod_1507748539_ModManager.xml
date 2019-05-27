@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ModManager.ModManagerSettings">
+		<ModAttributes>
+			<li>
+				<Identifier>__LocalCopy_Recipe icons_(8-2)</Identifier>
+				<SourceMod>1616643195</SourceMod>
+				<SourceHash>6bc043f091011b3b9e165370b3bbde1f</SourceHash>
+			</li>
+		</ModAttributes>
+		<ButtonAttributes>
+			<li>
+				<Name>FrameRateControl</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Multiplayer</Name>
+				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
+			</li>
+			<li>
+				<Name>ameiro anime hairs for 1.0</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[CP] Chicken Mitchell - Hairstyles (1.0)</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Ponytail is Kawaii</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Spoons Hair Mod</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Roppoi hair 1.0</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Rimsenal - Rimhair</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[SS]Lovely Hair Style</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Lolidrop's hairshop</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>gloomy_hair</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>gloomy_face</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>gloomy_dress</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Rimcolle</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Apparello 2</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>FashionRIMsta</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Hand 'n' Footwear - 1.0</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Mercer's Backpacks (B19)</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Quality Cooldown</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Storage Solutions</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Realistic Rooms</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Vanilla Animals Overhaul Reloaded</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Lulu's Animal Cybernetics</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] DE Surgeries</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[FSF] Vanilla Bionics Expansion</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[SYR] Prosthetic Table</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[SYR] Prosthetic Icons</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[SYR] Doormats</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>RimCuisine 1.0</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Interaction Bubbles</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Harvest Designators!</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Fertile Fields [1.0]</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Camera+</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>MendAndRecycle</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Infused</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>SeedsPlease</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] RimFridge - 1.0</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Show Hair With Hats or Hide All Hats - 1.0</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>My Little Planet</Name>
+				<Color>RGBA(0.470, 0.571, 0.973, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Architect Icons</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Cut plants before building</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Draggable Corners</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>EdB Prepare Carefully</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Pick Up And Haul</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Conduit Deconstruct</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Crash Landing</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Damage Indicators</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Fences And No Floors</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[T] MoreFloors</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] More Trait Slots - 1.0</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Consolidated Traits - 1.0</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[sd] chicken nest</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Fire Extinguisher [B18]</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Stuffed Floors</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Sometimes Raids Go Wrong</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>TicksPerSecond</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Wild Cultivation [1.0]</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>MinifyEverything</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Humanoid Alien Races 2.0</Name>
+				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Mint Menus</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Multiplayer Compatibility</Name>
+				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Progress Renderer</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>While You're Up [1.0]</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Weapon Tech</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>HugsLib</Name>
+				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Fire Extinguisher (NF)</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[FSF] Rain Washes Away Filth</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Let's Trade! [1.0]</Name>
+				<Color>RGBA(0.470, 0.571, 0.973, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Common Sense</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Death Rattle</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Trading Spot - 1.0</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[XND] Survival Tools</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Rimkit</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Bad Hygiene</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Rimefeller</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Metabolism Feels Cared About Now</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Improved Infestation</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Pawns are Capable! [1.0]</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Animals Logic</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Incident Person Stat</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Rational Romance [1.0]</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Recipe icons</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dub's Paint Shop</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Faction Interaction</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Linkables</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Taming Inspiration</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Shoo!</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Mint Minimap</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Numbers</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Mortar Accuracy</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Cyber Fauna 1.0</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+		</ButtonAttributes>
+		<ShowPromotions>False</ShowPromotions>
+		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
+		<TrimVersionStrings>True</TrimVersionStrings>
+	</ModSettings>
+</SettingsBlock>

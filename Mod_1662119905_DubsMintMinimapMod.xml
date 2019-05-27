@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMinimap.Settings">
+		<StaticRectPos>(1570.0, 50.0)</StaticRectPos>
+		<ShowCorpses>True</ShowCorpses>
+		<multi21>200</multi21>
+		<BtnPos>200</BtnPos>
+		<LastVersion>31646</LastVersion>
+	</ModSettings>
+</SettingsBlock>
