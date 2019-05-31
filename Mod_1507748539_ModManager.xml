@@ -347,7 +347,7 @@
 			</li>
 			<li>
 				<Name>More Linkables</Name>
-				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Taming Inspiration</Name>
@@ -372,6 +372,22 @@
 			<li>
 				<Name>Cyber Fauna 1.0</Name>
 				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Better Vanilla Masking</Name>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Sheep (1.0)</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Overcapped Accuracy</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Power Alerts</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>

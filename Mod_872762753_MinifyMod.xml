@@ -14,13 +14,19 @@
 			<li>ChainFenceGateB</li>
 			<li>RC_FoodPrepSpot</li>
 			<li>CraftingSpot</li>
+			<li>DeepOilWell</li>
 			<li>Terraform_WaterShallow-WaterDeep</li>
+			<li>DeepWaterWellInlet</li>
 			<li>Door</li>
+			<li>RGK_Door</li>
+			<li>GL_DoorFrame</li>
 			<li>DoubleSleepingSpot</li>
 			<li>WoodFence</li>
+			<li>RGK_WoodFence</li>
 			<li>WoodFenceGate</li>
 			<li>WoodFenceGateB</li>
 			<li>Terraform_Topsoil-DirtFert</li>
+			<li>FishingSpot</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
 			<li>HeavySandbags</li>
@@ -36,11 +42,14 @@
 			<li>Terraform_SoilF-SoilMarshy</li>
 			<li>Terraform_SoilMarshy-Mud</li>
 			<li>Terraform_SoilF-Mud</li>
+			<li>OilPipeline</li>
+			<li>OilWell</li>
 			<li>Terraform_SoilF-PackedDirt</li>
 			<li>PartySpot</li>
 			<li>Terraform_SoilRich-SoilTilled</li>
 			<li>sewagePipeStuff</li>
 			<li>PowerConduit</li>
+			<li>PrimitiveWell</li>
 			<li>Terraform_Ice-WaterShallow</li>
 			<li>Terraform_SoilF-SoilRich</li>
 			<li>Terraform_SoilMarshy-RockyDirt</li>
@@ -66,12 +75,19 @@
 			<li>Terraform_PackedDirt-SoilF</li>
 			<li>Terraform_Sand-SoilF</li>
 			<li>Terraform_Gravel-SoilF</li>
+			<li>ToiletStallDoor</li>
 			<li>Terraform_RockyDirt-Gravel</li>
 			<li>Terraform_Sand-Gravel</li>
 			<li>Terraform_SoilF-Gravel</li>
 			<li>Terraform_Stone-Topsoil</li>
+			<li>TradingSpot</li>
+			<li>Vent</li>
+			<li>GL_VentWall</li>
 			<li>Wall</li>
+			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
+			<li>RGK_window</li>
+			<li>GL_WindowWall</li>
 		</disabledDefList>
 	</ModSettings>
 </SettingsBlock>

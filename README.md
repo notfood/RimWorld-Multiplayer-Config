@@ -13,8 +13,6 @@ Shared configuration files for Multiplayer RimWorld
 
 ## Instructions
 
-- Download Zethrith's Multiplayer
-- Uncompress under the Mods Directory (Steam/steamapps/common/RimWorld/Mods)
 - Subscribe to the mods
 - Download [this zip here](https://github.com/notfood/RimWorld-Multiplayer-Config/archive/master.zip)
 - Uncompress under RimWorld's Config directory (found under settings > show save data location)
