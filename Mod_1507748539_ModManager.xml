@@ -7,6 +7,11 @@
 				<SourceMod>1616643195</SourceMod>
 				<SourceHash>6bc043f091011b3b9e165370b3bbde1f</SourceHash>
 			</li>
+			<li>
+				<Identifier>__LocalCopy_Unofficial Multiplayer API_(7-6)</Identifier>
+				<SourceMod>1681596707</SourceMod>
+				<SourceHash>abda57cee9b77eb5f8f14a6a0ac884e9</SourceHash>
+			</li>
 		</ModAttributes>
 		<ButtonAttributes>
 			<li>
@@ -388,6 +393,14 @@
 			<li>
 				<Name>Power Alerts</Name>
 				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Outfitted</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Unofficial Multiplayer API</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
