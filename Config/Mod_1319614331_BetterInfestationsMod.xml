@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterInfestations.BetterInfestationsSettings">
+		<disabledDefList />
+		<hiveAggression>0.5</hiveAggression>
+		<eggHatchingRate>4</eggHatchingRate>
+		<eggLayingRate>3.5</eggLayingRate>
+		<hiveDistFromColony>10</hiveDistFromColony>
+		<allowHiveMapGen>True</allowHiveMapGen>
+		<maxMapGenHives>1</maxMapGenHives>
+	</ModSettings>
+</SettingsBlock>

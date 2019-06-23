@@ -100,7 +100,7 @@
 			</li>
 			<li>
 				<Name>Vanilla Animals Overhaul Reloaded</Name>
-				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Lulu's Animal Cybernetics</Name>
@@ -401,6 +401,30 @@
 			<li>
 				<Name>Unofficial Multiplayer API</Name>
 				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>GloomyFurniture</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gloomy Extra - Kitchen</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] Thanks For All The Fish</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>I Am Hungry</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gloomy Vanilla</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Yet Another Stockpile Presets</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>

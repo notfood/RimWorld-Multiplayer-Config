@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PreyPopulationLimitSettings">
+		<preyLimit>1</preyLimit>
+		<preyLimitString>1</preyLimitString>
+	</ModSettings>
+</SettingsBlock>

@@ -2,6 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="SurvivalTools.SurvivalToolsSettings">
 		<toolMapGen>False</toolMapGen>
-		<toolDegradationFactor>1</toolDegradationFactor>
+		<toolDegradationFactor>0.75</toolDegradationFactor>
 	</ModSettings>
 </SettingsBlock>

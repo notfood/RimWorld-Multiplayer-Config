@@ -6,7 +6,7 @@ Shared configuration files for Multiplayer RimWorld
 
 ### Links
 
-![Multiplayer](https://i.imgur.com/TgeQroe.png) [Zethrith's Multiplayer](https://github.com/Zetrith/Multiplayer/releases)
+![Multiplayer](https://i.imgur.com/TgeQroe.png) [Zethrith's Multiplayer](https://github.com/notfood/RimWorld-Multiplayer/releases)
 
 ![Steam](https://i.imgur.com/XEAiSka.png) [ModList](https://steamcommunity.com/sharedfiles/filedetails/?id=1618452047)
 
@@ -15,4 +15,4 @@ Shared configuration files for Multiplayer RimWorld
 
 - Subscribe to the mods
 - Download [this zip here](https://github.com/notfood/RimWorld-Multiplayer-Config/archive/master.zip)
-- Uncompress under RimWorld's Config directory (found under settings > show save data location)
+- Uncompress under RimWorld's SaveData directory (found under settings > show save data location)

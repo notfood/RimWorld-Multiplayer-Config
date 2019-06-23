@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsBadHygiene.Settings">
-		<LastVersion>BadHygiene 2.5.784</LastVersion>
+		<LastVersion>BadHygiene 2.5.1002</LastVersion>
 		<BladderRace />
 		<BladderBody />
 		<BladderHediff />
@@ -23,7 +23,6 @@
 		<AllowNonHuman>True</AllowNonHuman>
 		<FertilizerVisible>True</FertilizerVisible>
 		<OverrideNd>False</OverrideNd>
-		<Stripping>True</Stripping>
 		<ModOptionDefValues>
 			<keys>
 				<li>PipeVisibility</li>

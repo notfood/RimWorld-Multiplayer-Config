@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PathAvoid.Settings">
+		<PathAvoid.Version>1.0</PathAvoid.Version>
+		<PathAvoid.ButtonOrder>1000</PathAvoid.ButtonOrder>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<WheelDefs IsNull="True" />
+		<HideFinished>True</HideFinished>
+		<LastSavedBuild>442</LastSavedBuild>
+		<infocardW>350</infocardW>
+		<MaxHeight>650</MaxHeight>
+		<InfoWidth>358</InfoWidth>
+		<listWidth>404</listWidth>
+	</ModSettings>
+</SettingsBlock>

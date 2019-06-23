@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <HugsLib>
+    <modUpdateNews>False</modUpdateNews>
+    <quickstartSettings>&lt;QuickstartSettings&gt;&lt;OperationMode&gt;Disabled&lt;/OperationMode&gt;&lt;ScenarioToGen&gt;Naked Brutality&lt;/ScenarioToGen&gt;&lt;MapSizeToGen&gt;75&lt;/MapSizeToGen&gt;&lt;StopOnErrors&gt;true&lt;/StopOnErrors&gt;&lt;StopOnWarnings&gt;true&lt;/StopOnWarnings&gt;&lt;BypassSafetyDialog&gt;false&lt;/BypassSafetyDialog&gt;&lt;/QuickstartSettings&gt;</quickstartSettings>
+    <logPublisherSettings>&lt;LogPublisherOptions&gt;&lt;UseCustomOptions&gt;false&lt;/UseCustomOptions&gt;&lt;UseUrlShortener&gt;false&lt;/UseUrlShortener&gt;&lt;IncludePlatformInfo&gt;false&lt;/IncludePlatformInfo&gt;&lt;AllowUnlimitedLogSize&gt;false&lt;/AllowUnlimitedLogSize&gt;&lt;/LogPublisherOptions&gt;</logPublisherSettings>
+  </HugsLib>
+  <WhileYoureUp>
+    <SkipWhenBleeding>True</SkipWhenBleeding>
+  </WhileYoureUp>
+  <BabyAndChildren>
+    <hostile_children_raider>False</hostile_children_raider>
+    <accelerated_growth>False</accelerated_growth>
+  </BabyAndChildren>
+  <GiddyUpCore>
+    <tabs>Mountable animals..</tabs>
+    <bodySizeFilter>0.73</bodySizeFilter>
+  </GiddyUpCore>
+  <SimpleSidearms>
+    <ActivePreset>Custom</ActivePreset>
+    <OptimalMelee>True</OptimalMelee>
+    <CQCAutoSwitch>True</CQCAutoSwitch>
+    <RangedCombatAutoSwitch>True</RangedCombatAutoSwitch>
+    <RangedCombatAutoSwitchMaxWarmup>0.5</RangedCombatAutoSwitchMaxWarmup>
+    <SingleshotAutoSwitch>True</SingleshotAutoSwitch>
+    <SpeedSelectionBiasMelee>1.25</SpeedSelectionBiasMelee>
+    <SpeedSelectionBiasRanged>1.25</SpeedSelectionBiasRanged>
+    <LimitModeSingle>AbsoluteWeight</LimitModeSingle>
+    <LimitModeSingle_Absolute>3.9</LimitModeSingle_Absolute>
+    <LimitModeAmount>RelativeWeight</LimitModeAmount>
+    <LimitModeAmount_Relative>0.15</LimitModeAmount_Relative>
+    <SidearmSpawnChance>0.25</SidearmSpawnChance>
+    <SidearmsEnableNeolithicExtension>True</SidearmsEnableNeolithicExtension>
+    <SidearmsNeolithicExtension>MeleeWeapon_Shiv|Thrumbo_Doll|MeleeWeapon_Knife|MeleeWeapon_Club|MeleeWeapon_Ikwa</SidearmsNeolithicExtension>
+  </SimpleSidearms>
+  <Hospitality>
+    <enableBuyNotification>True</enableBuyNotification>
+  </Hospitality>
+</settings>
