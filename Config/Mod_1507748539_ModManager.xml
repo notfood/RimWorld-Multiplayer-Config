@@ -12,6 +12,10 @@
 				<SourceMod>1681596707</SourceMod>
 				<SourceHash>abda57cee9b77eb5f8f14a6a0ac884e9</SourceHash>
 			</li>
+			<li>
+				<Identifier>1833593222</Identifier>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
 		</ModAttributes>
 		<ButtonAttributes>
 			<li>
@@ -352,7 +356,7 @@
 			</li>
 			<li>
 				<Name>More Linkables</Name>
-				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Taming Inspiration</Name>
@@ -404,11 +408,11 @@
 			</li>
 			<li>
 				<Name>GloomyFurniture</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(0.675, 0.681, 0.823, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Gloomy Extra - Kitchen</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(0.675, 0.681, 0.823, 1.000)</Color>
 			</li>
 			<li>
 				<Name>[1.0] Thanks For All The Fish</Name>
@@ -420,11 +424,87 @@
 			</li>
 			<li>
 				<Name>Gloomy Vanilla</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(0.675, 0.681, 0.823, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Yet Another Stockpile Presets</Name>
 				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[XND] Adrenaline!</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Forbiddable Refuelables</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Than Capable</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>NurseJob</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Path Avoid - 1.0</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Pep In Your Step</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[XND] Proper Shotguns</Name>
+				<Color>RGBA(0.588, 0.111, 0.833, 1.000)</Color>
+			</li>
+			<li>
+				<Name>ResearchPal</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gloomy Face mk2</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gloomy Hair mk2</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>VOHAIR</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>AnimalCollabProj</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Baby and Children</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>BnC Alien Support</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] RimCuisine 2 Core</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] RimCuisine 2 Meals and Munchies Expansion</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gloomy Deco</Name>
+				<Color>RGBA(0.675, 0.681, 0.823, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Vanilla Fences (Fence Tab)</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Multiplayer-able Glue</Name>
+				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
