@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RFF_Code.Settings">
-		<degradeChancePlowed>50</degradeChancePlowed>
-		<degradeChanceRich>25</degradeChanceRich>
+		<degradeChancePlowed>0</degradeChancePlowed>
+		<degradeChanceRich>0</degradeChanceRich>
+		<autoRefertilize>False</autoRefertilize>
+		<autoReplow>False</autoReplow>
 		<plantScrapsPercent>100</plantScrapsPercent>
 	</ModSettings>
 </SettingsBlock>

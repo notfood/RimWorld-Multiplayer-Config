@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ProgressRenderer.PRModSettings">
+		<enabled>False</enabled>
 		<createSubdirs>True</createSubdirs>
 	</ModSettings>
 </SettingsBlock>

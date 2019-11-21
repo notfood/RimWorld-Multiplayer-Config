@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VCE_Fishing.Options.VCE_Fishing_Settings">
+		<VCEF_minimumZoneSize>25</VCEF_minimumZoneSize>
+		<VCEF_smallFishDurationFactor>4500</VCEF_smallFishDurationFactor>
+		<VCEF_chanceForSpecials>1</VCEF_chanceForSpecials>
+		<VCEF_minMapTempForLowFish>0</VCEF_minMapTempForLowFish>
+		<VCEF_maxMapTempForLowFish>50</VCEF_maxMapTempForLowFish>
+		<VCEF_dropFish>False</VCEF_dropFish>
+	</ModSettings>
+</SettingsBlock>

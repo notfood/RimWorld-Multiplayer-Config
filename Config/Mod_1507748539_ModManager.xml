@@ -506,6 +506,82 @@
 				<Name>Multiplayer-able Glue</Name>
 				<Color>RGBA(0.160, 0.547, 0.117, 1.000)</Color>
 			</li>
+			<li>
+				<Name>Vanilla Animals Expanded — Livestock</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] Ceramics</Name>
+				<Color>RGBA(0.675, 0.681, 0.823, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[1.0] DE Surgeries - Dubs Bad Hygiene</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Mass Graves</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Power Logic</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Gimmicks</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Taming Artifact</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Time-of-Day Switches</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Tech Advancing</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[XND] AutoOwl</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Deconstruct Return Fix</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Giddy-up! Core</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Giddy-up! Ride and Roll</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Achtung!</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Simple sidearms</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Won hair_men</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Won hair_women </Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Vanilla Fishing Expanded</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Power Tab</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
 		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>

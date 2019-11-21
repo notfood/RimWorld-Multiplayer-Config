@@ -1,9 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsMintMenus.Settings">
-		<WheelDefs IsNull="True" />
+		<WheelOnRightClick>True</WheelOnRightClick>
+		<WheelDefs>
+			<li>RimWorld.Designator_Deconstruct</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Forbid</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>MoreHarvestDesignators.Designator_PlantsHarvest_Mature</li>
+			<li>RimWorld.Designator_RemoveFloor</li>
+		</WheelDefs>
 		<HideFinished>True</HideFinished>
-		<LastSavedBuild>442</LastSavedBuild>
+		<LastSavedBuild>463</LastSavedBuild>
 		<infocardW>350</infocardW>
 		<MaxHeight>650</MaxHeight>
 		<InfoWidth>358</InfoWidth>
