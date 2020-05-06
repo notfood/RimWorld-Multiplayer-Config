@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OgreStack>
+	<IndividualItemOverrides>
+		<!--
+			* This lets you target items by their DefName.
+			* Set the stackLimit directly
+			
+			* Items adjusted here will ignore any additional
+			* processing rules in OgreStack
+			
+			* FORMAT: <item defName="<string:DefName>" stackLimit="<int:desiredStackLimit>" />
+			* Example: set the stack limit for unfertilized chicken eggs to 2000
+			
+			* <item defName="EggChickenUnfertilized" stackLimit="2000" />
+		-->
+
+		<item defName="AIPersonaCore" stackLimit="1" />
+		<item defName="TechprofSubpersonaCore" stackLimit="1" />
+		<item defName="InfusedAmplifier" stackLimit="1" />
+	</IndividualItemOverrides>
+
+	<BanItemsFromStackingByCategory>
+		<!--
+		 * Lets you ban items that identifies itself
+		 * in a category named in this section
+		 
+		 * Items adjusted here will ignore additional
+		 * processing rules in OgreStack
+		 
+		 * FORMAT: <category name="<string:Category>" />
+		 * Example: Ban stacking for any egg that is fertilized 
+		 * that categorizes itself 'EggsFertilized'
+		 
+		 * <category name="EggsFertilized" />
+		-->
+	</BanItemsFromStackingByCategory>
+</OgreStack>

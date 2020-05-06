@@ -6,6 +6,6 @@
 		<VCEF_chanceForSpecials>1</VCEF_chanceForSpecials>
 		<VCEF_minMapTempForLowFish>0</VCEF_minMapTempForLowFish>
 		<VCEF_maxMapTempForLowFish>50</VCEF_maxMapTempForLowFish>
-		<VCEF_dropFish>False</VCEF_dropFish>
+		<VCEF_dropFish>True</VCEF_dropFish>
 	</ModSettings>
 </SettingsBlock>

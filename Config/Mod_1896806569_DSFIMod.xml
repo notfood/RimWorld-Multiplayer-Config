@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="ConfigurableMaps.Settings.Settings">
-		<overrides />
+	<ModSettings Class="DSFI.DSFISettings">
+		<wanderMultiplier>1</wanderMultiplier>
 	</ModSettings>
 </SettingsBlock>

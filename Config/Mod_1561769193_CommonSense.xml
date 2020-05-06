@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="CommonSense.Settings" />
+	<ModSettings Class="CommonSense.Settings">
+		<gui_manual_unload>False</gui_manual_unload>
+	</ModSettings>
 </SettingsBlock>

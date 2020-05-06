@@ -3,5 +3,6 @@
 	<ModSettings Class="ShowHair.Settings">
 		<HairToHide />
 		<HatsThatHide />
+		<ShowHatsOnlyWhenDrafted>True</ShowHatsOnlyWhenDrafted>
 	</ModSettings>
 </SettingsBlock>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="MendAndRecycle.Settings">
-		<removesDeadman>True</removesDeadman>
+		<removesDeadman>False</removesDeadman>
 		<requiresFuel>True</requiresFuel>
 		<requiresPower>True</requiresPower>
 		<costFromMaxHitPoints>0.100000001</costFromMaxHitPoints>
@@ -17,13 +17,13 @@
 				<li>Archotech</li>
 			</keys>
 			<values>
-				<li>0.01</li>
-				<li>0.01</li>
-				<li>0.02</li>
-				<li>0.03</li>
-				<li>0.04</li>
-				<li>0.05</li>
-				<li>0.10</li>
+				<li>0.00999999978</li>
+				<li>0.00999999978</li>
+				<li>0.0199999996</li>
+				<li>0.0299999993</li>
+				<li>0.0399999991</li>
+				<li>0.0500000007</li>
+				<li>0.100000001</li>
 				<li>0.25</li>
 			</values>
 		</chances>

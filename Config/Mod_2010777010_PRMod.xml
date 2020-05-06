@@ -2,6 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="ProgressRenderer.PRModSettings">
 		<enabled>False</enabled>
+		<renderFeedback>Message</renderFeedback>
+		<scaleOutputImage>True</scaleOutputImage>
 		<createSubdirs>True</createSubdirs>
+		<migratedOutputImageSettings>True</migratedOutputImageSettings>
+		<migratedInterval>True</migratedInterval>
 	</ModSettings>
 </SettingsBlock>

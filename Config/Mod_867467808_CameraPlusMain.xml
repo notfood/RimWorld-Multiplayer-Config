@@ -5,6 +5,8 @@
 		<zoomedInPercent>1</zoomedInPercent>
 		<zoomedOutDollyPercent>1</zoomedOutDollyPercent>
 		<zoomedInDollyPercent>1</zoomedInDollyPercent>
+		<zoomedOutScreenEdgeDollyFactor>0.5</zoomedOutScreenEdgeDollyFactor>
+		<zoomedInScreenEdgeDollyFactor>0.5</zoomedInScreenEdgeDollyFactor>
 		<soundNearness>0</soundNearness>
 	</ModSettings>
 </SettingsBlock>

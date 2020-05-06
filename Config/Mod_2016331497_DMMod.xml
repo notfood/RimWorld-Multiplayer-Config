@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DamageMotes.DMModSettings">
+		<EnableIndicatorNeutralFaction>False</EnableIndicatorNeutralFaction>
+		<DisplayPawnsOnly>False</DisplayPawnsOnly>
+		<DisplayPawnsInstigatorOnly>False</DisplayPawnsInstigatorOnly>
+	</ModSettings>
+</SettingsBlock>
