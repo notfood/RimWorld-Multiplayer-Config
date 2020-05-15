@@ -3,5 +3,10 @@
 	<ModSettings Class="Infused.Settings">
 		<ChanceMult>1</ChanceMult>
 		<ChanceBias>0.5</ChanceBias>
+		<WeightArtifact>0.031750001</WeightArtifact>
+		<WeightLegendary>0.0625</WeightLegendary>
+		<WeightEpic>0.125</WeightEpic>
+		<WeightRare>0.25</WeightRare>
+		<WeightUncommon>0.5</WeightUncommon>
 	</ModSettings>
 </SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsAnalyzer.PerfAnalSettings">
+		<ShowOnMainTab>True</ShowOnMainTab>
+		<AlertFilter>
+			<keys />
+			<values />
+		</AlertFilter>
+	</ModSettings>
+</SettingsBlock>
