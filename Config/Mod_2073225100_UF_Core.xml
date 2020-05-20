@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UniversalFermenter.UF_Settings">
+		<UF_showProcessIconGlobal>True</UF_showProcessIconGlobal>
+		<UF_processIconSize>0.600000024</UF_processIconSize>
+		<UF_showCurrentQualityIcon>True</UF_showCurrentQualityIcon>
+		<UF_showTargetQualityIcon>True</UF_showTargetQualityIcon>
+		<UF_singleItemIcon>True</UF_singleItemIcon>
+		<UF_sortAlphabetically>False</UF_sortAlphabetically>
+	</ModSettings>
+</SettingsBlock>

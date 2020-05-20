@@ -571,6 +571,10 @@
 				<Name>Restock Notification</Name>
 				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
 			</li>
+			<li>
+				<Name>Children and Pregnancy</Name>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
+			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
 		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
