@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProstheticNoMissingBodyParts.ProstheticNoMissingBodyPartsSettings">
+		<armsWhitelist>
+			<li>BionicArm</li>
+			<li>SimpleProstheticArm</li>
+			<li>FSFBionicPowerArm</li>
+			<li>ArchotechArm</li>
+		</armsWhitelist>
+		<legsWhitelist>
+			<li>BionicLeg</li>
+			<li>SimpleProstheticLeg</li>
+			<li>KneeSpike</li>
+			<li>ArchotechLeg</li>
+		</legsWhitelist>
+	</ModSettings>
+</SettingsBlock>

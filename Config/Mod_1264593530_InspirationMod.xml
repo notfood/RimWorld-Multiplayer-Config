@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Inspiration.InspirationSettings">
+		<DreamXpAmount>500</DreamXpAmount>
+		<SocialXpAmount>1000</SocialXpAmount>
+	</ModSettings>
+</SettingsBlock>

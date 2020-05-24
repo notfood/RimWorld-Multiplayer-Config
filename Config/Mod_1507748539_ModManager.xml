@@ -575,6 +575,26 @@
 				<Name>Children and Pregnancy</Name>
 				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
 			</li>
+			<li>
+				<Name>[SYR] Universal Fermenter</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>PsychoCasts</Name>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Inspirations</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Inspiration</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Drug Stats</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
 		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
