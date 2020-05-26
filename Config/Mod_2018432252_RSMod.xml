@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RoomSize.RSModSettings">
+		<amountRatherTight>6</amountRatherTight>
+		<amountAverageSized>12</amountAverageSized>
+		<amountSomewhatSpacious>28</amountSomewhatSpacious>
+		<amountQuiteSpacious>45</amountQuiteSpacious>
+		<amountVerySpacious>75</amountVerySpacious>
+		<amountExtremelyspacious>175</amountExtremelyspacious>
+	</ModSettings>
+</SettingsBlock>

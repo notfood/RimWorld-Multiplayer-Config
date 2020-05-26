@@ -44,10 +44,6 @@
 				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
 			</li>
 			<li>
-				<Name>Realistic Rooms</Name>
-				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
-			</li>
-			<li>
 				<Name>Quality Cooldown</Name>
 				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
 			</li>
@@ -592,8 +588,80 @@
 				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
 			</li>
 			<li>
-				<Name>Drug Stats</Name>
-				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+				<Name>VGP Garden Drinks</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Animal Food Restrictions</Name>
+				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Room Size Tolerance</Name>
+				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Optimization: Meats</Name>
+				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Eccentric Extras - Angel Hairs</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Eccentric Tech - Cosmetic Modifications</Name>
+				<Color>RGBA(1.000, 0.423, 0.608, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dinosauria</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Prosthetic No Missing Body Parts</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Death Rattle Unofficial</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Common Ailments</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Drug Policy Fix</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Drug Response</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Medical Supplements</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Ceiling Lights: Vanilla Edition</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Chatting on Comms</Name>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Pawnmorpher</Name>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
+			</li>
+			<li>
+				<Name>RealDining</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Hunters Use Melee!</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Animals are fun</Name>
+				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>

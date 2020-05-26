@@ -1,28 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RFF_Code.Settings">
-		<plantScrapsPercent>100.5</plantScrapsPercent>
+		<newGrowZoneRTS>True</newGrowZoneRTS>
+		<playHardMode>True</playHardMode>
+		<plantScrapsPercent>150.022781</plantScrapsPercent>
 		<depleteChance>100.5</depleteChance>
 		<depleteRecords>
 			<li>
 				<defName>Soil</defName>
-				<mtbDays>12</mtbDays>
-				<rtsFactor>1</rtsFactor>
+				<mtbDays>24.0031261</mtbDays>
+				<rtsFactor>0.991586566</rtsFactor>
 			</li>
 			<li>
 				<defName>SoilRich</defName>
-				<mtbDays>6</mtbDays>
-				<rtsFactor>1</rtsFactor>
+				<mtbDays>12.03125</mtbDays>
+				<rtsFactor>0.902644217</rtsFactor>
 			</li>
 			<li>
 				<defName>DirtFert</defName>
-				<mtbDays>4</mtbDays>
-				<rtsFactor>1</rtsFactor>
+				<mtbDays>8.00625038</mtbDays>
+				<rtsFactor>0.949519217</rtsFactor>
 			</li>
 			<li>
 				<defName>SoilTilled</defName>
-				<mtbDays>10</mtbDays>
-				<rtsFactor>0.5</rtsFactor>
+				<mtbDays>19.9734383</mtbDays>
+				<rtsFactor>0.748798072</rtsFactor>
 			</li>
 		</depleteRecords>
 	</ModSettings>

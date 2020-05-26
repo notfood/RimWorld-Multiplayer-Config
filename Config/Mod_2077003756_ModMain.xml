@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="YC.RealDining.Resource.ModSetting">
+		<moodInfluenceX>0.879999995</moodInfluenceX>
+		<randomLevel>103</randomLevel>
+		<lastFoodInfluenceX>0.400000006</lastFoodInfluenceX>
+		<llastFoodInfluenceX>0.600000024</llastFoodInfluenceX>
+		<eatThreshold>0.25</eatThreshold>
+	</ModSettings>
+</SettingsBlock>

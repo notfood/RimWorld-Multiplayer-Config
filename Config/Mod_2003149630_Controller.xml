@@ -6,5 +6,6 @@
 		<CASTIChance>1</CASTIChance>
 		<CASTIOffset>-150</CASTIOffset>
 		<CACanAddScenario>False</CACanAddScenario>
+		<DoMsgs>False</DoMsgs>
 	</ModSettings>
 </SettingsBlock>
