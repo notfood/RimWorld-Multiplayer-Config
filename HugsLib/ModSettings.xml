@@ -15,9 +15,9 @@
     <CQCAutoSwitch>True</CQCAutoSwitch>
     <RangedCombatAutoSwitch>True</RangedCombatAutoSwitch>
     <LimitModeSingle>Selection</LimitModeSingle>
-    <LimitModeSingle_Selection>MeleeWeapon_Knife|MeleeWeapon_Gladius|Weapon_DepthCharge|Weapon_GrenadeEMP|Weapon_GrenadeFrag|Weapon_GrenadeMolotov|Gun_ServicePistol|Gun_Revolver|MeleeWeapon_Katana|MeleeWeapon_Ikwa|Gun_Autopistol|MeleeWeapon_Mace|Gun_MachinePistol|Gun_UrbanPistol|MeleeWeapon_Axe|Gun_VintageMachinePistol|Gun_GaussPistol|Gun_LargeRevolver|MeleeWeapon_LongSword|MeleeWeapon_Spear|MeleeWeapon_Club|MeleeWeapon_MonoSwordBladelink|MeleeWeapon_ZeusHammerBladelink|MeleeWeapon_PlasmaSwordBladelink|MeleeWeapon_MonoSword|MeleeWeapon_Zeushammer|MeleeWeapon_PlasmaSword|Firebeater|Gun_Fire_Ext|Gun_BoltActionPistol|Gun_PersonalisedBullpupPDW|Gun_CombatPDW|Gun_BullpupPDW|Gun_AkimboMachinePistols|Gun_MatchlockPistol|MeleeWeapon_Warhammer</LimitModeSingle_Selection>
+    <LimitModeSingle_Selection>MeleeWeapon_Knife|MeleeWeapon_Gladius|Weapon_DepthCharge|Weapon_GrenadeEMP|Weapon_GrenadeFrag|Weapon_GrenadeMolotov|Gun_ServicePistol|Gun_Revolver|MeleeWeapon_Katana|MeleeWeapon_Ikwa|Gun_Autopistol|MeleeWeapon_Mace|Gun_MachinePistol|Gun_UrbanPistol|MeleeWeapon_Axe|Gun_VintageMachinePistol|Gun_GaussPistol|Gun_LargeRevolver|MeleeWeapon_LongSword|MeleeWeapon_Spear|MeleeWeapon_Club|MeleeWeapon_MonoSwordBladelink|MeleeWeapon_ZeusHammerBladelink|MeleeWeapon_PlasmaSwordBladelink|MeleeWeapon_MonoSword|MeleeWeapon_Zeushammer|MeleeWeapon_PlasmaSword|Firebeater|Gun_Fire_Ext|Gun_BoltActionPistol|Gun_PersonalisedBullpupPDW|Gun_CombatPDW|Gun_BullpupPDW|Gun_AkimboMachinePistols|Gun_MatchlockPistol|MeleeWeapon_Warhammer|MeleeWeapon_MutaniteKnife|MSMedSupplyFlare|Weapon_GrenadeTF|MeleeWeapon_MutagenicStunStick|MeleeWeapon_MutaniteSpear</LimitModeSingle_Selection>
     <LimitModeAmount>Slots</LimitModeAmount>
-    <LimitModeAmount_Selection>1</LimitModeAmount_Selection>
+    <LimitModeAmount_Selection>4</LimitModeAmount_Selection>
     <LimitModeSingleMelee>Selection</LimitModeSingleMelee>
     <LimitModeSingleMelee_Absolute>1.9</LimitModeSingleMelee_Absolute>
     <LimitModeSingleMelee_Selection>Beer|MeleeWeapon_Gladius|MeleeWeapon_Knife|MeleeWeapon_Katana|MeleeWeapon_Ikwa|MeleeWeapon_Mace|MeleeWeapon_Axe|MeleeWeapon_LongSword|MeleeWeapon_Spear|MeleeWeapon_Club|MeleeWeapon_MonoSwordBladelink|MeleeWeapon_ZeusHammerBladelink|MeleeWeapon_PlasmaSwordBladelink|MeleeWeapon_MonoSword|MeleeWeapon_Zeushammer|MeleeWeapon_PlasmaSword|Firebeater|MeleeWeapon_Warhammer</LimitModeSingleMelee_Selection>
@@ -41,7 +41,10 @@
   </CharacterEditor>
   <Children_and_Pregnancy>
     <pregnancy_disabled>True</pregnancy_disabled>
-    <enable_postpartum>False</enable_postpartum>
+    <accelerated_growth>False</accelerated_growth>
     <cryVolume>0.2</cryVolume>
+    <HumanBodySize>0.6</HumanBodySize>
+    <HumanHeadSize>0.9</HumanHeadSize>
+    <HumanHairSize>0.9</HumanHairSize>
   </Children_and_Pregnancy>
 </settings>
