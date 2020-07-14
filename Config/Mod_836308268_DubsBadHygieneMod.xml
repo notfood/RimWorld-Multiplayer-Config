@@ -53,6 +53,7 @@
 				<li>HygieneRateD</li>
 				<li>BladderRateD</li>
 				<li>ThirstRateD</li>
+				<li>FertilizerLifespan</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -72,6 +73,7 @@
 				<li>3</li>
 				<li>10</li>
 				<li>10</li>
+				<li>5</li>
 				<li>5</li>
 			</values>
 		</ModOptionDefValues>

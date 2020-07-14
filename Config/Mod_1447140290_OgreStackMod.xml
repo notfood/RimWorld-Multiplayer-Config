@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="OgreStack.PersistentData.OgreStackSettings" />
+	<ModSettings Class="OgreStack.PersistentData.OgreStackSettings">
+		<Meal_Value>10</Meal_Value>
+	</ModSettings>
 </SettingsBlock>

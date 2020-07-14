@@ -289,7 +289,7 @@
 			</li>
 			<li>
 				<Name>Vanilla Fishing Expanded</Name>
-				<Color>RGBA(0.670, 0.536, 0.447, 1.000)</Color>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Gloomy Deco</Name>
@@ -585,7 +585,7 @@
 			</li>
 			<li>
 				<Name>Inspiration</Name>
-				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
 			</li>
 			<li>
 				<Name>VGP Garden Drinks</Name>
@@ -653,7 +653,7 @@
 			</li>
 			<li>
 				<Name>RealDining</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Hunters Use Melee!</Name>
@@ -662,6 +662,42 @@
 			<li>
 				<Name>Animals are fun</Name>
 				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Babies and Children</Name>
+				<Color>RGBA(0.893, 0.819, 0.607, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Deep Ore Identifier</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Character Editor</Name>
+				<Color>RGBA(0.437, 0.432, 0.429, 1.000)</Color>
+			</li>
+			<li>
+				<Name>SeedsPlease: All-In-One Megapatch</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>VGP Garden Drinks UF</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Vanilla Cooking Expanded</Name>
+				<Color>RGBA(0.179, 0.450, 0.217, 1.000)</Color>
+			</li>
+			<li>
+				<Name>StuffedDoll[1.0][1.1]</Name>
+				<Color>RGBA(0.670, 0.536, 0.447, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Numbers</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Color Coded Traits</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>

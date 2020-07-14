@@ -82,15 +82,16 @@
     <li>telkir.tmods.morefloors</li>
     <li>syrchalis.universalfermenter</li>
     <li>crustypeanut.rc2.core</li>
-    <li>crustypeanut.rc2.mame</li>
-    <li>dismarzero.vgp.vgpgardendrinks</li>
+    <li>dismarzero.vgp.vgpgardendrinksuf</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>notfood.seedsplease</li>
+    <li>shadow.spaiomegapatch</li>
     <li>saucypigeon.wildcultivation</li>
+    <li>vanillaexpanded.vcooke</li>
     <li>4loris4.morelinkables</li>
     <li>5katz.commschat</li>
-    <li>boe.psychocasts</li>
     <li>babies.and.children</li>
+    <li>boe.psychocasts</li>
     <li>cucumpear.storage</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.dubsrimkit</li>
@@ -104,9 +105,10 @@
     <li>syrchalis.doormats</li>
     <li>tachyonite.pawnmorpherpublic</li>
     <li>vanillaexpanded.vcef</li>
+    <li>solaris.furniturebase</li>
     <li>dalrae.gloomydeco</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
-    <li>solaris.furniturebase</li>
+    <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitches</li>
     <li>supes.powerlogic.core</li>
@@ -121,7 +123,9 @@
     <li>katavrik.crashlanding</li>
     <li>nitrodev.inspiration</li>
     <li>notfood.infused</li>
+    <li>vanillaexpanded.vee</li>
     <li>oblitus.mylittleplanet</li>
+    <li>syrchalis.setupcamp</li>
     <li>222821750.realdining</li>
     <li>avilmask.commonsense</li>
     <li>bar0th.norandomrelations</li>
@@ -152,15 +156,16 @@
     <li>dubwise.dubsmintminimap</li>
     <li>gguake.ui.armorinfo</li>
     <li>gguake.ui.simplesearchbar</li>
+    <li>mehni.numbers</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
     <li>notfood.researchpal</li>
     <li>notfood.yasp</li>
+    <li>raven.colorcodedtraits</li>
     <li>revolus.textilestats</li>
     <li>tammybee.restocknotification</li>
     <li>caesarv6.damageindicators</li>
     <li>jaxe.bubbles</li>
-    <li>edb.preparecarefully</li>
     <li>fluffy.modmanager</li>
     <li>notfood.glue</li>
   </activeMods>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VEE.Settings.VEE_ModSettings">
+		<IceAgeXbaseChance>0.0399999991</IceAgeXbaseChance>
+		<GlobalWarmingXbaseChance>0.0399999991</GlobalWarmingXbaseChance>
+		<PsychicRainXbaseChance>0.0399999991</PsychicRainXbaseChance>
+		<LongNightXbaseChance>0.0399999991</LongNightXbaseChance>
+		<HailStormXbaseChance>0.150000006</HailStormXbaseChance>
+		<MeteoriteShowerXbaseChance>0.400000006</MeteoriteShowerXbaseChance>
+		<AnimalPodCrashXbaseChance>2</AnimalPodCrashXbaseChance>
+		<WandererJoinTraitorXbaseChance>0</WandererJoinTraitorXbaseChance>
+		<SpaceBattleXbaseChance>0</SpaceBattleXbaseChance>
+		<ShuttleCrashXbaseChance>0.5</ShuttleCrashXbaseChance>
+		<EarthquakeXbaseChance>0.300000012</EarthquakeXbaseChance>
+		<CargopodsweaponsXbaseChance>2</CargopodsweaponsXbaseChance>
+		<CargopodsapparelXbaseChance>2</CargopodsapparelXbaseChance>
+		<CaravanAnimalsWanderInXbaseChance>0.800000012</CaravanAnimalsWanderInXbaseChance>
+		<CropSproutXbaseChance>0.349999994</CropSproutXbaseChance>
+		<BattleAnimalsWanderInXbaseChance>0.25</BattleAnimalsWanderInXbaseChance>
+		<DroughtXbaseChance>0.150000006</DroughtXbaseChance>
+		<WildMenWanderInXbaseChance>0</WildMenWanderInXbaseChance>
+		<HuntingPartyXbaseChance>0.449999988</HuntingPartyXbaseChance>
+	</ModSettings>
+</SettingsBlock>
