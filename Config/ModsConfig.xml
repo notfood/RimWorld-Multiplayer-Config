@@ -9,6 +9,7 @@
     <li>rwmt.multiplayercompatibility</li>
     <li>unlimitedhugs.hugslib</li>
     <li>erdelf.humanoidalienraces</li>
+    <li>com.rimworld.nales.reliablearmors</li>
     <li>dninemfive.qualitycooldown</li>
     <li>dubwise.dubsperformanceanalyzer</li>
     <li>erdelf.minifyeverything</li>
@@ -85,8 +86,8 @@
     <li>dismarzero.vgp.vgpgardendrinksuf</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>notfood.seedsplease</li>
-    <li>shadow.spaiomegapatch</li>
     <li>saucypigeon.wildcultivation</li>
+    <li>shadow.spaiomegapatch</li>
     <li>vanillaexpanded.vcooke</li>
     <li>4loris4.morelinkables</li>
     <li>5katz.commschat</li>
@@ -105,9 +106,9 @@
     <li>syrchalis.doormats</li>
     <li>tachyonite.pawnmorpherpublic</li>
     <li>vanillaexpanded.vcef</li>
-    <li>solaris.furniturebase</li>
     <li>dalrae.gloomydeco</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
+    <li>solaris.furniturebase</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitches</li>
@@ -128,34 +129,41 @@
     <li>syrchalis.setupcamp</li>
     <li>222821750.realdining</li>
     <li>avilmask.commonsense</li>
+    <li>avilmask.nonunopinata</li>
     <li>bar0th.norandomrelations</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>consolidatedtraits.kv.rw</li>
+    <li>dingo.grenadefixrearmed</li>
     <li>dninemfive.pepinyourstep</li>
+    <li>falconne.aff</li>
+    <li>fed1splay.pawntargetfix</li>
     <li>gguake.ai.dsfi</li>
     <li>jamaicancastle.shoo</li>
     <li>mehni.pickupandhaul</li>
-    <li>petetimessix.simplesidearms</li>
-    <li>netrve.usemelee</li>
     <li>notfood.morethancapable</li>
     <li>oblitus.animalslogic</li>
     <li>pathavoid.kv.rw</li>
     <li>pelador.firewarden</li>
+    <li>petetimessix.simplesidearms</li>
+    <li>netrve.usemelee</li>
     <li>relaxedotter.moreinspirationtypes</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
     <li>bob.tickspersecond</li>
+    <li>bodlosh.weaponstats</li>
     <li>brrainz.cameraplus</li>
     <li>com.bymarcin.architecticons</li>
     <li>compilatron.powertab</li>
     <li>diddily.poweralerts</li>
     <li>dingo.deeporeidentifier</li>
+    <li>drumad.squaduitweaks</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
     <li>gguake.ui.armorinfo</li>
     <li>gguake.ui.simplesearchbar</li>
+    <li>helldragger.rimworldheatstatistics</li>
     <li>mehni.numbers</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
