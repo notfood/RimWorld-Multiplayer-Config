@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Pawnmorph.PawnmorpherSettings">
-		<transformChance>24.9999981</transformChance>
-		<formerChance>2</formerChance>
-		<partialChance>2.53521132</partialChance>
+		<transformChance>25</transformChance>
+		<formerChance>1.5</formerChance>
+		<partialChance>0</partialChance>
 		<maxMutationThoughts>3</maxMutationThoughts>
 		<logLevel>Error</logLevel>
 	</ModSettings>

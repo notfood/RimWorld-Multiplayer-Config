@@ -17,6 +17,7 @@
 		<item defName="AIPersonaCore" stackLimit="1" />
 		<item defName="TechprofSubpersonaCore" stackLimit="1" />
 		<item defName="InfusedAmplifier" stackLimit="1" />
+		<item defName="Chemfuel" stackLimit="150" />
 	</IndividualItemOverrides>
 
 	<BanItemsFromStackingByCategory>

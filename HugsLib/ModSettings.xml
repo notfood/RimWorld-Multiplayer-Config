@@ -47,4 +47,9 @@
     <HumanHeadSize>0.9</HumanHeadSize>
     <HumanHairSize>0.9</HumanHairSize>
   </Children_and_Pregnancy>
+  <AllowTool>
+    <haulUrgentlyWorktype>False</haulUrgentlyWorktype>
+    <storageSpaceAlert>False</storageSpaceAlert>
+    <showStripMineDesignator>False</showStripMineDesignator>
+  </AllowTool>
 </settings>

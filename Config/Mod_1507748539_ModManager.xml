@@ -657,11 +657,11 @@
 			</li>
 			<li>
 				<Name>Hunters Use Melee!</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Animals are fun</Name>
-				<Color>RGBA(0.850, 0.241, 0.142, 1.000)</Color>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Babies and Children</Name>
@@ -697,6 +697,46 @@
 			</li>
 			<li>
 				<Name>Color Coded Traits</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Reliable Armors</Name>
+				<Color>RGBA(0.785, 0.405, 0.980, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Vanilla Events Expanded</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[SYR] Set Up Camp</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Non uno Pinata</Name>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Grenade Fix: Rearmed</Name>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Avoid Friendly Fire</Name>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
+			</li>
+			<li>
+				<Name>PawnTargetFix</Name>
+				<Color>RGBA(1.000, 0.003, 0.003, 1.000)</Color>
+			</li>
+			<li>
+				<Name>WeaponStats</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Squad UI Tweaks</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>RimWorld - Heat statistics</Name>
 				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
 			</li>
 		</ButtonAttributes>
