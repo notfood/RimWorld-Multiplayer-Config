@@ -17,12 +17,11 @@
 		<WheelDefs>
 			<li>RimWorld.Designator_Deconstruct</li>
 			<li>RimWorld.Designator_Cancel</li>
-			<li>RimWorld.Designator_Forbid</li>
-			<li>RimWorld.Designator_Unforbid</li>
 			<li>RimWorld.Designator_PlantsHarvestWood</li>
 			<li>MoreHarvestDesignators.Designator_PlantsHarvest_Mature</li>
 			<li>RimWorld.Designator_RemoveFloor</li>
 			<li>RimWorld.Designator_Mine</li>
+			<li>AllowTool.Designator_Allow</li>
 		</WheelDefs>
 	</ModSettings>
 </SettingsBlock>

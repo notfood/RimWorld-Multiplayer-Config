@@ -50,6 +50,9 @@
   <AllowTool>
     <haulUrgentlyWorktype>False</haulUrgentlyWorktype>
     <storageSpaceAlert>False</storageSpaceAlert>
+    <showFinishOffDesignator>False</showFinishOffDesignator>
     <showStripMineDesignator>False</showStripMineDesignator>
+    <contextEntry_finishOffAll>False</contextEntry_finishOffAll>
+    <showrevReverseFinishOff>False</showrevReverseFinishOff>
   </AllowTool>
 </settings>
