@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VEE.Settings.VEE_ModSettings">
-		<IceAgeXbaseChance>0.0399999991</IceAgeXbaseChance>
-		<GlobalWarmingXbaseChance>0.0399999991</GlobalWarmingXbaseChance>
+		<IceAgeXbaseChance>0</IceAgeXbaseChance>
+		<GlobalWarmingXbaseChance>0</GlobalWarmingXbaseChance>
 		<PsychicRainXbaseChance>0.0399999991</PsychicRainXbaseChance>
-		<LongNightXbaseChance>0.0399999991</LongNightXbaseChance>
+		<LongNightXbaseChance>0</LongNightXbaseChance>
 		<HailStormXbaseChance>0.150000006</HailStormXbaseChance>
 		<MeteoriteShowerXbaseChance>0.400000006</MeteoriteShowerXbaseChance>
 		<AnimalPodCrashXbaseChance>2</AnimalPodCrashXbaseChance>

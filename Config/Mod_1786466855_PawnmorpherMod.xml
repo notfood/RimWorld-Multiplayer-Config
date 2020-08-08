@@ -6,5 +6,7 @@
 		<partialChance>0.5</partialChance>
 		<maxMutationThoughts>3</maxMutationThoughts>
 		<logLevel>Error</logLevel>
+		<manhunterTfChance>0</manhunterTfChance>
+		<friendlyManhunterTfChance>0</friendlyManhunterTfChance>
 	</ModSettings>
 </SettingsBlock>

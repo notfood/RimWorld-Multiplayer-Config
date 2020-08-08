@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Revolus.AnimalsAreFun.Settings">
+		<MessageInDevMode>False</MessageInDevMode>
+		<MessageAlways>False</MessageAlways>
+		<MinConsciousness>0.6</MinConsciousness>
+		<MinMoving>0.7</MinMoving>
+		<MaxBodySize>1.6</MaxBodySize>
+		<MaxWildness>0.8</MaxWildness>
+		<MustBeCute>True</MustBeCute>
+	</ModSettings>
+</SettingsBlock>

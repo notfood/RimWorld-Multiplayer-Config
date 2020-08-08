@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="MassGraves.Settings">
-		<corpseCapacity>25</corpseCapacity>
+	<ModSettings Class="ConfigurableMaps.Settings.Settings">
+		<overrides />
 	</ModSettings>
 </SettingsBlock>

@@ -4,27 +4,27 @@
 		<newGrowZonesDR>False</newGrowZonesDR>
 		<playHardMode>True</playHardMode>
 		<plantScrapsPercent>150</plantScrapsPercent>
-		<depleteChance>25</depleteChance>
+		<depleteChance>5</depleteChance>
 		<depleteRecords>
 			<li>
 				<defName>Soil</defName>
 				<mtbDays>24</mtbDays>
-				<rtsFactor>0.99000001</rtsFactor>
+				<rtsFactor>1</rtsFactor>
 			</li>
 			<li>
 				<defName>SoilRich</defName>
 				<mtbDays>12</mtbDays>
-				<rtsFactor>0.899999976</rtsFactor>
+				<rtsFactor>1</rtsFactor>
 			</li>
 			<li>
 				<defName>DirtFert</defName>
 				<mtbDays>8</mtbDays>
-				<rtsFactor>0.949999988</rtsFactor>
+				<rtsFactor>1</rtsFactor>
 			</li>
 			<li>
 				<defName>SoilTilled</defName>
 				<mtbDays>20</mtbDays>
-				<rtsFactor>0.75</rtsFactor>
+				<rtsFactor>1</rtsFactor>
 			</li>
 		</depleteRecords>
 	</ModSettings>

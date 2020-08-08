@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.1.2654 rev674</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -134,6 +133,7 @@
     <li>bar0th.norandomrelations</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>consolidatedtraits.kv.rw</li>
+    <li>dhultgren.useminifiedbuildings</li>
     <li>dingo.grenadefixrearmed</li>
     <li>dninemfive.pepinyourstep</li>
     <li>falconne.aff</li>
@@ -142,8 +142,10 @@
     <li>hatti.cleaningarea</li>
     <li>jamaicancastle.shoo</li>
     <li>mehni.pickupandhaul</li>
+    <li>mlie.animalharvestingspot</li>
     <li>notfood.morethancapable</li>
     <li>oblitus.animalslogic</li>
+    <li>orion.hospitality</li>
     <li>pathavoid.kv.rw</li>
     <li>pelador.firewarden</li>
     <li>petetimessix.simplesidearms</li>
@@ -151,7 +153,6 @@
     <li>relaxedotter.moreinspirationtypes</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
-    <li>orion.hospitality</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
     <li>bob.tickspersecond</li>
@@ -160,7 +161,6 @@
     <li>com.bymarcin.architecticons</li>
     <li>compilatron.powertab</li>
     <li>diddily.poweralerts</li>
-    <li>dingo.deeporeidentifier</li>
     <li>drumad.squaduitweaks</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
@@ -178,6 +178,7 @@
     <li>unlimitedhugs.allowtool</li>
     <li>caesarv6.damageindicators</li>
     <li>jaxe.bubbles</li>
+    <li>edb.preparecarefully</li>
     <li>fluffy.modmanager</li>
     <li>notfood.glue</li>
   </activeMods>

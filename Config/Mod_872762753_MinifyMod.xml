@@ -3,6 +3,8 @@
 	<ModSettings Class="MinifyEverything.MinifySettings">
 		<disabledDefList>
 			<li>airPipe</li>
+			<li>AncientConcreteBarrier</li>
+			<li>AnimalHarvestingSpot</li>
 			<li>AnimalSleepingSpot</li>
 			<li>Autodoor</li>
 			<li>Bar</li>
@@ -43,6 +45,8 @@
 			<li>diagonal</li>
 			<li>Dirt_Hill_Left</li>
 			<li>Dirt_Hill_Right</li>
+			<li>Dirt_HillTop_Left</li>
+			<li>Dirt_HillTop_Right</li>
 			<li>Door</li>
 			<li>RGK_Door</li>
 			<li>GL_DoorFrame</li>
@@ -82,13 +86,18 @@
 			<li>Terraform_SoilMarshy-SoilF</li>
 			<li>MassGrave</li>
 			<li>MassGraveAlt</li>
+			<li>MeditationSpot</li>
 			<li>Metal_Cliff_Left</li>
 			<li>Metal_Cliff_Right</li>
+			<li>Metal_CliffTop_Left</li>
+			<li>Metal_CliffTop_Right</li>
+			<li>AnimalMilkingSpot</li>
 			<li>Terraform_Mud-Marsh</li>
 			<li>Terraform_Mud-SoilMarshy</li>
 			<li>Terraform_Mud-Mud</li>
 			<li>Terraform_Mud-RockyDirt</li>
 			<li>Terraform_Mud-SoilF</li>
+			<li>Filth_NapalmTrail</li>
 			<li>OilPipeline</li>
 			<li>OilWell</li>
 			<li>AA_Overgrown_DropPod</li>
@@ -121,7 +130,9 @@
 			<li>Terraform_WaterShallow-RockyDirt</li>
 			<li>Terraform_WaterShallow-Sand</li>
 			<li>Terraform_WaterShallow-SoilF</li>
+			<li>AnimalShearingSpot</li>
 			<li>ELIF_SBorder</li>
+			<li>AnimalSlaughteringSpot</li>
 			<li>SleepingSpot</li>
 			<li>Terraform_SoilF-Marsh</li>
 			<li>Terraform_SoilF-SoilMarshy</li>
@@ -155,6 +166,7 @@
 			<li>Terraform_SoilRich-SoilTilled</li>
 			<li>Terraform_Stone-Topsoil</li>
 			<li>TradingSpot</li>
+			<li>AnimalTrainingSpot</li>
 			<li>GloomyDeco_Tree</li>
 			<li>Vent</li>
 			<li>GL_VentWall</li>
