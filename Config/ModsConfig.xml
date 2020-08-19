@@ -8,10 +8,13 @@
     <li>rwmt.multiplayercompatibility</li>
     <li>unlimitedhugs.hugslib</li>
     <li>erdelf.humanoidalienraces</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>com.rimworld.nales.reliablearmors</li>
+    <li>dhultgren.keepbedownership</li>
     <li>dninemfive.qualitycooldown</li>
     <li>dubwise.dubsperformanceanalyzer</li>
     <li>erdelf.minifyeverything</li>
+    <li>fluffy.areaunlocker</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>hobtook.mortaraccuracy</li>
     <li>jaxe.foodrestrictions</li>
@@ -27,8 +30,6 @@
     <li>smashphil.carrycapacityfixed</li>
     <li>syrchalis.harvestyieldpatch</li>
     <li>xeonovadan.propershotguns</li>
-    <li>fluffy.areaunlocker</li>
-    <li>dhultgren.keepbedownership</li>
     <li>aelanna.eccentricextras.angelhairs</li>
     <li>aelanna.eccentrictech.cosmetics</li>
     <li>ameiro.animehairs</li>
@@ -52,25 +53,17 @@
     <li>shinzy.apparello</li>
     <li>spoonshortage.fashionrimsta</li>
     <li>janson.weapontech11</li>
-    <li>yoseisan.rimcolle</li>
+    <li>kikohi.tamingartifact</li>
+    <li>mlie.fireextinguisher</li>
     <li>vanillaexpanded.vweg</li>
+    <li>yoseisan.rimcolle</li>
     <li>alex.birdup.cockatiel</li>
     <li>daniledman.cyberfauna</li>
     <li>drzhivago.vanillaanimalsoverhaulreloaded</li>
     <li>sarg.alphaanimals</li>
     <li>spincrus.dinosauria</li>
-    <li>frozensnowfox.vanillabionicsexpansion</li>
-    <li>automatic.bionicicons</li>
-    <li>com.prostheticnomissingbodyparts.rimworld.mod</li>
-    <li>darthsergeant.nursejob</li>
-    <li>linq.deathrattle</li>
-    <li>mlie.xndadrenaline</li>
-    <li>pelador.commonailments</li>
-    <li>pelador.drugpolicyfix</li>
-    <li>pelador.drugresponse</li>
-    <li>mlie.medicalsupplements</li>
-    <li>proxyer.desurgeries.desurgeries</li>
-    <li>syrchalis.prosthetictable</li>
+    <li>4loris4.morelinkables</li>
+    <li>cucumpear.storage</li>
     <li>dubwise.dubspaintshop</li>
     <li>elif.flooringanddecorativeoptions</li>
     <li>fantasyfan.decorativecliffs</li>
@@ -82,9 +75,11 @@
     <li>owlchemist.undergroundpowerconduits</li>
     <li>pyrce.mass.graves</li>
     <li>radzerp.wallcorners</li>
+    <li>rimfridge.kv.rw</li>
     <li>ruyan.doors</li>
-    <li>telkir.tmods.morefloors</li>
+    <li>syrchalis.doormats</li>
     <li>syrchalis.universalfermenter</li>
+    <li>telkir.tmods.morefloors</li>
     <li>crustypeanut.rc2.core</li>
     <li>dismarzero.vgp.vgpgardendrinksuf</li>
     <li>jamaicancastle.rf.fertilefields</li>
@@ -92,21 +87,27 @@
     <li>saucypigeon.wildcultivation</li>
     <li>shadow.spaiomegapatch</li>
     <li>vanillaexpanded.vcooke</li>
-    <li>4loris4.morelinkables</li>
+    <li>frozensnowfox.vanillabionicsexpansion</li>
+    <li>automatic.bionicicons</li>
+    <li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+    <li>darthsergeant.nursejob</li>
+    <li>dubwise.dubsrimkit</li>
+    <li>linq.deathrattle</li>
+    <li>mlie.commonailments</li>
+    <li>mlie.drugpolicyfix</li>
+    <li>mlie.drugresponse</li>
+    <li>mlie.medicalsupplements</li>
+    <li>mlie.xndadrenaline</li>
+    <li>proxyer.desurgeries.desurgeries</li>
+    <li>syrchalis.prosthetictable</li>
     <li>5katz.commschat</li>
     <li>babies.and.children</li>
     <li>boe.psychocasts</li>
-    <li>cucumpear.storage</li>
     <li>dubwise.dubsbadhygiene</li>
-    <li>dubwise.dubsrimkit</li>
     <li>dubwise.rimefeller</li>
-    <li>kikohi.tamingartifact</li>
     <li>n7huntsman.ceramics</li>
     <li>notfood.mendandrecycle</li>
-    <li>pelador.fireextinguisher</li>
     <li>proxyer.desurgeries.dbhpatch</li>
-    <li>rimfridge.kv.rw</li>
-    <li>syrchalis.doormats</li>
     <li>tachyonite.pawnmorpherpublic</li>
     <li>vanillaexpanded.vcef</li>
     <li>dalrae.gloomydeco</li>
@@ -119,7 +120,7 @@
     <li>bob.draggablecornerss</li>
     <li>dninemfive.d9framework</li>
     <li>navyseal5.moreharvestdesignators</li>
-    <li>pelador.bestmix</li>
+    <li>mlie.bestmix</li>
     <li>tammybee.cutplantsbeforebuilding</li>
     <li>thewirelord354.conduitdeconstruct</li>
     <li>earthyturtle.letstrade</li>
@@ -150,7 +151,7 @@
     <li>oblitus.animalslogic</li>
     <li>orion.hospitality</li>
     <li>pathavoid.kv.rw</li>
-    <li>pelador.firewarden</li>
+    <li>mlie.firewarden</li>
     <li>petetimessix.simplesidearms</li>
     <li>netrve.usemelee</li>
     <li>relaxedotter.moreinspirationtypes</li>
@@ -183,6 +184,7 @@
     <li>jaxe.bubbles</li>
     <li>edb.preparecarefully</li>
     <li>fluffy.modmanager</li>
+    <li>name.krypt.rimworld.moddiff</li>
     <li>notfood.glue</li>
   </activeMods>
   <knownExpansions>
