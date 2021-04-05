@@ -62,4 +62,8 @@
     <maxGuestGroupSize>8</maxGuestGroupSize>
     <enableRecruitNotification>False</enableRecruitNotification>
   </Hospitality>
+  <codeoptimist.jobsofopportunity>
+    <haulBeforeBill_needsInitForCs>False</haulBeforeBill_needsInitForCs>
+    <haulBeforeBill>False</haulBeforeBill>
+  </codeoptimist.jobsofopportunity>
 </settings>

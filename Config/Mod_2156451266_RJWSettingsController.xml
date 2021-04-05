@@ -10,7 +10,7 @@
 		<option_child_max_weapon_mass>2</option_child_max_weapon_mass>
 		<GestationPeriodDays>45</GestationPeriodDays>
 		<enable_postpartum>True</enable_postpartum>
-		<cryVolume>0.3</cryVolume>
+		<cryVolume>0.300000012</cryVolume>
 		<child_cute_act_enabled>True</child_cute_act_enabled>
 		<human_like_head_enabled>True</human_like_head_enabled>
 		<HumanBodySize>0.713</HumanBodySize>

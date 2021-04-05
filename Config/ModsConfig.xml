@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
+  <version>1.2.2900 rev839</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -115,7 +116,7 @@
     <li>solaris.furniturebase</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
-    <li>merthsoft.timeofdayswitches</li>
+    <li>merthsoft.timeofdayswitch</li>
     <li>supes.powerlogic.core</li>
     <li>bob.draggablecornerss</li>
     <li>dninemfive.d9framework</li>
@@ -123,7 +124,7 @@
     <li>mlie.bestmix</li>
     <li>tammybee.cutplantsbeforebuilding</li>
     <li>thewirelord354.conduitdeconstruct</li>
-    <li>earthyturtle.letstrade</li>
+    <li>zhrocks11.letstrade</li>
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
     <li>nitrodev.inspiration</li>

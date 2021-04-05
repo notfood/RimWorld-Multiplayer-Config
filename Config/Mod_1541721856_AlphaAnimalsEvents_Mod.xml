@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="AlphaBehavioursAndEvents.AlphaAnimalsEvents_Settings">
+		<flagVanillaAnimals>True</flagVanillaAnimals>
 		<flagBlackHiveRaids>True</flagBlackHiveRaids>
 		<flagStalkingLions>True</flagStalkingLions>
 		<flagCactipineDroppods>True</flagCactipineDroppods>
@@ -11,7 +12,11 @@
 		<flagBumbledrones>True</flagBumbledrones>
 		<flagFrostmites>True</flagFrostmites>
 		<flagAsteroid>True</flagAsteroid>
+		<flagAnimalisk>True</flagAnimalisk>
+		<flagMime>True</flagMime>
+		<flagFungalHusk>True</flagFungalHusk>
 		<flagAlphaMechanoids>True</flagAlphaMechanoids>
+		<flagAlphaMechanoidsSappers>True</flagAlphaMechanoidsSappers>
 		<flagHelixienCorpseEffect>True</flagHelixienCorpseEffect>
 		<removeAnimalParticles>True</removeAnimalParticles>
 	</ModSettings>

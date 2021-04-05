@@ -26,5 +26,6 @@
 			<li>MoreHarvestDesignators.Designator_PlantsHarvest_Mature</li>
 			<li>RimWorld.Designator_Mine</li>
 		</WheelDefs>
+		<FBenchTemplates />
 	</ModSettings>
 </SettingsBlock>

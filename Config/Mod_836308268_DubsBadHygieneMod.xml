@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsBadHygiene.Settings">
-		<LastVersion>Dubs Bad Hygiene 2.8.1527</LastVersion>
+		<LastVersion>Dubs Bad Hygiene 2.9.2033</LastVersion>
 		<BladderRace />
 		<BladderBody />
 		<BladderHediff />
 		<HygieneRace />
 		<HygieneBody />
 		<HygieneHediff />
+		<PriorityIndoorCleaning>True</PriorityIndoorCleaning>
 		<RimefellerLink>True</RimefellerLink>
 		<PassiveWaterCoolers>True</PassiveWaterCoolers>
 		<sosLink>False</sosLink>
+		<QualityComps>False</QualityComps>
 		<CoolingEfficiency>False</CoolingEfficiency>
 		<RainIrrigation>False</RainIrrigation>
 		<AllowDrinkPacking>True</AllowDrinkPacking>
@@ -26,8 +28,10 @@
 		<GuestsGetBladder>True</GuestsGetBladder>
 		<GuestsGetHygiene>True</GuestsGetHygiene>
 		<AnimalsGetBladder>False</AnimalsGetBladder>
+		<PetsGetThirst>True</PetsGetThirst>
 		<PetsGetBladder>False</PetsGetBladder>
 		<ThirstNeed>True</ThirstNeed>
+		<LiteMode>False</LiteMode>
 		<AllowNonHuman>True</AllowNonHuman>
 		<FertilizerVisible>True</FertilizerVisible>
 		<OverrideNd>False</OverrideNd>

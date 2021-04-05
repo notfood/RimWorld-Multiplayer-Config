@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HeavyWeapons.HeavyWeaponsSettings">
+		<weaponStates>
+			<keys />
+			<values />
+		</weaponStates>
+		<weaponHPStates>
+			<keys />
+			<values />
+		</weaponHPStates>
+	</ModSettings>
+</SettingsBlock>

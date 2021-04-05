@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FireExt.Settings">
+		<CoolDownValue>2</CoolDownValue>
+		<WarmUpValue>1.5</WarmUpValue>
+		<RangeValue>12</RangeValue>
+		<BurstValue>3</BurstValue>
+		<SpeedValue>30</SpeedValue>
+		<RadiusValue>2.5</RadiusValue>
+		<CleanDmgResist>0.25</CleanDmgResist>
+	</ModSettings>
+</SettingsBlock>
