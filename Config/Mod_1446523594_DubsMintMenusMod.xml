@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsMintMenus.Settings">
+		<OrderBillsAz>True</OrderBillsAz>
 		<HideFinished>True</HideFinished>
 		<LastSavedBuild>746</LastSavedBuild>
 		<BoxSizeX>90</BoxSizeX>

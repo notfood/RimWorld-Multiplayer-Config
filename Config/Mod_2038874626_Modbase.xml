@@ -14,9 +14,40 @@
 			<li>False</li>
 		</allEnabled>
 		<alertfilter>
-			<keys />
-			<values />
+			<keys>
+				<li>RimWorld.Alert_NeedWarmClothes</li>
+				<li>RimWorld.Alert_LowMedicine</li>
+				<li>RimWorld.Alert_NeedMiner</li>
+				<li>RimWorld.Alert_NeedWarden</li>
+				<li>Rimefeller.Alert_ConsoleTab</li>
+				<li>MoreThanCapable.Alert_AssignedAWeapon</li>
+				<li>SimpleSidearms.rimworld.alerts.Alert_MissingSidearm</li>
+				<li>PelFireWarden.Alert_FireWardenLacksFB</li>
+				<li>RimWorld.Alert_BrawlerHasRangedWeapon</li>
+				<li>PelFireWarden.Alert_FireWardenLacksFE</li>
+				<li>RimWorld.Alert_HunterLacksRangedWeapon</li>
+				<li>RimWorld.Alert_TatteredApparel</li>
+				<li>RimWorld.Alert_UnhappyNudity</li>
+				<li>PelFireWarden.Alert_FireWardenIsPyro</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
 		</alertfilter>
+		<overrideAlerts>True</overrideAlerts>
 		<performance.compdeepdrill-isEnabled>True</performance.compdeepdrill-isEnabled>
 		<performance.wallsnconduits-isEnabled>True</performance.wallsnconduits-isEnabled>
 		<performance.roof-isEnabled>True</performance.roof-isEnabled>

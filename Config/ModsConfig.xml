@@ -25,12 +25,12 @@
     <li>notfood.frameratecontrol</li>
     <li>ogre.ogrestack</li>
     <li>owlchemist.bettervanillamasking</li>
-    <li>owlchemist.optimizationmeats</li>
     <li>shotgunfrenzy.prioritytreatment</li>
     <li>showhair.kv.rw</li>
     <li>smashphil.carrycapacityfixed</li>
     <li>syrchalis.harvestyieldpatch</li>
     <li>xeonovadan.propershotguns</li>
+    <li>veh.freelove</li>
     <li>aelanna.eccentricextras.angelhairs</li>
     <li>aelanna.eccentrictech.cosmetics</li>
     <li>ameiro.animehairs</li>
@@ -83,17 +83,19 @@
     <li>telkir.tmods.morefloors</li>
     <li>crustypeanut.rc2.core</li>
     <li>dismarzero.vgp.vgpgardendrinksuf</li>
+    <li>vanillaexpanded.vplantse</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>notfood.seedsplease</li>
     <li>saucypigeon.wildcultivation</li>
     <li>shadow.spaiomegapatch</li>
     <li>vanillaexpanded.vcooke</li>
+    <li>vanillaexpanded.vcookestews</li>
     <li>frozensnowfox.vanillabionicsexpansion</li>
     <li>automatic.bionicicons</li>
     <li>com.prostheticnomissingbodyparts.rimworld.mod</li>
     <li>darthsergeant.nursejob</li>
     <li>dubwise.dubsrimkit</li>
-    <li>linq.deathrattle</li>
+    <li>troopersmith1.deathrattle</li>
     <li>mlie.commonailments</li>
     <li>mlie.drugpolicyfix</li>
     <li>mlie.drugresponse</li>
@@ -102,7 +104,7 @@
     <li>proxyer.desurgeries.desurgeries</li>
     <li>syrchalis.prosthetictable</li>
     <li>5katz.commschat</li>
-    <li>babies.and.children</li>
+    <li>babies.and.children.continued</li>
     <li>boe.psychocasts</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimefeller</li>
@@ -111,6 +113,8 @@
     <li>proxyer.desurgeries.dbhpatch</li>
     <li>tachyonite.pawnmorpherpublic</li>
     <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vbookse</li>
+    <li>twokay.plushies.specific</li>
     <li>dalrae.gloomydeco</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
     <li>solaris.furniturebase</li>
@@ -132,7 +136,8 @@
     <li>vanillaexpanded.vee</li>
     <li>oblitus.mylittleplanet</li>
     <li>syrchalis.setupcamp</li>
-    <li>222821750.realdining</li>
+    <li>cozarkian.varietymattersimproved</li>
+    <li>cozarkian.varietymattersdt</li>
     <li>avilmask.commonsense</li>
     <li>avilmask.nonunopinata</li>
     <li>bar0th.norandomrelations</li>
@@ -158,6 +163,7 @@
     <li>relaxedotter.moreinspirationtypes</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
+    <li>caravanjourneyspot.leeh</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
     <li>bob.tickspersecond</li>
@@ -175,7 +181,7 @@
     <li>mehni.numbers</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
-    <li>notfood.researchpal</li>
+    <li>vinalx.researchpalforked</li>
     <li>notfood.yasp</li>
     <li>raven.colorcodedtraits</li>
     <li>revolus.textilestats</li>

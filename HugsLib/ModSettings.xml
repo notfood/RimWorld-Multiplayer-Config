@@ -50,7 +50,10 @@
     <HumanHairSize>0.9</HumanHairSize>
   </Children_and_Pregnancy>
   <AllowTool>
-    <finishOffWorktype>True</finishOffWorktype>
+    <haulUrgentlyWorktype>False</haulUrgentlyWorktype>
+    <extendedContextActionKey>False</extendedContextActionKey>
+    <finishOffUnforbids>False</finishOffUnforbids>
+    <partyHunt>False</partyHunt>
     <storageSpaceAlert>False</storageSpaceAlert>
     <showFinishOffDesignator>False</showFinishOffDesignator>
     <showStripMineDesignator>False</showStripMineDesignator>

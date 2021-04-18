@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VarietyMattersDT.ModSettings_VMDT">
+		<foodsWithoutTable>True</foodsWithoutTable>
+		<memorableLavish>True</memorableLavish>
+		<cookingQuality>True</cookingQuality>
+		<warmMeals>True</warmMeals>
+		<leftoverMeals>True</leftoverMeals>
+		<frozenMeals>True</frozenMeals>
+		<freshUpdate>1</freshUpdate>
+	</ModSettings>
+</SettingsBlock>

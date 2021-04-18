@@ -13,11 +13,11 @@
 		<flagFrostmites>True</flagFrostmites>
 		<flagAsteroid>True</flagAsteroid>
 		<flagAnimalisk>True</flagAnimalisk>
-		<flagMime>True</flagMime>
+		<flagMime>False</flagMime>
 		<flagFungalHusk>True</flagFungalHusk>
 		<flagAlphaMechanoids>True</flagAlphaMechanoids>
 		<flagAlphaMechanoidsSappers>True</flagAlphaMechanoidsSappers>
-		<flagHelixienCorpseEffect>True</flagHelixienCorpseEffect>
-		<removeAnimalParticles>True</removeAnimalParticles>
+		<flagHelixienCorpseEffect>False</flagHelixienCorpseEffect>
+		<removeAnimalParticles>False</removeAnimalParticles>
 	</ModSettings>
 </SettingsBlock>
