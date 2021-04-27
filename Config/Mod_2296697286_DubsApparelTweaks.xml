@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QuickFast.Settings">
+		<hairMeshScale>1.10000002</hairMeshScale>
+		<ChangeEquipSpeed>True</ChangeEquipSpeed>
+		<ShowHairUnderHats>True</ShowHairUnderHats>
+		<FlatRate>True</FlatRate>
+		<HatsIndoors>True</HatsIndoors>
+		<HatsSleeping>True</HatsSleeping>
+		<EquipModPC>0.200000003</EquipModPC>
+		<hairFilter />
+		<hatFilter />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GrazeUp.GrazeUpSettings">
+		<grazeInSnow>True</grazeInSnow>
+		<lifespanScalar>1</lifespanScalar>
+		<lifespanFloor>0</lifespanFloor>
+		<nutritionScalar>1</nutritionScalar>
+		<nutritionRegrowBonus>2.5</nutritionRegrowBonus>
+		<nutritionDestroyBonus>0.5</nutritionDestroyBonus>
+		<destructiveGrazers>
+			<li>Alphabeaver</li>
+		</destructiveGrazers>
+	</ModSettings>
+</SettingsBlock>

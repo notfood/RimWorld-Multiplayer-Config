@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="ShowHair.Settings">
-		<HairToHide />
-		<HatsThatHide />
-		<ShowHatsOnlyWhenDrafted>True</ShowHatsOnlyWhenDrafted>
-	</ModSettings>
-</SettingsBlock>
