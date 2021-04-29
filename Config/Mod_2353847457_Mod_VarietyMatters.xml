@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VarietyMatters.ModSettings_VarietyMatters">
+		<maxVariety>True</maxVariety>
+		<extremelyLowVariety>1</extremelyLowVariety>
+		<veryLowVariety>2</veryLowVariety>
+		<lowVariety>3</lowVariety>
+		<moderateVariety>4</moderateVariety>
+		<highVariety>5</highVariety>
+		<skyHighVariety>6</skyHighVariety>
+		<nobleVariety>7</nobleVariety>
+		<numIngredients>4</numIngredients>
 		<preferVariety>False</preferVariety>
 		<preferSpoiling>False</preferSpoiling>
 		<raceVariety>

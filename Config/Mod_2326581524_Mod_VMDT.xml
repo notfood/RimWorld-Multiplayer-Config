@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VarietyMattersDT.ModSettings_VMDT">
+		<foodPos>0</foodPos>
 		<foodsWithoutTable>True</foodsWithoutTable>
 		<memorableLavish>True</memorableLavish>
 		<cookingQuality>True</cookingQuality>
 		<warmMeals>True</warmMeals>
 		<leftoverMeals>True</leftoverMeals>
 		<frozenMeals>True</frozenMeals>
+		<warmHours>20</warmHours>
+		<leftoverHours>40</leftoverHours>
+		<refrigMulti>2</refrigMulti>
+		<minFreshTemp>60</minFreshTemp>
 		<freshUpdate>1</freshUpdate>
 	</ModSettings>
 </SettingsBlock>
