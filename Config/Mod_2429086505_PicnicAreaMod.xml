@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PicnicArea.PicnicAreaSettings">
+		<TemperatureRange>5~35</TemperatureRange>
+	</ModSettings>
+</SettingsBlock>

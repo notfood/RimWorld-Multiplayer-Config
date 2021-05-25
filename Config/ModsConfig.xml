@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.2.2900 rev839</version>
+  <version>1.2.3005 rev1194</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>notfood.fixes.forpenguins</li>
@@ -101,6 +101,7 @@
     <li>mlie.drugpolicyfix</li>
     <li>mlie.drugresponse</li>
     <li>mlie.medicalsupplements</li>
+    <li>mlie.newlimbsneedstraining</li>
     <li>mlie.xndadrenaline</li>
     <li>neceros.animalmedicalbed</li>
     <li>proxyer.desurgeries.desurgeries</li>
@@ -149,7 +150,6 @@
     <li>codeoptimist.jobsofopportunity</li>
     <li>consolidatedtraits.kv.rw</li>
     <li>cozarkian.varietymattersdt</li>
-    <li>cozarkian.varietymattersimproved</li>
     <li>dhultgren.useminifiedbuildings</li>
     <li>dingo.grenadefixrearmed</li>
     <li>dninemfive.pepinyourstep</li>
@@ -163,6 +163,7 @@
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.firewarden</li>
+    <li>mlie.picnicarea</li>
     <li>petetimessix.simplesidearms</li>
     <li>netrve.usemelee</li>
     <li>notfood.morethancapable</li>
@@ -172,6 +173,7 @@
     <li>relaxedotter.moreinspirationtypes</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
+    <li>weilbyte.snapout</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
     <li>bob.tickspersecond</li>
@@ -190,6 +192,7 @@
     <li>helldragger.rimworldheatstatistics</li>
     <li>mehni.numbers</li>
     <li>mlie.banishanimals</li>
+    <li>mlie.flickablestorage</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SnapOut.SOSettings">
+		<NegotiationCap>165</NegotiationCap>
+		<BaseValue>-25</BaseValue>
+		<StunWeight>0.550000012</StunWeight>
+		<NegMult>50</NegMult>
+		<OpnMult>30</OpnMult>
+	</ModSettings>
+</SettingsBlock>
