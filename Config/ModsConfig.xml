@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.2.3005 rev1194</version>
+  <version>1.2.3005 rev1190</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>notfood.fixes.forpenguins</li>
@@ -18,6 +18,7 @@
     <li>dubwise.dubsperformanceanalyzer</li>
     <li>erdelf.minifyeverything</li>
     <li>fluffy.areaunlocker</li>
+    <li>crlsniper.realisticrooms</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>hobtook.mortaraccuracy</li>
     <li>jaxe.foodrestrictions</li>
@@ -63,6 +64,7 @@
     <li>alex.birdup.cockatiel</li>
     <li>daniledman.cyberfauna</li>
     <li>drzhivago.vanillaanimalsoverhaulreloaded</li>
+    <li>tachyonite.pawnmorpherpublic</li>
     <li>sarg.alphaanimals</li>
     <li>spincrus.dinosauria</li>
     <li>4loris4.morelinkables</li>
@@ -117,7 +119,6 @@
     <li>n7huntsman.ceramics</li>
     <li>notfood.mendandrecycle</li>
     <li>proxyer.desurgeries.dbhpatch</li>
-    <li>tachyonite.pawnmorpherpublic</li>
     <li>twokay.plushies.specific</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vcef</li>
@@ -125,6 +126,8 @@
     <li>dalrae.gloomydeco</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
     <li>solaris.furniturebase</li>
+    <li>vanillaexpanded.vfecore</li>
+    <li>vanillaexpanded.vfemedical</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitch</li>
@@ -160,6 +163,7 @@
     <li>jamaicancastle.shoo</li>
     <li>kittahkhan.grazeup</li>
     <li>linkolas.stabilize</li>
+    <li>haplo.miscellaneous.robots</li>
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.firewarden</li>
@@ -200,16 +204,98 @@
     <li>revolus.textilestats</li>
     <li>tammybee.restocknotification</li>
     <li>ubergarm.kanbanstockpile</li>
-    <li>unlimitedhugs.allowtool</li>
     <li>vinalx.researchpalforked</li>
     <li>caesarv6.damageindicators</li>
     <li>jaxe.bubbles</li>
-    <li>edb.preparecarefully</li>
     <li>fluffy.modmanager</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>name.krypt.rimworld.moddiff</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>
     <li>notfood.glue</li>
+    <li>aoba.tent</li>
+    <li>targetdrone.catsareclevertoo</li>
+    <li>kikohi.cybernetic</li>
+    <li>nanonator102.farmableneutroamine</li>
+    <li>fluffy.fluffybreakdowns</li>
+    <li>fluffy.followme</li>
+    <li>gt.sam.furnace</li>
+    <li>sarg.geneticrim</li>
+    <li>telefonmast.graphicssettings</li>
+    <li>falconne.heatmap</li>
+    <li>automatic.highqualitytextures</li>
+    <li>horo.mechaniteforge.11</li>
+    <li>leion247658.miscvhcraftablehrobots</li>
+    <li>gloriousyuri.mcrretexture</li>
+    <li>alaestor.miscrobots.plusplus</li>
+    <li>lingluo.planthuman</li>
+    <li>legodude17.qualcolor</li>
+    <li>ogliss.thewhitecrayon.quarry</li>
+    <li>brrainz.rangefinder</li>
+    <li>dubwise.rimatomics</li>
+    <li>roolo.runandgun</li>
+    <li>vanillaexpanded.vaeas</li>
+    <li>vanillaexpanded.vaeau</li>
+    <li>vanillaexpanded.vaebf</li>
+    <li>vanillaexpanded.vaecd</li>
+    <li>vanillaexpanded.vaed</li>
+    <li>vanillaexpanded.vaeed</li>
+    <li>vanillaexpanded.vaeis</li>
+    <li>vanillaexpanded.vaetr</li>
+    <li>vanillaexpanded.vaets</li>
+    <li>vanillaexpanded.vaet</li>
+    <li>vanillaexpanded.vappe</li>
+    <li>vanillaexpanded.varme</li>
+    <li>vanillaexpanded.vbrewe</li>
+    <li>oskarpotocki.vfe.insectoid</li>
+    <li>vanillaexpanded.vwe</li>
+    <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+    <li>vanillaexpanded.vfeart</li>
+    <li>vanillaexpanded.vfefarming</li>
+    <li>vanillaexpanded.vfeproduction</li>
+    <li>vanillaexpanded.vfepropsanddecor</li>
+    <li>vanillaexpanded.vfesecurity</li>
+    <li>vanillaexpanded.vtexgr</li>
+    <li>vanillaexpanded.vanillatraitsexpanded</li>
+    <li>vanillaexpanded.vwec</li>
+    <li>vanillaexpanded.vwel</li>
+    <li>vanillaexpanded.vweq</li>
+    <li>odeum.wmbp</li>
+    <li>tammybee.whereismyweapon</li>
+    <li>uuugggg.whatismypurpose</li>
+    <li>murmur.walllight</li>
+    <li>roolo.searchanddestroy</li>
+    <li>vanillaexpanded.vtexe</li>
+    <li>baalevan.turrethunt</li>
+    <li>vanillaexpanded.vbrewecandt</li>
+    <li>indeed.stackxxl</li>
+    <li>uuugggg.smartmedicine</li>
+    <li>jaxe.rimhud</li>
+    <li>rupal.rimpymodmanagerdatabase</li>
+    <li>notfood.researchpal</li>
+    <li>uuugggg.replacestuff</li>
+    <li>neceros.reinforcedwalls</li>
+    <li>hatti.qualitybuilder</li>
+    <li>fluffy.pharmacist</li>
+    <li>spesscarp.massstorage</li>
+    <li>taveron.increasedstack</li>
+    <li>smuffle.harvestorganspostmortem</li>
+    <li>unlimitedhugs.defensivepositions</li>
+    <li>porquenolosdos.colorcodedmoodbar</li>
+    <li>pinochemicali.cheapercomponents</li>
+    <li>unlimitedhugs.allowtool</li>
+    <li>brrainz.achtung</li>
+    <li>murmur.tcu</li>
+    <li>uuugggg.sharetheload</li>
+    <li>paradox.morevanillaturrets</li>
+    <li>zylle.morevanillabiomes</li>
+    <li>captainmuscles.prioritizeresearch</li>
+    <li>aoba.fortress.neolithic</li>
+    <li>captainmuscles.gotosleep</li>
+    <li>derekbickley.legacyterrainoverhaulfinal</li>
+    <li>aoba.fortress.medieval</li>
+    <li>aoba.fortress.medieval.material</li>
+    <li>aoba.fortress.medieval.misc</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

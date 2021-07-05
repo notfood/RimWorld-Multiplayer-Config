@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MapDesigner.MapDesignerSettings">
+		<hillAmount>1</hillAmount>
+		<hillSize>0.0209999997</hillSize>
+		<hillSmoothness>2</hillSmoothness>
+		<hillRadialAmt>1</hillRadialAmt>
+		<hillRadialSize>0.649999976</hillRadialSize>
+		<hillSplitAmt>1.5</hillSplitAmt>
+		<hillSplitDir>90</hillSplitDir>
+		<hillSplitSize>0.349999994</hillSplitSize>
+		<hillSideAmt>1</hillSideAmt>
+		<hillSideDir>180</hillSideDir>
+		<densityPlant>1</densityPlant>
+		<densityAnimal>1</densityAnimal>
+		<densityRuins>1</densityRuins>
+		<densityDanger>1</densityDanger>
+		<densityGeyser>1</densityGeyser>
+		<densityOre>1</densityOre>
+		<animaCount>1</animaCount>
+		<allowedRocks>
+			<keys>
+				<li>Sandstone</li>
+				<li>Granite</li>
+				<li>Limestone</li>
+				<li>Slate</li>
+				<li>Marble</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</allowedRocks>
+		<sizeRiver>1</sizeRiver>
+		<riverBeachSize>10</riverBeachSize>
+		<riverDir>180</riverDir>
+		<riverPctSouth>0</riverPctSouth>
+		<riverPctEast>0</riverPctEast>
+		<terrainFert>1</terrainFert>
+		<terrainWater>1</terrainWater>
+		<priIslandSize>40</priIslandSize>
+		<priBeachSize>5</priBeachSize>
+		<lakeSize>0.200000003</lakeSize>
+		<lakeBeachSize>10</lakeBeachSize>
+		<lakeRoundness>1.5</lakeRoundness>
+		<lakeDepth>0.5</lakeDepth>
+	</ModSettings>
+</SettingsBlock>

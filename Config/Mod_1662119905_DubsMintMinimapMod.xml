@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMinimap.Settings">
+		<Animals>
+			<show>True</show>
+			<col>RGBA(0.000, 1.000, 0.000, 1.000)</col>
+		</Animals>
+		<Colonist>
+			<show>True</show>
+			<col>RGBA(0.000, 1.000, 1.000, 1.000)</col>
+		</Colonist>
+		<Prisoner>
+			<show>True</show>
+			<col>RGBA(1.000, 0.922, 0.016, 1.000)</col>
+		</Prisoner>
+		<Friendly>
+			<show>True</show>
+			<col>RGBA(0.000, 0.000, 1.000, 1.000)</col>
+		</Friendly>
+		<ColonyAnimals>
+			<show>True</show>
+			<col>RGBA(0.000, 1.000, 0.000, 1.000)</col>
+		</ColonyAnimals>
+		<Hostiles>
+			<show>True</show>
+			<col>RGBA(1.000, 0.000, 0.000, 1.000)</col>
+		</Hostiles>
+		<ShowCorpses>True</ShowCorpses>
+		<multi21>200</multi21>
+		<LastVersion>Dubs Mint Minimap 1.3.754</LastVersion>
+	</ModSettings>
+</SettingsBlock>

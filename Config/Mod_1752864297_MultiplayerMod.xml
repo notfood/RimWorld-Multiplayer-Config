@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>EvIL</username>
+		<serverSettings />
+	</ModSettings>
+</SettingsBlock>

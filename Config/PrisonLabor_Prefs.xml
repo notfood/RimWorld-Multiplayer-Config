@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrisonLaborPrefsData>
+  <defaultInteraction>PrisonLabor_workOption</defaultInteraction>
+  <allowed_works>Firefighter;Patient;PatientBedRest;Cooking;Growing;Mining;PlantCutting;Tailoring;Art;Crafting;Hauling;Cleaning;VBE_Writing;FSFRearming;FSFRefueling;FSFButcher;FSFBrewing;FSFHarvesting;FSFDrilling;FSFDrugs;FSFRefining;FSFSmelt;FSFStoneCut;FSFLoading;FSFCremating;FSFDeliver;FSFScan;</allowed_works>
+  <allow_all_worktypes>False</allow_all_worktypes>
+  <advanced_growing>False</advanced_growing>
+  <enable_motivation_mechanics>False</enable_motivation_mechanics>
+  <enable_motivation_icons>False</enable_motivation_icons>
+  <enable_revolts>False</enable_revolts>
+  <show_treatment_happiness>False</show_treatment_happiness>
+  <enable_suicide>False</enable_suicide>
+  <enable_full_heal_rest>True</enable_full_heal_rest>
+  <enable_debug_logging>False</enable_debug_logging>
+  <last_version>v1_2_3</last_version>
+  <show_news>True</show_news>
+  <enable_reports>False</enable_reports>
+  <tutorials_flags>None</tutorials_flags>
+  <version>v1_2_3</version>
+</PrisonLaborPrefsData>

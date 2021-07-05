@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ChangeDresser.Settings">
+		<ChangeDresser.ShowDresserButtonForPawns>True</ChangeDresser.ShowDresserButtonForPawns>
+		<ChangeDresser.ShowGenderAgeChange>False</ChangeDresser.ShowGenderAgeChange>
+		<ChangeDresser.ShowBodyChange>False</ChangeDresser.ShowBodyChange>
+		<ChangeDresser.PersistApparelOriginalColor>True</ChangeDresser.PersistApparelOriginalColor>
+		<ChangeDresser.MendingAttachmentUpdateInterval>5</ChangeDresser.MendingAttachmentUpdateInterval>
+	</ModSettings>
+</SettingsBlock>

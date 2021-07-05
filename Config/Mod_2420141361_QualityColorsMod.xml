@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QualityColors.ColorSettings">
+		<colors>
+			<keys>
+				<li>Awful</li>
+				<li>Poor</li>
+				<li>Normal</li>
+				<li>Good</li>
+				<li>Excellent</li>
+				<li>Masterwork</li>
+				<li>Legendary</li>
+			</keys>
+			<values>
+				<li>RGBA(1.000, 0.000, 0.000, 1.000)</li>
+				<li>RGBA(0.621, 0.402, 0.000, 1.000)</li>
+				<li>RGBA(1.000, 1.000, 1.000, 1.000)</li>
+				<li>RGBA(0.000, 1.000, 0.000, 1.000)</li>
+				<li>RGBA(0.000, 0.000, 1.000, 1.000)</li>
+				<li>RGBA(0.695, 0.516, 0.742, 1.000)</li>
+				<li>RGBA(1.000, 0.922, 0.016, 1.000)</li>
+			</values>
+		</colors>
+	</ModSettings>
+</SettingsBlock>

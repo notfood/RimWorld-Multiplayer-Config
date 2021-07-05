@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrefsData>
+  <volumeGame>0</volumeGame>
+  <volumeMusic>0</volumeMusic>
+  <volumeAmbient>0</volumeAmbient>
+  <screenWidth>0</screenWidth>
+  <screenHeight>0</screenHeight>
+  <fullscreen>False</fullscreen>
+  <uiScale>1.5</uiScale>
+  <customCursorEnabled>True</customCursorEnabled>
+  <hatsOnlyOnMap>False</hatsOnlyOnMap>
+  <plantWindSway>True</plantWindSway>
+  <showRealtimeClock>False</showRealtimeClock>
+  <animalNameMode>None</animalNameMode>
+  <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
+  <adaptiveTrainingEnabled>True</adaptiveTrainingEnabled>
+  <preferredNames />
+  <resourceReadoutCategorized>False</resourceReadoutCategorized>
+  <runInBackground>False</runInBackground>
+  <edgeScreenScroll>True</edgeScreenScroll>
+  <temperatureMode>Celsius</temperatureMode>
+  <autosaveIntervalDays>1</autosaveIntervalDays>
+  <testMapSizes>False</testMapSizes>
+  <maxNumberOfPlayerSettlements>1</maxNumberOfPlayerSettlements>
+  <pauseOnLoad>False</pauseOnLoad>
+  <automaticPauseMode>MajorThreat</automaticPauseMode>
+  <mapDragSensitivity>1.3</mapDragSensitivity>
+  <devMode>False</devMode>
+  <langFolderName>English</langFolderName>
+  <logVerbose>False</logVerbose>
+  <pauseOnError>False</pauseOnError>
+  <resetModsConfigOnCrash>True</resetModsConfigOnCrash>
+  <simulateNotOwningRoyalty>False</simulateNotOwningRoyalty>
+</PrefsData>

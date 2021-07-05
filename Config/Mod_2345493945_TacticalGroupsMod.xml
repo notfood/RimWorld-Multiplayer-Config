@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayFood>True</DisplayFood>
+		<DisplayHealth>True</DisplayHealth>
+		<DisplayWeapons>True</DisplayWeapons>
+		<DisplayColorBars>True</DisplayColorBars>
+		<DisableLabelBackground>True</DisableLabelBackground>
+		<WeaponPlacementOffset>43</WeaponPlacementOffset>
+		<MarginTop>21.2643681</MarginTop>
+		<ColonistBarPositionX>-31.1724129</ColonistBarPositionX>
+		<ColonistBarSpacing>25.1724129</ColonistBarSpacing>
+		<PawnScale>1.04310358</PawnScale>
+		<GroupScale>1</GroupScale>
+		<PawnNeedsWidth>14</PawnNeedsWidth>
+		<WeaponShowMode>Always</WeaponShowMode>
+		<AllGroupPresetsSaveable IsNull="True" />
+	</ModSettings>
+</SettingsBlock>

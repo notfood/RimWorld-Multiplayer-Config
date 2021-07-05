@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Fluffy_Breakdowns.Settings">
+		<threshold>0.699999988</threshold>
+		<componentLifetime>1</componentLifetime>
+		<notUsedFactor>0.333333343</notUsedFactor>
+	</ModSettings>
+</SettingsBlock>
