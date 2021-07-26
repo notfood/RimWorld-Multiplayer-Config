@@ -1,39 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.2.3005 rev1194</version>
   <activeMods>
     <li>brrainz.harmony</li>
-    <li>notfood.fixes.forpenguins</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ccl.patchoperation.highlander</li>
     <li>rwmt.multiplayer</li>
     <li>rwmt.multiplayercompatibility</li>
     <li>unlimitedhugs.hugslib</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>syrchalis.universalfermenter</li>
     <li>erdelf.humanoidalienraces</li>
-    <li>com.rimworld.nales.reliablearmors</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>dhultgren.keepbedownership</li>
     <li>dninemfive.qualitycooldown</li>
     <li>dubwise.dubsappareltweaks</li>
     <li>dubwise.dubsperformanceanalyzer</li>
     <li>erdelf.minifyeverything</li>
-    <li>fluffy.areaunlocker</li>
+    <li>fed1splay.pawntargetfix</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>hobtook.mortaraccuracy</li>
-    <li>jaxe.foodrestrictions</li>
+    <li>jp.adjacentlight</li>
     <li>moretraitslots.kv.rw</li>
-    <li>neceros.badcanbegood</li>
-    <li>neceros.roomsizetolerance</li>
+    <li>nercury.assignanimalfood</li>
     <li>notfood.frameratecontrol</li>
     <li>ogre.ogrestack</li>
     <li>owlchemist.bettervanillamasking</li>
     <li>shotgunfrenzy.prioritytreatment</li>
-    <li>smashphil.carrycapacityfixed</li>
-    <li>syrchalis.harvestyieldpatch</li>
-    <li>veh.freelove</li>
-    <li>xeonovadan.propershotguns</li>
     <li>aelanna.eccentricextras.angelhairs</li>
-    <li>aelanna.eccentrictech.cosmetics</li>
     <li>ameiro.animehairs</li>
     <li>cp.chicken.mitchell.hairstyles</li>
     <li>edge.varietyhair</li>
@@ -47,31 +41,33 @@
     <li>sakama.roppoihair</li>
     <li>spoonshortage.spoonshairmod</li>
     <li>uru.keomono.friends.hair</li>
+    <li>va1.phoshair</li>
     <li>vanya.agent.lolidrophairshop</li>
     <li>won.hair</li>
     <li>won2.hair</li>
     <li>handandfootwear.kv.rw</li>
     <li>mlie.mercerbackpacks</li>
-    <li>shinzy.apparello</li>
     <li>spoonshortage.fashionrimsta</li>
-    <li>janson.weapontech11</li>
+    <li>com.yayo.combat3</li>
+    <li>janson.weapontech</li>
     <li>kikohi.tamingartifact</li>
     <li>mlie.fireextinguisher</li>
+    <li>shinzy.apparello</li>
+    <li>simmin.powertools</li>
+    <li>tyrannical_elmo.industrialmelee</li>
     <li>vanillaexpanded.vweg</li>
     <li>yoseisan.rimcolle</li>
     <li>acpteam.acpvanillastyle</li>
     <li>alex.birdup.cockatiel</li>
-    <li>daniledman.cyberfauna</li>
-    <li>drzhivago.vanillaanimalsoverhaulreloaded</li>
     <li>sarg.alphaanimals</li>
     <li>spincrus.dinosauria</li>
     <li>4loris4.morelinkables</li>
     <li>cucumpear.storage</li>
     <li>dubwise.dubspaintshop</li>
     <li>elif.flooringanddecorativeoptions</li>
-    <li>fantasyfan.decorativecliffs</li>
-    <li>fluffy.stuffedfloors</li>
     <li>lat.veedeco</li>
+    <li>mlie.decorativecliffs</li>
+    <li>mlie.eggincubator</li>
     <li>mlie.sdchickennest</li>
     <li>neceros.ceilinglightsvanillaedition</li>
     <li>nif.vanillafencestab</li>
@@ -80,21 +76,17 @@
     <li>radzerp.wallcorners</li>
     <li>rimfridge.kv.rw</li>
     <li>ruyan.doors</li>
-    <li>syrchalis.doormats</li>
-    <li>syrchalis.universalfermenter</li>
+    <li>solaris.furniturebase</li>
     <li>telkir.tmods.morefloors</li>
+    <li>ucp.tabletopdecorations</li>
     <li>crustypeanut.rc2.core</li>
-    <li>dismarzero.vgp.vgpgardendrinksuf</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>notfood.seedsplease</li>
-    <li>saucypigeon.wildcultivation</li>
-    <li>shadow.spaiomegapatch</li>
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>vanillaexpanded.vplantse</li>
-    <li>frozensnowfox.vanillabionicsexpansion</li>
     <li>automatic.bionicicons</li>
-    <li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+    <li>daniledman.cyberfauna</li>
     <li>darthsergeant.nursejob</li>
     <li>dubwise.dubsrimkit</li>
     <li>mlie.commonailments</li>
@@ -102,116 +94,101 @@
     <li>mlie.drugresponse</li>
     <li>mlie.medicalsupplements</li>
     <li>mlie.newlimbsneedstraining</li>
-    <li>mlie.xndadrenaline</li>
-    <li>neceros.animalmedicalbed</li>
     <li>proxyer.desurgeries.desurgeries</li>
-    <li>syrchalis.prosthetictable</li>
-    <li>troopersmith1.deathrattle</li>
     <li>azuraal.choiceofpsycasts</li>
-    <li>boe.psychocasts</li>
-    <li>gariba.icypinhole</li>
+    <li>mlie.xndadrenaline</li>
+    <li>noodlesking.morepsycasts</li>
     <li>5katz.commschat</li>
-    <li>babies.and.children.continued</li>
+    <li>aelanna.eccentrictech.core</li>
+    <li>aelanna.eccentrictech.cosmetics2</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimefeller</li>
-    <li>n7huntsman.ceramics</li>
     <li>notfood.mendandrecycle</li>
     <li>proxyer.desurgeries.dbhpatch</li>
-    <li>tachyonite.pawnmorpherpublic</li>
+    <li>thepatchworkhoax.meleepsycasts</li>
+    <li>troopersmith1.deathrattle</li>
     <li>twokay.plushies.specific</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vcef</li>
     <li>vanillaexpanded.vcefaddon</li>
-    <li>dalrae.gloomydeco</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
-    <li>solaris.furniturebase</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitch</li>
     <li>supes.powerlogic.core</li>
     <li>bob.draggablecornerss</li>
-    <li>dninemfive.d9framework</li>
     <li>mlie.bestmix</li>
-    <li>navyseal5.moreharvestdesignators</li>
     <li>tammybee.cutplantsbeforebuilding</li>
-    <li>thewirelord354.conduitdeconstruct</li>
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
-    <li>nitrodev.inspiration</li>
     <li>notfood.infused</li>
+    <li>sr.modrimworld.raidextension</li>
+    <li>sr.modrimworldtouchcat</li>
     <li>vanillaexpanded.vee</li>
     <li>zhrocks11.letstrade</li>
+    <li>laast.worldmapenhanced</li>
     <li>oblitus.mylittleplanet</li>
-    <li>syrchalis.setupcamp</li>
     <li>avilmask.commonsense</li>
     <li>avilmask.nonunopinata</li>
-    <li>bar0th.norandomrelations</li>
+    <li>captainmuscles.grabyourtool</li>
     <li>caravanjourneyspot.leeh</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>consolidatedtraits.kv.rw</li>
-    <li>cozarkian.varietymattersdt</li>
     <li>dhultgren.useminifiedbuildings</li>
-    <li>dingo.grenadefixrearmed</li>
     <li>dninemfive.pepinyourstep</li>
-    <li>falconne.aff</li>
-    <li>fed1splay.pawntargetfix</li>
     <li>gguake.ai.dsfi</li>
     <li>hatti.cleaningarea</li>
     <li>jamaicancastle.shoo</li>
     <li>kittahkhan.grazeup</li>
-    <li>linkolas.stabilize</li>
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.firewarden</li>
     <li>mlie.picnicarea</li>
-    <li>petetimessix.simplesidearms</li>
+    <li>mlie.zonetoschedule</li>
     <li>netrve.usemelee</li>
     <li>notfood.morethancapable</li>
     <li>oblitus.animalslogic</li>
     <li>orion.hospitality</li>
     <li>pathavoid.kv.rw</li>
-    <li>relaxedotter.moreinspirationtypes</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
     <li>weilbyte.snapout</li>
+    <li>arl85.ruinedbytemperaturefilter</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
     <li>bob.tickspersecond</li>
     <li>bodlosh.weaponstats</li>
     <li>brrainz.cameraplus</li>
     <li>captainmuscles.priceiswhat</li>
-    <li>com.bymarcin.architecticons</li>
-    <li>reiquard.researchinfo</li>
-    <li>compilatron.powertab</li>
     <li>diddily.poweralerts</li>
-    <li>drumad.squaduitweaks</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
+    <li>fluffy.areaunlocker</li>
     <li>gguake.ui.armorinfo</li>
-    <li>gguake.ui.simplesearchbar</li>
-    <li>helldragger.rimworldheatstatistics</li>
-    <li>mehni.numbers</li>
-    <li>mlie.banishanimals</li>
     <li>mlie.flickablestorage</li>
+    <li>navyseal5.moreharvestdesignators</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>
-    <li>raven.colorcodedtraits</li>
+    <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
     <li>tammybee.restocknotification</li>
-    <li>ubergarm.kanbanstockpile</li>
+    <li>telardo.numbers</li>
     <li>unlimitedhugs.allowtool</li>
+    <li>vanillaexpanded.ideo.iconsandsymbols</li>
     <li>vinalx.researchpalforked</li>
     <li>caesarv6.damageindicators</li>
     <li>jaxe.bubbles</li>
-    <li>edb.preparecarefully</li>
-    <li>fluffy.modmanager</li>
-    <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>jpt.speakup</li>
     <li>name.krypt.rimworld.moddiff</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>
+    <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>usagirei.pocketsand</li>
+    <li>void.charactereditor</li>
     <li>notfood.glue</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
   </knownExpansions>
 </ModsConfigData>

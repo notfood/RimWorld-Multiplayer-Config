@@ -7,7 +7,8 @@
 		<showGrid>False</showGrid>
 		<callsColour>RGBA(0.239, 0.784, 0.431, 1.000)</callsColour>
 		<dnspyPath />
-		<updatesPerSecond>2</updatesPerSecond>
+		<SavedPatches_Update />
+		<SavedPatches_Tick />
 		<allEnabled>
 			<li>False</li>
 			<li>False</li>
@@ -21,7 +22,6 @@
 				<li>RimWorld.Alert_NeedWarden</li>
 				<li>Rimefeller.Alert_ConsoleTab</li>
 				<li>MoreThanCapable.Alert_AssignedAWeapon</li>
-				<li>SimpleSidearms.rimworld.alerts.Alert_MissingSidearm</li>
 				<li>PelFireWarden.Alert_FireWardenLacksFB</li>
 				<li>RimWorld.Alert_BrawlerHasRangedWeapon</li>
 				<li>PelFireWarden.Alert_FireWardenLacksFE</li>
@@ -44,17 +44,14 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
 			</values>
 		</alertfilter>
 		<overrideAlerts>True</overrideAlerts>
 		<performance.compdeepdrill-isEnabled>True</performance.compdeepdrill-isEnabled>
-		<performance.wallsnconduits-isEnabled>True</performance.wallsnconduits-isEnabled>
 		<performance.roof-isEnabled>True</performance.roof-isEnabled>
 		<performance.buildingrepair-isEnabled>True</performance.buildingrepair-isEnabled>
 		<performance.killaudio-isEnabled>True</performance.killaudio-isEnabled>
 		<performance.lordnotifydamage-isEnabled>True</performance.lordnotifydamage-isEnabled>
-		<temp.section-isEnabled>True</temp.section-isEnabled>
 		<performance.sectionlayersnow-isEnabled>True</performance.sectionlayersnow-isEnabled>
 		<performance.drawlabelsfix-isEnabled>True</performance.drawlabelsfix-isEnabled>
 	</ModSettings>

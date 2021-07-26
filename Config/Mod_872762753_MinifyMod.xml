@@ -3,43 +3,62 @@
 	<ModSettings Class="MinifyEverything.MinifySettings">
 		<disabledDefList>
 			<li>airPipe</li>
+			<li>AncientAirConditioner</li>
+			<li>AncientBarrel</li>
+			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
+			<li>AncientCrate</li>
+			<li>AncientCryptosleepCasket</li>
+			<li>AncientDisplayBank</li>
+			<li>AncientEnemyTerminal</li>
+			<li>AncientRustedEngineBlock</li>
+			<li>AncientEquipmentBlocks</li>
+			<li>AncientFence</li>
+			<li>AncientGenerator</li>
+			<li>AncientGiantWheel</li>
+			<li>AncientKitchenSink</li>
+			<li>AncientLamp</li>
+			<li>AncientLamppost</li>
+			<li>AncientLargeCrate</li>
+			<li>AncientLockerBank</li>
+			<li>AncientLongCrate</li>
+			<li>AncientMachine</li>
+			<li>AncientLargeRustedEngineBlock</li>
+			<li>AncientMechDropBeacon</li>
+			<li>AA_AncientAssembler</li>
+			<li>AncientMechanoidShell</li>
+			<li>AncientMegaCannonBarrel</li>
+			<li>AncientMegaCannonTripod</li>
+			<li>AncientShipBeacon</li>
+			<li>AncientOperatingTable</li>
+			<li>AncientPostbox</li>
+			<li>AncientRazorWire</li>
+			<li>AncientRefrigerator</li>
+			<li>AncientSecurityTurret</li>
+			<li>AncientShoppingCart</li>
+			<li>AncientSmallCrate</li>
+			<li>AncientStorageCylinder</li>
+			<li>AncientStove</li>
+			<li>AncientSystemRack</li>
+			<li>AncientTankTrap</li>
+			<li>AncientTerminal</li>
+			<li>AncientFuelNode</li>
+			<li>AncientVendingMachine</li>
+			<li>AncientWheel</li>
 			<li>AnimalHarvestingSpot</li>
 			<li>AnimalSleepingSpot</li>
 			<li>Autodoor</li>
-			<li>Bar</li>
-			<li>BarGateHori</li>
-			<li>BarGateVerti</li>
 			<li>Barricade</li>
 			<li>beveledwall</li>
-			<li>GL_BoundaryStone</li>
-			<li>GL_BoundaryWood</li>
-			<li>GL_BoundaryStoneCorner</li>
-			<li>GL_BoundaryWoodCorner</li>
 			<li>ELIF_BBorder</li>
 			<li>Brick_Cliff_Left</li>
 			<li>Brick_Cliff_Right</li>
-			<li>ShortBrick</li>
-			<li>TallBrick</li>
 			<li>BurnPit</li>
 			<li>ButcherSpot</li>
 			<li>CaravanPackingSpot</li>
-			<li>TallChainLink</li>
-			<li>ChainlinkGateHori</li>
-			<li>ChainlinkGateVerti</li>
-			<li>RGK_DoorOld</li>
-			<li>ClayGatheringSpot</li>
-			<li>ClayPit</li>
-			<li>Closeboard</li>
-			<li>CloseboardGateHori</li>
-			<li>CloseboardGateVerti</li>
 			<li>Column</li>
-			<li>RC2_FoodPrepSpot</li>
 			<li>ELIF_CBorder</li>
 			<li>CraftingSpot</li>
-			<li>Ship_Engine_CrashLanded</li>
-			<li>Ship_Reactor_CrashLanded</li>
-			<li>Ship_Beam_CrashLanded</li>
 			<li>DeepOilWell</li>
 			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>DeepWaterWellInlet</li>
@@ -50,19 +69,12 @@
 			<li>Dirt_HillTop_Left</li>
 			<li>Dirt_HillTop_Right</li>
 			<li>Door</li>
-			<li>RGK_Door</li>
-			<li>GL_DoorFrame</li>
 			<li>DoubleSleepingSpot</li>
-			<li>Farm</li>
-			<li>FarmGateHori</li>
-			<li>FarmGateVerti</li>
-			<li>RGK_WoodFence</li>
 			<li>Terraform_Topsoil-DirtFert</li>
 			<li>VFlowerarch</li>
 			<li>VFlowerbed</li>
 			<li>VFlowerbedCM</li>
 			<li>VFlowerbedCR</li>
-			<li>GL_FlowerWall</li>
 			<li>VeeFlowerbedB</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
@@ -105,9 +117,6 @@
 			<li>AA_Overgrown_DropPod</li>
 			<li>Terraform_PackedDirt-SoilF</li>
 			<li>PartySpot</li>
-			<li>Picket</li>
-			<li>PicketGateHori</li>
-			<li>PicketGateVerti</li>
 			<li>Veeseedspot</li>
 			<li>sewagePipeStuff</li>
 			<li>PowerConduit</li>
@@ -144,9 +153,6 @@
 			<li>Terraform_SoilF-WaterShallow</li>
 			<li>Terraform_SoilF-SoilF</li>
 			<li>Terraform_SoilF-Gravel</li>
-			<li>Solid</li>
-			<li>SolidGateHori</li>
-			<li>SolidGateVerti</li>
 			<li>VeeFakeStair</li>
 			<li>VeeFakeStairCR</li>
 			<li>VeeFakeStairCRs</li>
@@ -168,17 +174,10 @@
 			<li>Terraform_Stone-Topsoil</li>
 			<li>TradingSpot</li>
 			<li>AnimalTrainingSpot</li>
-			<li>GloomyDeco_Tree</li>
 			<li>Vent</li>
-			<li>GL_VentWall</li>
 			<li>Wall</li>
-			<li>RGK_Wall</li>
-			<li>GL_Wall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
-			<li>GloomyDeco_Well</li>
-			<li>RGK_window</li>
-			<li>GL_WindowWall</li>
 		</disabledDefList>
 	</ModSettings>
 </SettingsBlock>
