@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnimalBehaviours.AnimalBehaviours_Settings">
+		<flagCorpseDecayingEffect>True</flagCorpseDecayingEffect>
+		<flagDigWhenHungry>True</flagDigWhenHungry>
+		<flagAnimalParticles>True</flagAnimalParticles>
+		<flagAsexualReproduction>True</flagAsexualReproduction>
+		<flagBlinkMechanics>True</flagBlinkMechanics>
+		<flagBuildPeriodically>True</flagBuildPeriodically>
+		<flagDigPeriodically>True</flagDigPeriodically>
+		<flagChargeBatteries>True</flagChargeBatteries>
+		<flagExplodingAnimalEggs>True</flagExplodingAnimalEggs>
+		<flagHovering>True</flagHovering>
+		<flagGraphicChanging>True</flagGraphicChanging>
+		<flagEffecters>True</flagEffecters>
+		<flagRegeneration>True</flagRegeneration>
+		<flagResurrection>True</flagResurrection>
+		<flagUntameable>True</flagUntameable>
+	</ModSettings>
+</SettingsBlock>

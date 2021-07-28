@@ -5,6 +5,8 @@
 			<li>airPipe</li>
 			<li>AncientAirConditioner</li>
 			<li>AncientBarrel</li>
+			<li>AncientRustedCar</li>
+			<li>AncientRustedCarFrame</li>
 			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
 			<li>AncientCrate</li>
@@ -16,8 +18,8 @@
 			<li>AncientFence</li>
 			<li>AncientGenerator</li>
 			<li>AncientGiantWheel</li>
+			<li>AncientJetEngine</li>
 			<li>AncientKitchenSink</li>
-			<li>AncientLamp</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
 			<li>AncientLockerBank</li>
@@ -31,9 +33,12 @@
 			<li>AncientMegaCannonTripod</li>
 			<li>AncientShipBeacon</li>
 			<li>AncientOperatingTable</li>
+			<li>AncientPipelineSection</li>
+			<li>AncientPodCar</li>
 			<li>AncientPostbox</li>
 			<li>AncientRazorWire</li>
 			<li>AncientRefrigerator</li>
+			<li>AncientTank</li>
 			<li>AncientSecurityTurret</li>
 			<li>AncientShoppingCart</li>
 			<li>AncientSmallCrate</li>
@@ -42,8 +47,16 @@
 			<li>AncientSystemRack</li>
 			<li>AncientTankTrap</li>
 			<li>AncientTerminal</li>
+			<li>AncientRustedJeep</li>
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
+			<li>AncientWarspiderRemains</li>
+			<li>AncientMiniWarwalkerRemains</li>
+			<li>AncientWarwalkerClaw</li>
+			<li>AncientWarwalkerFoot</li>
+			<li>AncientWarwalkerLeg</li>
+			<li>AncientWarwalkerShell</li>
+			<li>AncientWarwalkerTorso</li>
 			<li>AncientWheel</li>
 			<li>AnimalHarvestingSpot</li>
 			<li>AnimalSleepingSpot</li>
@@ -53,10 +66,14 @@
 			<li>ELIF_BBorder</li>
 			<li>Brick_Cliff_Left</li>
 			<li>Brick_Cliff_Right</li>
+			<li>Brick_CliffTop_Left</li>
+			<li>Brick_CliffTop_Right</li>
 			<li>BurnPit</li>
 			<li>ButcherSpot</li>
+			<li>CaravanJourneySpot</li>
 			<li>CaravanPackingSpot</li>
 			<li>Column</li>
+			<li>RC2_FoodPrepSpot</li>
 			<li>ELIF_CBorder</li>
 			<li>CraftingSpot</li>
 			<li>DeepOilWell</li>
@@ -123,6 +140,7 @@
 			<li>PrimitiveWell</li>
 			<li>SupesRemoteDoor</li>
 			<li>Terraform_SoilF-SoilRich</li>
+			<li>RitualSpot</li>
 			<li>Terraform_RockyDirt-RockyDirt</li>
 			<li>Terraform_RockyDirt-Stone</li>
 			<li>Terraform_RockyDirt-Sand</li>
@@ -165,6 +183,8 @@
 			<li>ToiletStallDoor</li>
 			<li>Stone_Cliff_Left</li>
 			<li>Stone_Cliff_Right</li>
+			<li>Stone_CliffTop_Left</li>
+			<li>Stone_CliffTop_Right</li>
 			<li>Terraform_Stone-RockyDirt</li>
 			<li>Terraform_Gravel-RockyDirt</li>
 			<li>Terraform_Gravel-Sand</li>

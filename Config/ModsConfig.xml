@@ -1,17 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
+  <version>1.3.3072 rev1012</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
+    <li>rwmt.Multiplayer</li>
+    <li>rwmt.MultiplayerCompatibility</li>
     <li>ccl.patchoperation.highlander</li>
-    <li>rwmt.multiplayer</li>
-    <li>rwmt.multiplayercompatibility</li>
     <li>unlimitedhugs.hugslib</li>
     <li>syrchalis.universalfermenter</li>
     <li>erdelf.humanoidalienraces</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>dhultgren.keepbedownership</li>
     <li>dninemfive.qualitycooldown</li>
     <li>dubwise.dubsappareltweaks</li>
@@ -27,6 +29,7 @@
     <li>ogre.ogrestack</li>
     <li>owlchemist.bettervanillamasking</li>
     <li>shotgunfrenzy.prioritytreatment</li>
+    <li>veh.freelove</li>
     <li>aelanna.eccentricextras.angelhairs</li>
     <li>ameiro.animehairs</li>
     <li>cp.chicken.mitchell.hairstyles</li>
@@ -48,15 +51,14 @@
     <li>handandfootwear.kv.rw</li>
     <li>mlie.mercerbackpacks</li>
     <li>spoonshortage.fashionrimsta</li>
-    <li>com.yayo.combat3</li>
     <li>janson.weapontech</li>
+    <li>com.yayo.combat3</li>
     <li>kikohi.tamingartifact</li>
     <li>mlie.fireextinguisher</li>
     <li>shinzy.apparello</li>
     <li>simmin.powertools</li>
     <li>tyrannical_elmo.industrialmelee</li>
     <li>vanillaexpanded.vweg</li>
-    <li>yoseisan.rimcolle</li>
     <li>acpteam.acpvanillastyle</li>
     <li>alex.birdup.cockatiel</li>
     <li>sarg.alphaanimals</li>
@@ -79,6 +81,7 @@
     <li>solaris.furniturebase</li>
     <li>telkir.tmods.morefloors</li>
     <li>ucp.tabletopdecorations</li>
+    <li>neceros.animalmedicalbed</li>
     <li>crustypeanut.rc2.core</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>notfood.seedsplease</li>
@@ -153,6 +156,8 @@
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
     <li>weilbyte.snapout</li>
+    <li>neceros.badcanbegood</li>
+    <li>neceros.roomsizetolerance</li>
     <li>arl85.ruinedbytemperaturefilter</li>
     <li>automatic.autolinks</li>
     <li>automatic.recipeicons</li>
@@ -163,7 +168,6 @@
     <li>diddily.poweralerts</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
-    <li>fluffy.areaunlocker</li>
     <li>gguake.ui.armorinfo</li>
     <li>mlie.flickablestorage</li>
     <li>navyseal5.moreharvestdesignators</li>
@@ -182,7 +186,7 @@
     <li>jpt.speakup</li>
     <li>name.krypt.rimworld.moddiff</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>
-    <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>fluffy.areaunlocker</li>
     <li>usagirei.pocketsand</li>
     <li>void.charactereditor</li>
     <li>notfood.glue</li>
