@@ -8,6 +8,8 @@
 		<HatsIndoors>True</HatsIndoors>
 		<HatsSleeping>True</HatsSleeping>
 		<EquipModPC>0.200000003</EquipModPC>
+		<HideJackets>True</HideJackets>
+		<HideEquipment>True</HideEquipment>
 		<hairFilter />
 		<hatFilter />
 	</ModSettings>

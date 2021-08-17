@@ -3,12 +3,12 @@
 	<ModSettings Class="PawnTableGrouped.Settings">
 		<firstRun2>False</firstRun2>
 		<pawnTablesEnabled>
-			<li>Guests</li>
-			<li>Wildlife</li>
-			<li>Animals</li>
-			<li>Restrict</li>
-			<li>Assign</li>
 			<li>Work</li>
+			<li>Assign</li>
+			<li>Restrict</li>
+			<li>Animals</li>
+			<li>Wildlife</li>
+			<li>Guests</li>
 		</pawnTablesEnabled>
 	</ModSettings>
 </SettingsBlock>

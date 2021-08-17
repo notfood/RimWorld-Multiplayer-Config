@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="PelFireWarden.Settings">
 		<SearchRange>50</SearchRange>
+		<ShowEqWarnMsgs>False</ShowEqWarnMsgs>
 		<ReplacePct>25</ReplacePct>
 		<SendReplaceMsgs>False</SendReplaceMsgs>
 		<HandledRange>5</HandledRange>

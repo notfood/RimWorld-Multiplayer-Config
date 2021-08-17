@@ -7,52 +7,65 @@
 		<showGrid>False</showGrid>
 		<callsColour>RGBA(0.239, 0.784, 0.431, 1.000)</callsColour>
 		<dnspyPath />
+		<updatesPerSecond>2</updatesPerSecond>
 		<SavedPatches_Update />
 		<SavedPatches_Tick />
 		<allEnabled>
-			<li>False</li>
-			<li>False</li>
+			<li>True</li>
+			<li>True</li>
 			<li>False</li>
 		</allEnabled>
 		<alertfilter>
 			<keys>
 				<li>RimWorld.Alert_NeedWarmClothes</li>
-				<li>RimWorld.Alert_LowMedicine</li>
-				<li>RimWorld.Alert_NeedMiner</li>
-				<li>RimWorld.Alert_NeedWarden</li>
-				<li>Rimefeller.Alert_ConsoleTab</li>
-				<li>MoreThanCapable.Alert_AssignedAWeapon</li>
-				<li>PelFireWarden.Alert_FireWardenLacksFB</li>
-				<li>RimWorld.Alert_BrawlerHasRangedWeapon</li>
-				<li>PelFireWarden.Alert_FireWardenLacksFE</li>
-				<li>RimWorld.Alert_HunterLacksRangedWeapon</li>
+				<li>RimWorld.Alert_MinorBreakRisk</li>
+				<li>RimWorld.Alert_NeedMeditationSpot</li>
 				<li>RimWorld.Alert_TatteredApparel</li>
+				<li>RimWorld.Alert_UndignifiedThroneroom</li>
+				<li>RimWorld.Alert_UndignifiedBedroom</li>
+				<li>RimWorld.Alert_RoyalNoThroneAssigned</li>
+				<li>MoreThanCapable.Alert_BadWorkAssignment</li>
+				<li>RimWorld.Alert_AgeReversalDemandNear</li>
+				<li>RimWorld.Alert_RoyalNoAcceptableFood</li>
+				<li>RimWorld.Alert_TitleRequiresBedroom</li>
 				<li>RimWorld.Alert_UnhappyNudity</li>
+				<li>PelFireWarden.Alert_FireWardenLacksFE</li>
+				<li>PelFireWarden.Alert_FireWardenLacksFB</li>
 				<li>PelFireWarden.Alert_FireWardenIsPyro</li>
+				<li>Hospitality.Alert_GuestHasNoFood</li>
+				<li>RimWorld.Alert_NeedResearchProject</li>
+				<li>RimWorld.Alert_AnimalFilth</li>
 			</keys>
 			<values>
 				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 			</values>
 		</alertfilter>
 		<overrideAlerts>True</overrideAlerts>
+		<performance.tempcache-isEnabled>True</performance.tempcache-isEnabled>
 		<performance.compdeepdrill-isEnabled>True</performance.compdeepdrill-isEnabled>
 		<performance.roof-isEnabled>True</performance.roof-isEnabled>
 		<performance.buildingrepair-isEnabled>True</performance.buildingrepair-isEnabled>
 		<performance.killaudio-isEnabled>True</performance.killaudio-isEnabled>
 		<performance.lordnotifydamage-isEnabled>True</performance.lordnotifydamage-isEnabled>
 		<performance.sectionlayersnow-isEnabled>True</performance.sectionlayersnow-isEnabled>
+		<performance.zoom-isEnabled>True</performance.zoom-isEnabled>
 		<performance.drawlabelsfix-isEnabled>True</performance.drawlabelsfix-isEnabled>
 	</ModSettings>
 </SettingsBlock>

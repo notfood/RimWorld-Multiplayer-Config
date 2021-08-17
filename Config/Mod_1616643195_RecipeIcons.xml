@@ -3,5 +3,6 @@
 	<ModSettings Class="RecipeIcons.Settings">
 		<enableTooltip>True</enableTooltip>
 		<disableSmallMenus>True</disableSmallMenus>
+		<showMod>True</showMod>
 	</ModSettings>
 </SettingsBlock>

@@ -2,12 +2,36 @@
 <SettingsBlock>
 	<ModSettings Class="HeavyWeapons.HeavyWeaponsSettings">
 		<weaponStates>
-			<keys />
-			<values />
+			<keys>
+				<li>IM_MeleeWeapon_ImpactHammer</li>
+				<li>IM_MeleeWeapon_DrillSpear</li>
+				<li>IM_MeleeWeapon_RocketLance</li>
+				<li>IM_MeleeWeapon_GunLance</li>
+				<li>IM_ImpactBow</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
 		</weaponStates>
 		<weaponHPStates>
-			<keys />
-			<values />
+			<keys>
+				<li>IM_MeleeWeapon_ImpactHammer</li>
+				<li>IM_MeleeWeapon_DrillSpear</li>
+				<li>IM_MeleeWeapon_RocketLance</li>
+				<li>IM_MeleeWeapon_GunLance</li>
+				<li>IM_ImpactBow</li>
+			</keys>
+			<values>
+				<li>0</li>
+				<li>0</li>
+				<li>75</li>
+				<li>0</li>
+				<li>0</li>
+			</values>
 		</weaponHPStates>
 	</ModSettings>
 </SettingsBlock>

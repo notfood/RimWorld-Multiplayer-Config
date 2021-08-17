@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="AnimalsLogic.Settings">
+		<prevent_eating_stuff>False</prevent_eating_stuff>
 		<convert_ruined_eggs>False</convert_ruined_eggs>
-		<wildness_threshold_for_tameness_decay>0.249906093</wildness_threshold_for_tameness_decay>
-		<training_decay_factor>0.252417862</training_decay_factor>
+		<use_dispenser>False</use_dispenser>
+		<wildness_threshold_for_tameness_decay>0.25</wildness_threshold_for_tameness_decay>
+		<training_decay_factor>0.25</training_decay_factor>
 		<haul_mtb>0.5</haul_mtb>
+		<toxic_buildup_rot>1</toxic_buildup_rot>
 	</ModSettings>
 </SettingsBlock>

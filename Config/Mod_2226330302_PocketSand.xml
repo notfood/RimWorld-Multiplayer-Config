@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PocketSand.PocketSandSettings">
+		<enableEquipDelay>True</enableEquipDelay>
+		<equipDelayMultiplier>10</equipDelayMultiplier>
+		<caravanWeaponBlacklist />
+	</ModSettings>
+</SettingsBlock>

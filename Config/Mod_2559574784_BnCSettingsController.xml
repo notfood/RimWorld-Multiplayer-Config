@@ -1,15 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="BabiesAndChildren.BnCSettings">
-		<accelerated_growth>True</accelerated_growth>
-		<accelerated_growth_end_age>3</accelerated_growth_end_age>
+		<accelerated_growth_end_age>14</accelerated_growth_end_age>
 		<baby_accelerated_growth>7</baby_accelerated_growth>
 		<toddler_accelerated_growth>7</toddler_accelerated_growth>
-		<child_accelerated_growth>1</child_accelerated_growth>
+		<child_accelerated_growth>7</child_accelerated_growth>
 		<teenager_accelerated_growth>1</teenager_accelerated_growth>
 		<baby_Inherit_percentage>_50</baby_Inherit_percentage>
 		<OptionChildrenDropWeapons>True</OptionChildrenDropWeapons>
-		<option_child_max_weapon_mass>3.00831914</option_child_max_weapon_mass>
+		<option_child_max_weapon_mass>2.95026708</option_child_max_weapon_mass>
 		<GestationPeriodDays>45</GestationPeriodDays>
 		<cryVolume>0</cryVolume>
 		<child_cute_act_enabled>True</child_cute_act_enabled>
@@ -27,6 +26,6 @@
 		<ShowHairHumanLocZ>0.0920000002</ShowHairHumanLocZ>
 		<ShowHairAlienLocZ>0.0350000001</ShowHairAlienLocZ>
 		<ShowHairAlienHFLocZ>0.0480000004</ShowHairAlienHFLocZ>
-		<OncePerGame>True</OncePerGame>
+		<FAModifier>1</FAModifier>
 	</ModSettings>
 </SettingsBlock>

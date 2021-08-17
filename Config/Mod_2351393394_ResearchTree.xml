@@ -4,6 +4,8 @@
 		<ShouldPauseOnOpen>False</ShouldPauseOnOpen>
 		<ProgressTooltip>True</ProgressTooltip>
 		<AlwaysDisplayProgress>True</AlwaysDisplayProgress>
-		<useVanillaResearchFinishedMessage>True</useVanillaResearchFinishedMessage>
+		<ScrollingSpeedMultiplier>1</ScrollingSpeedMultiplier>
+		<zoomingSpeedMultiplier>1</zoomingSpeedMultiplier>
+		<draggingDisplayDelay>0.25</draggingDisplayDelay>
 	</ModSettings>
 </SettingsBlock>

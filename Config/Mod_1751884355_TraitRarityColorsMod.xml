@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TraitRarityColors.TraitRarityColorsModSettings">
+		<traitsToIgnore />
+		<traitTiers>
+			<keys />
+			<values />
+		</traitTiers>
+		<maxLimitMystic>0.100000001</maxLimitMystic>
+		<maxLimitLegendary>0.5</maxLimitLegendary>
+		<maxLimitEpic>0.900000036</maxLimitEpic>
+		<maxLimitRare>1.89999998</maxLimitRare>
+		<maxLimitUncommon>2</maxLimitUncommon>
+	</ModSettings>
+</SettingsBlock>

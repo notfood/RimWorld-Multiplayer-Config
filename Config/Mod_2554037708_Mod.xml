@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Stranger_Danger.Settings">
+		<activeStory>True</activeStory>
+		<activeTraits>True</activeTraits>
+		<activePassion>True</activePassion>
+		<activeSkills>True</activeSkills>
+		<guiltyStory>True</guiltyStory>
+		<guiltyTraits>True</guiltyTraits>
+		<guiltyPassion>True</guiltyPassion>
+		<guiltySkills>True</guiltySkills>
+	</ModSettings>
+</SettingsBlock>
