@@ -2,6 +2,5 @@
 <SettingsBlock>
 	<ModSettings Class="NonUnoPinata.Settings">
 		<strip_equipment>False</strip_equipment>
-		<strip_inventory>False</strip_inventory>
 	</ModSettings>
 </SettingsBlock>

@@ -6,9 +6,9 @@
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
-    <li>ccl.patchoperation.highlander</li>
     <li>rwmt.multiplayer</li>
-    <li>rwmt.multiplayercompatibility</li>
+    <li>rwmt.MultiplayerCompatibility</li>
+    <li>ccl.patchoperation.highlander</li>
     <li>unlimitedhugs.hugslib</li>
     <li>syrchalis.universalfermenter</li>
     <li>erdelf.humanoidalienraces</li>
@@ -23,6 +23,7 @@
     <li>erdelf.minifyeverything</li>
     <li>fed1splay.pawntargetfix</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>ghostrolly.rim73</li>
     <li>hobtook.mortaraccuracy</li>
     <li>jp.adjacentlight</li>
     <li>martinbaste.rimworld.combinefaceitems</li>
@@ -53,6 +54,7 @@
     <li>won.hair</li>
     <li>won2.hair</li>
     <li>handandfootwear.kv.rw</li>
+    <li>javier.culturalcouture</li>
     <li>mlie.mercerbackpacks</li>
     <li>spoonshortage.fashionrimsta</li>
     <li>com.yayo.combat3</li>
@@ -144,6 +146,7 @@
     <li>frozensnowfox.betterancientcomplexloot</li>
     <li>laast.worldmapenhanced</li>
     <li>oblitus.mylittleplanet</li>
+    <li>avilmask.commonsense</li>
     <li>avilmask.nonunopinata</li>
     <li>captainmuscles.grabyourtool</li>
     <li>caravanjourneyspot.leeh</li>
@@ -164,6 +167,7 @@
     <li>neceros.roomsizetolerance</li>
     <li>netrve.usemelee</li>
     <li>notfood.morethancapable</li>
+    <li>oblitus.animalslogic</li>
     <li>orion.hospitality</li>
     <li>pathavoid.kv.rw</li>
     <li>revolus.animalsarefun</li>
@@ -206,7 +210,6 @@
     <li>edb.preparecarefully</li>
     <li>name.krypt.rimworld.moddiff</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>
-    <li>ghostrolly.rim73</li>
     <li>notfood.glue</li>
   </activeMods>
   <knownExpansions>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rim73.Rim73_Settings">
+		<rim73_hediff>False</rim73_hediff>
+		<rim73_jobs>False</rim73_jobs>
+		<rim73_mood>True</rim73_mood>
+	</ModSettings>
+</SettingsBlock>
