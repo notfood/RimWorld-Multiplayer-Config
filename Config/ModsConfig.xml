@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.3.3087 rev913</version>
+  <version>1.3.3102 rev829</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>rwmt.multiplayer</li>
-    <li>rwmt.MultiplayerCompatibility</li>
+    <li>rwmt.multiplayercompatibility</li>
     <li>ccl.patchoperation.highlander</li>
     <li>unlimitedhugs.hugslib</li>
     <li>syrchalis.universalfermenter</li>
@@ -87,6 +87,7 @@
     <li>pyrce.mass.graves</li>
     <li>radzerp.wallcorners</li>
     <li>rimfridge.kv.rw</li>
+    <li>sf.comfy.meditation</li>
     <li>solaris.furniturebase</li>
     <li>syrchalis.prosthetictable</li>
     <li>telkir.tmods.morefloors</li>
@@ -99,6 +100,9 @@
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>vanillaexpanded.vplantse</li>
+    <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vcefaddon</li>
+    <li>warlocksforge.fishtraps</li>
     <li>frozensnowfox.vanillabionicsexpansion</li>
     <li>automatic.bionicicons</li>
     <li>daniledman.cyberfauna</li>
@@ -117,17 +121,15 @@
     <li>5katz.commschat</li>
     <li>aelanna.eccentrictech.core</li>
     <li>aelanna.eccentrictech.cosmetics2</li>
+    <li>aelanna.eccentrictech.advancedshields</li>
     <li>babies.and.children.continued.13</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimefeller</li>
     <li>notfood.mendandrecycle</li>
     <li>proxyer.desurgeries.dbhpatch</li>
-    <li>thepatchworkhoax.meleepsycasts</li>
     <li>troopersmith1.deathrattle</li>
     <li>twokay.plushies.specific</li>
     <li>vanillaexpanded.vbookse</li>
-    <li>vanillaexpanded.vcef</li>
-    <li>vanillaexpanded.vcefaddon</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
@@ -144,6 +146,7 @@
     <li>vanillaexpanded.vee</li>
     <li>zhrocks11.letstrade</li>
     <li>frozensnowfox.betterancientcomplexloot</li>
+    <li>frozensnowfox.bettercamploot</li>
     <li>laast.worldmapenhanced</li>
     <li>oblitus.mylittleplanet</li>
     <li>avilmask.commonsense</li>
@@ -156,8 +159,10 @@
     <li>dninemfive.pepinyourstep</li>
     <li>gguake.ai.dsfi</li>
     <li>hatti.cleaningarea</li>
+    <li>holdthegrenades.1trickponyta</li>
     <li>jamaicancastle.shoo</li>
     <li>kittahkhan.grazeup</li>
+    <li>llunak.moreprecepts</li>
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.firewarden</li>
@@ -179,6 +184,7 @@
     <li>bob.tickspersecond</li>
     <li>bodlosh.weaponstats</li>
     <li>brrainz.cameraplus</li>
+    <li>bustedbunny.throwthem</li>
     <li>captainmuscles.priceiswhat</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>com.bymarcin.architecticons</li>
@@ -205,6 +211,7 @@
     <li>vanillaexpanded.ideo.iconsandsymbols</li>
     <li>vinalx.researchpalforked</li>
     <li>caesarv6.damageindicators</li>
+    <li>com.yayo.yayoani</li>
     <li>jaxe.bubbles</li>
     <li>jpt.speakup</li>
     <li>edb.preparecarefully</li>

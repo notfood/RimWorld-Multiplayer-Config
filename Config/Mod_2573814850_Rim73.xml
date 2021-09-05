@@ -4,5 +4,7 @@
 		<rim73_hediff>False</rim73_hediff>
 		<rim73_jobs>False</rim73_jobs>
 		<rim73_mood>True</rim73_mood>
+		<rim73_regionCache>False</rim73_regionCache>
+		<rim73_enemiesNearbyCache>False</rim73_enemiesNearbyCache>
 	</ModSettings>
 </SettingsBlock>
