@@ -14,7 +14,10 @@
 		<listWidth>404</listWidth>
 		<ResearchListWidth>350</ResearchListWidth>
 		<WheelOnRightClick>True</WheelOnRightClick>
-		<ResourceReadout />
+		<ResourceReadout>
+			<li>MealSimple</li>
+			<li>Kibble</li>
+		</ResourceReadout>
 		<WheelDefs>
 			<li>RimWorld.Designator_Cancel</li>
 			<li>RimWorld.Designator_Deconstruct</li>
