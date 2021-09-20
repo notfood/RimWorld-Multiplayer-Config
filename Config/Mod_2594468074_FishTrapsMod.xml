@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FishTraps.Options.FishTrapsModSettings">
+		<WFFT_trapSpawnInterval>45399</WFFT_trapSpawnInterval>
+		<WFFT_trapDmgInterval>30000</WFFT_trapDmgInterval>
+		<WFFT_netSpawnInterval>62077</WFFT_netSpawnInterval>
+		<WFFT_netDmgInterval>30000</WFFT_netDmgInterval>
+	</ModSettings>
+</SettingsBlock>

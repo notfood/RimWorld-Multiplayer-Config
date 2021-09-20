@@ -27,7 +27,6 @@
 			<li>AncientMachine</li>
 			<li>AncientLargeRustedEngineBlock</li>
 			<li>AncientMechDropBeacon</li>
-			<li>AA_AncientAssembler</li>
 			<li>AncientMechanoidShell</li>
 			<li>AncientMegaCannonBarrel</li>
 			<li>AncientMegaCannonTripod</li>
@@ -131,7 +130,6 @@
 			<li>Filth_NapalmTrail</li>
 			<li>OilPipeline</li>
 			<li>OilWell</li>
-			<li>AA_Overgrown_DropPod</li>
 			<li>Terraform_PackedDirt-SoilF</li>
 			<li>PartySpot</li>
 			<li>Veeseedspot</li>
@@ -162,6 +160,7 @@
 			<li>ELIF_SBorder</li>
 			<li>AnimalSlaughteringSpot</li>
 			<li>SleepingSpot</li>
+			<li>Snowman</li>
 			<li>Terraform_SoilF-Marsh</li>
 			<li>Terraform_SoilF-SoilMarshy</li>
 			<li>Terraform_SoilF-Mud</li>

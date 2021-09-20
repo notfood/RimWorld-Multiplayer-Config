@@ -8,8 +8,10 @@
 				<li>IM_MeleeWeapon_RocketLance</li>
 				<li>IM_MeleeWeapon_GunLance</li>
 				<li>IM_ImpactBow</li>
+				<li>IM_MeleeWeapon_GoliathSledge</li>
 			</keys>
 			<values>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -24,11 +26,13 @@
 				<li>IM_MeleeWeapon_RocketLance</li>
 				<li>IM_MeleeWeapon_GunLance</li>
 				<li>IM_ImpactBow</li>
+				<li>IM_MeleeWeapon_GoliathSledge</li>
 			</keys>
 			<values>
 				<li>0</li>
 				<li>0</li>
-				<li>75</li>
+				<li>0</li>
+				<li>0</li>
 				<li>0</li>
 				<li>0</li>
 			</values>

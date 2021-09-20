@@ -3,8 +3,8 @@
 	<ModSettings Class="RFF_Code.Settings">
 		<newGrowZonesDR>False</newGrowZonesDR>
 		<playHardMode>True</playHardMode>
-		<plantScrapsPercent>150</plantScrapsPercent>
-		<depleteChance>5</depleteChance>
+		<plantScrapsPercent>51.696949</plantScrapsPercent>
+		<depleteChance>1.44944715</depleteChance>
 		<depleteRecords>
 			<li>
 				<defName>Soil</defName>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SelectAdulthood.SelectAdulthoodSettings">
+		<RaceAdulthoods>
+			<keys>
+				<li>NFHarpy</li>
+				<li>Human</li>
+				<li>NFSlime</li>
+			</keys>
+			<values>
+				<li>2</li>
+				<li>2</li>
+				<li>2</li>
+			</values>
+		</RaceAdulthoods>
+	</ModSettings>
+</SettingsBlock>

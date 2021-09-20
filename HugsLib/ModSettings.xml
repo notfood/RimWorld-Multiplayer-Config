@@ -8,40 +8,6 @@
   <WhileYoureUp>
     <SkipWhenBleeding>True</SkipWhenBleeding>
   </WhileYoureUp>
-  <PeteTimesSix.SimpleSidearms>
-    <ActivePreset>Custom</ActivePreset>
-    <ToolAutoSwitch>True</ToolAutoSwitch>
-    <OptimalMelee>True</OptimalMelee>
-    <CQCAutoSwitch>True</CQCAutoSwitch>
-    <RangedCombatAutoSwitch>True</RangedCombatAutoSwitch>
-    <LimitModeSingle_Selection>MeleeWeapon_Knife|MeleeWeapon_Gladius|Weapon_DepthCharge|Weapon_GrenadeEMP|Weapon_GrenadeFrag|Weapon_GrenadeMolotov|Gun_ServicePistol|Gun_Revolver|MeleeWeapon_Katana|MeleeWeapon_Ikwa|Gun_Autopistol|MeleeWeapon_Mace|Gun_MachinePistol|Gun_UrbanPistol|MeleeWeapon_Axe|Gun_VintageMachinePistol|Gun_GaussPistol|Gun_LargeRevolver|MeleeWeapon_LongSword|MeleeWeapon_Spear|MeleeWeapon_Club|MeleeWeapon_MonoSwordBladelink|MeleeWeapon_ZeusHammerBladelink|MeleeWeapon_PlasmaSwordBladelink|MeleeWeapon_MonoSword|MeleeWeapon_Zeushammer|MeleeWeapon_PlasmaSword|Firebeater|Gun_Fire_Ext|Gun_BoltActionPistol|Gun_PersonalisedBullpupPDW|Gun_CombatPDW|Gun_BullpupPDW|Gun_AkimboMachinePistols|Gun_MatchlockPistol|MeleeWeapon_Warhammer|MeleeWeapon_MutaniteKnife|MSMedSupplyFlare|Weapon_GrenadeTF|MeleeWeapon_MutagenicStunStick|MeleeWeapon_MutaniteSpear</LimitModeSingle_Selection>
-    <LimitModeAmount>Slots</LimitModeAmount>
-    <LimitModeAmount_Selection>2</LimitModeAmount_Selection>
-    <LimitModeSingleMelee>Selection</LimitModeSingleMelee>
-    <LimitModeSingleMelee_Absolute>1.9</LimitModeSingleMelee_Absolute>
-    <LimitModeSingleMelee_Selection>Beer|MeleeWeapon_Gladius|MeleeWeapon_Knife|MeleeWeapon_Katana|MeleeWeapon_Ikwa|MeleeWeapon_Mace|MeleeWeapon_Axe|MeleeWeapon_LongSword|MeleeWeapon_Spear|MeleeWeapon_Club|MeleeWeapon_MonoSwordBladelink|MeleeWeapon_ZeusHammerBladelink|MeleeWeapon_PlasmaSwordBladelink|MeleeWeapon_MonoSword|MeleeWeapon_Zeushammer|MeleeWeapon_PlasmaSword|Firebeater|MeleeWeapon_Warhammer</LimitModeSingleMelee_Selection>
-    <LimitModeAmountMelee>Slots</LimitModeAmountMelee>
-    <LimitModeAmountMelee_Selection>2</LimitModeAmountMelee_Selection>
-    <LimitModeSingleRanged>AbsoluteWeight</LimitModeSingleRanged>
-    <LimitModeSingleRanged_Absolute>2.55</LimitModeSingleRanged_Absolute>
-    <LimitModeAmountRanged>Slots</LimitModeAmountRanged>
-    <LimitModeAmountRanged_Selection>2</LimitModeAmountRanged_Selection>
-    <LimitModeAmountTotal>Slots</LimitModeAmountTotal>
-    <LimitModeAmountTotal_Selection>3</LimitModeAmountTotal_Selection>
-    <SidearmSpawnChance>0.2534246</SidearmSpawnChance>
-    <ReEquipBest>False</ReEquipBest>
-  </PeteTimesSix.SimpleSidearms>
-  <CharacterEditor>
-    <P_CE_AlphaColor>949438245,(0.25|0.2|0.15|1),(1|1|1|1),(0.955|0.93|0.873|1),(0.955|0.93|0.873|1),-463017038!(0.6352941|0.4156863|0.2235294|1),1022053066!(0.6352941|0.4156863|0.2235294|1),-2125614940!(0.6352941|0.4156863|0.2235294|1),-345870103!(0.6352941|0.4156863|0.2235294|1),-1488605544!(0.6352941|0.4156863|0.2235294|1);-1520382948,(0.016|0.531|0.852|1),(1|1|1|1),(1|0.937|0.814|1),(1|0.937|0.814|1),-412800847!(0.274|0.629|0.968|1),-345870103!(0.07710588|0.4088|0.8941177|1),-1328588829!(1|1|1|1),-974195073!(0.01934118|0.1831529|0.4935294|1);</P_CE_AlphaColor>
-    <P_CE_ForceImage>True</P_CE_ForceImage>
-    <P_CE_UseSortedPawnList>False</P_CE_UseSortedPawnList>
-    <P_CE_ShowInMenu>False</P_CE_ShowInMenu>
-    <P_CE_DisableObjects>False</P_CE_DisableObjects>
-    <P_CE_Hotkey>Ins</P_CE_Hotkey>
-    <P_CE_CustomPawn0>R'lyeh*Colonist_new*New Tribe|PlayerTribe*R'lyeh?R'lyeh?Deeps*50400000*-359993930000*2*Thin*Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal*1*Average_Normal*0:0:0:0:0:0*ponyA**66-3C-9E-FF*FF-FF-FF-FF*0.414931*FF-DB-99-FF*FF-DB-99-FF*FF-FF-FF-FF*Shooting|8|2|0|0:Melee|4|1|0|0:Construction|5|1|0|0:Mining|0|0|0|0:Cooking|10|2|0|0:Plants|0|0|0|0:Animals|0|0|0|0:Crafting|5|1|0|0:Artistic|2|0|0|0:Medicine|8|1|0|0:Social|0|0|0|0:Intellectual|8|2|0|0*Immunity|1:RCT_Aptitude|1:DislikesMen|0:SpeedOffset|2:Beauty|2:Gay|0**AbandonedChild23*Guardian55*Firefighter|0:Patient|3:Doctor|0:PatientBedRest|3:BasicWorker|3:Warden|0:Handling|0:Cooking|3:Hunting|3:Construction|0:Growing|0:Mining|3:PlantCutting|0:Smithing|0:Tailoring|0:Art|0:Crafting|0:Hauling|0:Cleaning|0:Research|0:Nursing|0:RimefellerCrafting|0:VBE_Writing|0:VCEF_Fishing|0:PelFireWarden|0:Diplomat|0:HaulingUrgent|0:FinishingOff|3**Apparel_BasicShirt|Cloth|A2-9D-98-FF|2|1|100:Apparel_Pants|Cloth|A2-9D-98-FF|2|1|100**Kills|0:KillsHumanlikes|0:KillsAnimals|0:KillsMechanoids|0:PawnsDowned|0:PawnsDownedHumanlikes|0:PawnsDownedAnimals|0:PawnsDownedMechanoids|0:ShotsFired|0:Headshots|0:DamageDealt|0:DamageTaken|0:TimesInMentalState|0:TimesOnFire|0:FiresExtinguished|0:OperationsReceived|0:OperationsPerformed|0:TimesTendedTo|0:TimesTendedOther|0:PeopleCaptured|0:PrisonersRecruited|0:PrisonersChatted|0:AnimalsTamed|0:AnimalsSlaughtered|0:MealsCooked|0:ThingsConstructed|0:ThingsInstalled|0:ThingsRepaired|0:ThingsCrafted|0:ThingsHauled|0:PlantsSown|0:PlantsHarvested|0:CellsMined|0:MessesCleaned|0:ResearchPointsResearched|0:CorpsesBuried|0:NutritionEaten|0:BodiesStripped|0:ThingsUninstalled|0:ThingsDeconstructed|0:ArtifactsActivated|0:ContainersOpened|0:SwitchesFlicked|0:TimeAsColonistOrColonyAnimal|0:TimeAsQuestLodger|0:TimeAsPrisoner|0:TimeInBed|0:TimeInBedForMedicalReasons|0:TimeDowned|0:TimeGettingFood|0:TimeGettingJoy|0:TimeUnderRoof|0:TimeDrafted|0:TimeOnFire|0:TimeInMentalState|0:TimeHauling|0:TimeHandlingAnimals|0:TimeFirefighting|0:TimeWardening|0:TimeHunting|0:TimeConstructing|0:TimeTreatingAndFeeding|0:TimeResearching|0:TimeCleaning|0:TimeRepairing|0:TimeMining|0:TimeSowingAndHarvesting|0*Mood|0.5:Food|0.8:Rest|0.963568:Joy|0.5913724:Beauty|0.5:Comfort|0.5:Outdoors|1:Indoors|1:DrugDesire|0.5:RoomSize|0.5:Bladder|1:Hygiene|1:DBHThirst|0.8369054***Spouse|Pikons?PK?Succubus|0**NoBeard*NoTattoo_Face*NoTattoo_Body*0*0*</P_CE_CustomPawn0>
-    <P_CE_CustomPawn1>PK*Colonist*New Tribe|PlayerTribe*Pikons?PK?Succubus*50400000*-2313837500*2*Thin*Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal*1*Narrow_Normal*0:0:0:0:0:0*AFUhairF31**DE-31-4E-FF*FF-FF-FF-FF*0.8211823*FA-7C-6A-FF*FA-7C-6A-FF*FF-FF-FF-FF*Shooting|8|1|0|0:Melee|10|2|0|0:Construction|5|0|0|0:Mining|6|2|0|0:Cooking|0|0|0|0:Plants|8|2|0|0:Animals|6|1|0|0:Crafting|5|0|0|0:Artistic|3|0|0|0:Medicine|4|1|0|0:Social|12|2|0|0:Intellectual|0|0|0|0*Kind|0:Bisexual|0:AdrenalineJunkie|0:Nimble|2:ShootingAccuracy|-1:RCT_GreenThumb|0**CaveChild30*Herbalist54*Firefighter|0:Patient|3:Doctor|0:PatientBedRest|3:BasicWorker|3:Warden|0:Handling|3:Cooking|3:Hunting|3:Construction|3:Growing|0:Mining|0:PlantCutting|0:Smithing|0:Tailoring|0:Art|3:Crafting|0:Hauling|3:Cleaning|3:Research|0:Nursing|0:RimefellerCrafting|3:VBE_Writing|0:VCEF_Fishing|0:PelFireWarden|0:Diplomat|0:HaulingUrgent|3:FinishingOff|3**Apparel_BasicShirt|Cloth|A2-9D-98-FF|2|1|100:Apparel_Pants|Cloth|A2-9D-98-FF|2|1|100**Kills|0:KillsHumanlikes|0:KillsAnimals|0:KillsMechanoids|0:PawnsDowned|0:PawnsDownedHumanlikes|0:PawnsDownedAnimals|0:PawnsDownedMechanoids|0:ShotsFired|0:Headshots|0:DamageDealt|0:DamageTaken|0:TimesInMentalState|0:TimesOnFire|0:FiresExtinguished|0:OperationsReceived|0:OperationsPerformed|0:TimesTendedTo|0:TimesTendedOther|0:PeopleCaptured|0:PrisonersRecruited|0:PrisonersChatted|0:AnimalsTamed|0:AnimalsSlaughtered|0:MealsCooked|0:ThingsConstructed|0:ThingsInstalled|0:ThingsRepaired|0:ThingsCrafted|0:ThingsHauled|0:PlantsSown|0:PlantsHarvested|0:CellsMined|0:MessesCleaned|0:ResearchPointsResearched|0:CorpsesBuried|0:NutritionEaten|0:BodiesStripped|0:ThingsUninstalled|0:ThingsDeconstructed|0:ArtifactsActivated|0:ContainersOpened|0:SwitchesFlicked|0:TimeAsColonistOrColonyAnimal|0:TimeAsQuestLodger|0:TimeAsPrisoner|0:TimeInBed|0:TimeInBedForMedicalReasons|0:TimeDowned|0:TimeGettingFood|0:TimeGettingJoy|0:TimeUnderRoof|0:TimeDrafted|0:TimeOnFire|0:TimeInMentalState|0:TimeHauling|0:TimeHandlingAnimals|0:TimeFirefighting|0:TimeWardening|0:TimeHunting|0:TimeConstructing|0:TimeTreatingAndFeeding|0:TimeResearching|0:TimeCleaning|0:TimeRepairing|0:TimeMining|0:TimeSowingAndHarvesting|0*Mood|0.5:Food|0.8:Rest|0.9386058:Joy|0.5131866:Beauty|0.5:Comfort|0.5:Outdoors|1:Indoors|1:DrugDesire|0.5:RoomSize|0.5:Bladder|1:Hygiene|1:DBHThirst|0.8476781***Spouse|R'lyeh?R'lyeh?Deeps|0**NoBeard*Face_Love*NoTattoo_Body*0*0*</P_CE_CustomPawn1>
-    <P_CE_CustomPawn2>R'lyeh*Colonist_new*New Tribe|PlayerTribe*R'lyeh?R'lyeh?Deeps*50400000*-359993930000*2*Thin*Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal*1*Average_Normal*0:0:0:0:0:0*ponyA**66-3C-9E-FF*FF-FF-FF-FF*0.414931*FF-DB-99-FF*FF-DB-99-FF*FF-FF-FF-FF*Shooting|8|2|0|0:Melee|4|1|0|0:Construction|5|1|0|0:Mining|0|0|0|0:Cooking|10|2|0|0:Plants|0|0|0|0:Animals|0|0|0|0:Crafting|5|1|0|0:Artistic|2|0|0|0:Medicine|8|1|0|0:Social|0|0|0|0:Intellectual|8|2|0|0*Immunity|1:RCT_Aptitude|1:DislikesMen|0:SpeedOffset|2:Beauty|2:Gay|0**AbandonedChild23*Guardian55*Firefighter|0:Patient|3:Doctor|0:PatientBedRest|3:BasicWorker|3:Warden|0:Handling|0:Cooking|3:Hunting|3:Construction|0:Growing|0:Mining|3:PlantCutting|0:Smithing|0:Tailoring|0:Art|0:Crafting|0:Hauling|0:Cleaning|0:Research|0:Nursing|0:RimefellerCrafting|0:VBE_Writing|0:VCEF_Fishing|0:PelFireWarden|0:Diplomat|0:HaulingUrgent|0:FinishingOff|3**Apparel_BasicShirt|Cloth|A2-9D-98-FF|2|1|100:Apparel_Pants|Cloth|A2-9D-98-FF|2|1|100**Kills|0:KillsHumanlikes|0:KillsAnimals|0:KillsMechanoids|0:PawnsDowned|0:PawnsDownedHumanlikes|0:PawnsDownedAnimals|0:PawnsDownedMechanoids|0:ShotsFired|0:Headshots|0:DamageDealt|0:DamageTaken|0:TimesInMentalState|0:TimesOnFire|0:FiresExtinguished|0:OperationsReceived|0:OperationsPerformed|0:TimesTendedTo|0:TimesTendedOther|0:PeopleCaptured|0:PrisonersRecruited|0:PrisonersChatted|0:AnimalsTamed|0:AnimalsSlaughtered|0:MealsCooked|0:ThingsConstructed|0:ThingsInstalled|0:ThingsRepaired|0:ThingsCrafted|0:ThingsHauled|0:PlantsSown|0:PlantsHarvested|0:CellsMined|0:MessesCleaned|0:ResearchPointsResearched|0:CorpsesBuried|0:NutritionEaten|0:BodiesStripped|0:ThingsUninstalled|0:ThingsDeconstructed|0:ArtifactsActivated|0:ContainersOpened|0:SwitchesFlicked|0:TimeAsColonistOrColonyAnimal|0:TimeAsQuestLodger|0:TimeAsPrisoner|0:TimeInBed|0:TimeInBedForMedicalReasons|0:TimeDowned|0:TimeGettingFood|0:TimeGettingJoy|0:TimeUnderRoof|0:TimeDrafted|0:TimeOnFire|0:TimeInMentalState|0:TimeHauling|0:TimeHandlingAnimals|0:TimeFirefighting|0:TimeWardening|0:TimeHunting|0:TimeConstructing|0:TimeTreatingAndFeeding|0:TimeResearching|0:TimeCleaning|0:TimeRepairing|0:TimeMining|0:TimeSowingAndHarvesting|0*Mood|0.5:Food|0.8:Rest|0.963568:Joy|0.5913724:Beauty|0.5:Comfort|0.5:Outdoors|1:Indoors|1:DrugDesire|0.5:RoomSize|0.5:Bladder|1:Hygiene|1:DBHThirst|0.8369054***Spouse|Pikons?PK?Succubus|0**NoBeard*NoTattoo_Face*NoTattoo_Body*0*0*</P_CE_CustomPawn2>
-  </CharacterEditor>
   <Children_and_Pregnancy>
     <pregnancy_disabled>True</pregnancy_disabled>
     <accelerated_growth>False</accelerated_growth>
@@ -62,8 +28,8 @@
     <showrevReverseFinishOff>False</showrevReverseFinishOff>
   </AllowTool>
   <Hospitality>
-    <disableArtAndCraft>False</disableArtAndCraft>
     <disableWarden>True</disableWarden>
+    <disableArtAndCraft>False</disableArtAndCraft>
     <maxGuestGroupSize>8</maxGuestGroupSize>
     <enableRecruitNotification>False</enableRecruitNotification>
   </Hospitality>
@@ -71,4 +37,7 @@
     <haulBeforeBill_needsInitForCs>False</haulBeforeBill_needsInitForCs>
     <haulBeforeBill>False</haulBeforeBill>
   </codeoptimist.jobsofopportunity>
+  <AvoidFriendlyFire>
+    <enableWhenUndrafted>True</enableWhenUndrafted>
+  </AvoidFriendlyFire>
 </settings>
