@@ -31,12 +31,10 @@
 				<li>PelFireWarden.Alert_FireWardenLacksFE</li>
 				<li>PelFireWarden.Alert_FireWardenLacksFB</li>
 				<li>PelFireWarden.Alert_FireWardenIsPyro</li>
-				<li>Hospitality.Alert_GuestHasNoFood</li>
 				<li>RimWorld.Alert_NeedResearchProject</li>
 				<li>RimWorld.Alert_AnimalFilth</li>
 			</keys>
 			<values>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
