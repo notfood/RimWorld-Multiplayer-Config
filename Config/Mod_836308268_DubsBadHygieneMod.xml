@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsBadHygiene.Settings">
-		<LastVersion>dubwise.dubsbadhygiene 3.0.2097</LastVersion>
+		<LastVersion>dubwise.dubsbadhygiene 3.0.2101</LastVersion>
 		<BladderRace />
 		<BladderBody />
 		<BladderHediff />
@@ -35,6 +35,7 @@
 		<AllowNonHuman>True</AllowNonHuman>
 		<FertilizerVisible>True</FertilizerVisible>
 		<OverrideNd>False</OverrideNd>
+		<DrinkMin>0</DrinkMin>
 		<DrinkCount>1</DrinkCount>
 		<DrinkPackSearchRange>20</DrinkPackSearchRange>
 		<ModOptionDefValues>

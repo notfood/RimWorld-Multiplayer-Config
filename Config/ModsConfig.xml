@@ -70,7 +70,6 @@
     <li>alex.birdup.cockatiel</li>
     <li>4loris4.morelinkables</li>
     <li>cucumpear.storage</li>
-    <li>dracoix.doormat.r12a</li>
     <li>dubwise.dubspaintshop</li>
     <li>elif.flooringanddecorativeoptions</li>
     <li>fluffy.stuffedfloors</li>
@@ -84,11 +83,13 @@
     <li>owlchemist.ceilingutilities</li>
     <li>owlchemist.modulartablesandchairs</li>
     <li>owlchemist.undergroundpowerconduits</li>
+    <li>owlchemist.packedsand</li>
     <li>owlchemist.wallutilities</li>
     <li>pyrce.mass.graves</li>
     <li>radzerp.wallcorners</li>
     <li>rimfridge.kv.rw</li>
     <li>sf.comfy.meditation</li>
+    <li>syrchalis.doormats</li>
     <li>solaris.furniturebase</li>
     <li>syrchalis.prosthetictable</li>
     <li>telkir.tmods.morefloors</li>
@@ -173,6 +174,7 @@
     <li>netrve.usemelee</li>
     <li>notfood.morethancapable</li>
     <li>oblitus.animalslogic</li>
+    <li>owlchemist.cleanpathfinding</li>
     <li>pathavoid.kv.rw</li>
     <li>revolus.animalsarefun</li>
     <li>tradingspot.kv.rw</li>
@@ -213,6 +215,7 @@
     <li>com.yayo.yayoani</li>
     <li>jaxe.bubbles</li>
     <li>jpt.speakup</li>
+    <li>owlchemist.scatteredstones</li>
     <li>edb.preparecarefully</li>
     <li>name.krypt.rimworld.moddiff</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>

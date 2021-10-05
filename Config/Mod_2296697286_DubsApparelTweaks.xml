@@ -3,6 +3,7 @@
 	<ModSettings Class="QuickFast.Settings">
 		<hairMeshScale>1.10000002</hairMeshScale>
 		<ChangeEquipSpeed>True</ChangeEquipSpeed>
+		<DraftedHidingMode>True</DraftedHidingMode>
 		<ShowHairUnderHats>True</ShowHairUnderHats>
 		<FlatRate>True</FlatRate>
 		<HatsIndoors>True</HatsIndoors>
@@ -12,5 +13,15 @@
 		<HideEquipment>True</HideEquipment>
 		<hairFilter />
 		<hatFilter />
+		<LayerVis>
+			<li>Shell</li>
+			<li>Overhead</li>
+			<li>Overhead_A</li>
+			<li>MSUtility</li>
+			<li>Belt_A</li>
+			<li>Belt</li>
+			<li>EyeCover</li>
+		</LayerVis>
+		<HatHairCombo />
 	</ModSettings>
 </SettingsBlock>

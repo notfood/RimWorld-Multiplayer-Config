@@ -12,6 +12,7 @@
 		<GestationPeriodDays>45</GestationPeriodDays>
 		<cryVolume>0</cryVolume>
 		<STILLBORN_CHANCE>0.0900000036</STILLBORN_CHANCE>
+		<debug_and_gsetting>True</debug_and_gsetting>
 		<child_cute_act_enabled>True</child_cute_act_enabled>
 		<HumanBodySize>0.713</HumanBodySize>
 		<HumanHeadSize>0.921999991</HumanHeadSize>

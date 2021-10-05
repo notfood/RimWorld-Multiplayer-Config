@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Numbers.Numbers_Settings">
 		<showMoreInfoThanVanilla>False</showMoreInfoThanVanilla>
+		<coolerThanTheWildlifeTab>False</coolerThanTheWildlifeTab>
 		<maxHeight>1</maxHeight>
 		<numbersPawnTableDefs />
 	</ModSettings>
