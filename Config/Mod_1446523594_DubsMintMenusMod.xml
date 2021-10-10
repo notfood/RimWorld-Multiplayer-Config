@@ -3,6 +3,7 @@
 	<ModSettings Class="DubsMintMenus.Settings">
 		<OrderBillsAz>True</OrderBillsAz>
 		<HideFinished>True</HideFinished>
+		<ReplacePlantMenu>False</ReplacePlantMenu>
 		<LastSavedBuild>746</LastSavedBuild>
 		<BoxSizeX>90</BoxSizeX>
 		<BoxSizeY>75</BoxSizeY>

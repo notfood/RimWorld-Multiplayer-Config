@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsBadHygiene.Settings">
-		<LastVersion>dubwise.dubsbadhygiene 3.0.2101</LastVersion>
+		<LastVersion>dubwise.dubsbadhygiene 3.0.2103</LastVersion>
 		<BladderRace />
 		<BladderBody />
 		<BladderHediff />
