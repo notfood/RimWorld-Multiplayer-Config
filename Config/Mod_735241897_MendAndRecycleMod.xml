@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="MendAndRecycle.Settings">
 		<removesDeadman>False</removesDeadman>
+		<useTableMending>True</useTableMending>
 		<requiresFuel>True</requiresFuel>
 		<requiresPower>True</requiresPower>
 		<costFromMaxHitPoints>0.100000001</costFromMaxHitPoints>

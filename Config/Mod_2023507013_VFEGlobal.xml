@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VFECore.VFEGlobalSettings">
-		<toggablePatch IsNull="True" />
+		<toggablePatch>
+			<keys />
+			<values />
+		</toggablePatch>
 		<disableCaching>False</disableCaching>
 		<isRandomGraphic>False</isRandomGraphic>
 		<hideRandomizeButton>False</hideRandomizeButton>
+		<weatherDamagesOptions>
+			<keys />
+			<values />
+		</weatherDamagesOptions>
 	</ModSettings>
 </SettingsBlock>

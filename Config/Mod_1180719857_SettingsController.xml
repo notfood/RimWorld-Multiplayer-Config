@@ -2,6 +2,5 @@
 <SettingsBlock>
 	<ModSettings Class="PathAvoid.Settings">
 		<PathAvoid.Version>1.0</PathAvoid.Version>
-		<PathAvoice.AdvancedModeEnabled>True</PathAvoice.AdvancedModeEnabled>
 	</ModSettings>
 </SettingsBlock>

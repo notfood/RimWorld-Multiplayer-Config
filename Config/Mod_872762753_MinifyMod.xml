@@ -4,11 +4,11 @@
 		<disabledDefList>
 			<li>airPipe</li>
 			<li>AncientAirConditioner</li>
+			<li>AncientATM</li>
 			<li>AncientBarrel</li>
-			<li>AncientRustedCar</li>
-			<li>AncientRustedCarFrame</li>
 			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
+			<li>AncientContainer</li>
 			<li>AncientCrate</li>
 			<li>AncientCryptosleepCasket</li>
 			<li>AncientDisplayBank</li>
@@ -18,63 +18,75 @@
 			<li>AncientFence</li>
 			<li>AncientGenerator</li>
 			<li>AncientGiantWheel</li>
-			<li>AncientJetEngine</li>
+			<li>AncientHydrant</li>
 			<li>AncientKitchenSink</li>
+			<li>AncientLamp</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
 			<li>AncientLockerBank</li>
 			<li>AncientLongCrate</li>
 			<li>AncientMachine</li>
-			<li>AncientLargeRustedEngineBlock</li>
 			<li>AncientMechDropBeacon</li>
-			<li>AncientMechanoidShell</li>
 			<li>AncientMegaCannonBarrel</li>
 			<li>AncientMegaCannonTripod</li>
+			<li>AncientMicrowave</li>
+			<li>AncientMilitaryCrate</li>
 			<li>AncientShipBeacon</li>
 			<li>AncientOperatingTable</li>
-			<li>AncientPipelineSection</li>
-			<li>AncientPodCar</li>
+			<li>AncientOven</li>
+			<li>AncientPipes</li>
 			<li>AncientPostbox</li>
 			<li>AncientRazorWire</li>
 			<li>AncientRefrigerator</li>
-			<li>AncientTank</li>
 			<li>AncientSecurityTurret</li>
 			<li>AncientShoppingCart</li>
 			<li>AncientSmallCrate</li>
+			<li>AncientSpacerCrate</li>
 			<li>AncientStorageCylinder</li>
 			<li>AncientStove</li>
 			<li>AncientSystemRack</li>
-			<li>AncientTankTrap</li>
+			<li>AncientTerminal_Worshipful</li>
 			<li>AncientTerminal</li>
-			<li>AncientRustedJeep</li>
+			<li>AncientToilet</li>
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
-			<li>AncientWarspiderRemains</li>
-			<li>AncientMiniWarwalkerRemains</li>
-			<li>AncientWarwalkerClaw</li>
-			<li>AncientWarwalkerFoot</li>
-			<li>AncientWarwalkerLeg</li>
-			<li>AncientWarwalkerShell</li>
-			<li>AncientWarwalkerTorso</li>
+			<li>AncientWashingMachine</li>
 			<li>AncientWheel</li>
 			<li>AnimalHarvestingSpot</li>
 			<li>AnimalSleepingSpot</li>
+			<li>VCE_AppleTree</li>
 			<li>Autodoor</li>
+			<li>BabySleepingSpot</li>
+			<li>Plant_TreeBamboo</li>
+			<li>VCE_BananaTree</li>
 			<li>Barricade</li>
 			<li>beveledwall</li>
+			<li>Plant_TreeBirch</li>
+			<li>GL_BoundaryWood</li>
+			<li>GL_BoundaryStone</li>
+			<li>GL_BoundaryStoneCorner</li>
+			<li>GL_BoundaryWoodCorner</li>
 			<li>ELIF_BBorder</li>
 			<li>Brick_Cliff_Left</li>
 			<li>Brick_Cliff_Right</li>
 			<li>Brick_CliffTop_Left</li>
 			<li>Brick_CliffTop_Right</li>
+			<li>Fence_BrickShort</li>
+			<li>Fence_BrickTall</li>
+			<li>BrickWall</li>
 			<li>BurnPit</li>
 			<li>ButcherSpot</li>
-			<li>CaravanJourneySpot</li>
 			<li>CaravanPackingSpot</li>
+			<li>CaravanJourneySpot</li>
+			<li>Plant_TreeCecropia</li>
+			<li>Fence_Chainlink</li>
+			<li>Gate_Chainlink</li>
+			<li>VCE_CherryTree</li>
+			<li>RGK_DoorOld</li>
 			<li>Column</li>
-			<li>RC2_FoodPrepSpot</li>
 			<li>ELIF_CBorder</li>
 			<li>CraftingSpot</li>
+			<li>Plant_TreeCypress</li>
 			<li>DeepOilWell</li>
 			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>DeepWaterWellInlet</li>
@@ -85,15 +97,23 @@
 			<li>Dirt_HillTop_Left</li>
 			<li>Dirt_HillTop_Right</li>
 			<li>Door</li>
+			<li>RGK_Door</li>
 			<li>DoubleSleepingSpot</li>
+			<li>Plant_TreeDrago</li>
+			<li>DryadCocoon</li>
+			<li>DryadHealingPod</li>
+			<li>Fence</li>
+			<li>RGK_WoodFence</li>
+			<li>FenceGate</li>
 			<li>Terraform_Topsoil-DirtFert</li>
 			<li>VFlowerarch</li>
 			<li>VFlowerbed</li>
 			<li>VFlowerbedCM</li>
 			<li>VFlowerbedCR</li>
-			<li>VeeFlowerbedB</li>
+			<li>GL_FlowerWall</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
+			<li>Plant_TreeGrayPine</li>
 			<li>ELIF_HStairs_DC</li>
 			<li>ELIF_HStairs_S</li>
 			<li>ELIF_HStairs_CC</li>
@@ -103,6 +123,7 @@
 			<li>HeavySandbags</li>
 			<li>Terraform_Ice-RockyDirt</li>
 			<li>Terraform_Ice-WaterShallow</li>
+			<li>Plant_TreeMaple</li>
 			<li>MarriageSpot</li>
 			<li>Terraform_Marsh-WaterDeep</li>
 			<li>Terraform_Marsh-SoilMarshy</li>
@@ -116,6 +137,7 @@
 			<li>Terraform_SoilMarshy-SoilF</li>
 			<li>MassGrave</li>
 			<li>MassGraveAlt</li>
+			<li>AncientMechDetritus</li>
 			<li>MeditationSpot</li>
 			<li>Metal_Cliff_Left</li>
 			<li>Metal_Cliff_Right</li>
@@ -128,15 +150,29 @@
 			<li>Terraform_Mud-RockyDirt</li>
 			<li>Terraform_Mud-SoilF</li>
 			<li>Filth_NapalmTrail</li>
+			<li>Plant_TreeOak</li>
 			<li>OilPipeline</li>
+			<li>Filth_OilSlick</li>
 			<li>OilWell</li>
+			<li>VCE_OrangeTree</li>
+			<li>VEF_OutpostDeliverySpot</li>
 			<li>Terraform_PackedDirt-SoilF</li>
+			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>
+			<li>VCE_PeachTree</li>
+			<li>VCE_PearTree</li>
+			<li>Plant_TreePine</li>
 			<li>Veeseedspot</li>
+			<li>VCE_PlumTree</li>
 			<li>sewagePipeStuff</li>
+			<li>Plant_TreePoplar</li>
 			<li>PowerConduit</li>
+			<li>KCSG_PowerConduit</li>
 			<li>PrimitiveWell</li>
+			<li>Plant_RatPalm</li>
+			<li>ELIF_ReinforcedWallA</li>
 			<li>SupesRemoteDoor</li>
+			<li>Terraform_SoilWorn-SoilF</li>
 			<li>Terraform_SoilF-SoilRich</li>
 			<li>RitualSpot</li>
 			<li>Terraform_RockyDirt-RockyDirt</li>
@@ -151,6 +187,8 @@
 			<li>Terraform_Sand-SoilF</li>
 			<li>Terraform_Sand-Gravel</li>
 			<li>Sandbags</li>
+			<li>SeedExtractionSpot</li>
+			<li>SewageOutlet</li>
 			<li>Terraform_WaterShallow-WaterDeep</li>
 			<li>Terraform_WaterShallow-Marsh</li>
 			<li>Terraform_WaterShallow-RockyDirt</li>
@@ -189,14 +227,23 @@
 			<li>Terraform_Gravel-Sand</li>
 			<li>Terraform_Gravel-SoilF</li>
 			<li>Terraform_Gravel-Gravel</li>
+			<li>Plant_TreeTeak</li>
 			<li>Terraform_SoilRich-SoilTilled</li>
 			<li>Terraform_Stone-Topsoil</li>
 			<li>TradingSpot</li>
 			<li>AnimalTrainingSpot</li>
+			<li>PowerConduitInvisible</li>
+			<li>WaterproofPowerConduitInvisible</li>
 			<li>Vent</li>
+			<li>GL_VentWall</li>
 			<li>Wall</li>
+			<li>RGK_Wall</li>
+			<li>GL_Wall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
+			<li>Plant_TreeWillow</li>
+			<li>GL_WindowWall</li>
+			<li>Plant_Witchwood</li>
 		</disabledDefList>
 	</ModSettings>
 </SettingsBlock>

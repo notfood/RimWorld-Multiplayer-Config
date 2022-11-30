@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProcessorFramework.PF_Settings">
+		<PF_showProcessIconGlobal>True</PF_showProcessIconGlobal>
+		<PF_processIconSize>0.600000024</PF_processIconSize>
+		<PF_showCurrentQualityIcon>True</PF_showCurrentQualityIcon>
+		<PF_singleItemIcon>True</PF_singleItemIcon>
+		<PF_productIcon>True</PF_productIcon>
+		<PF_ingredientIcon>True</PF_ingredientIcon>
+		<PF_defaultTargetQualityInt>0</PF_defaultTargetQualityInt>
+		<PF_replaceDestroyedProcessors>True</PF_replaceDestroyedProcessors>
+		<PF_initialProcessState>firstonly</PF_initialProcessState>
+	</ModSettings>
+</SettingsBlock>

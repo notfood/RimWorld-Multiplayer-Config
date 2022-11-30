@@ -2,8 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="CrashLanding.CLSettings">
 		<rainTimeDelay>2</rainTimeDelay>
+		<fireMultiplier>1</fireMultiplier>
 		<partsTimeDelayMultiplier>1</partsTimeDelayMultiplier>
-		<colonistPerBlockCount>0</colonistPerBlockCount>
-		<fireMultiplier>3</fireMultiplier>
 	</ModSettings>
 </SettingsBlock>

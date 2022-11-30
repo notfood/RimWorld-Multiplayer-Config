@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="RecipeIcons.Settings">
-		<enableTooltip>True</enableTooltip>
-		<disableSmallMenus>True</disableSmallMenus>
-		<showMod>True</showMod>
-	</ModSettings>
-</SettingsBlock>

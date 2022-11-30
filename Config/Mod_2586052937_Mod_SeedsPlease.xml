@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SeedsPleaseLite.ModSettings_SeedsPleaseLite">
+		<marketValueModifier>1</marketValueModifier>
+		<extractionModifier>1</extractionModifier>
+		<seedFactorModifier>1</seedFactorModifier>
+	</ModSettings>
+</SettingsBlock>

@@ -69,6 +69,7 @@
 				<li>VEE_WildMenWanderIn</li>
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
+				<li>WastepackInfestation</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -134,6 +135,7 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -207,6 +209,7 @@
 				<li>VEE_WildMenWanderIn</li>
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
+				<li>WastepackInfestation</li>
 			</keys>
 			<values>
 				<li>0.799999952</li>
@@ -275,6 +278,7 @@
 				<li>0.5</li>
 				<li>0.449999988</li>
 				<li>0.399999976</li>
+				<li>0.00999999978</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -345,6 +349,7 @@
 				<li>VEE_WildMenWanderIn</li>
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
+				<li>WastepackInfestation</li>
 			</keys>
 			<values>
 				<li>0.800000012</li>
@@ -413,6 +418,7 @@
 				<li>0.5</li>
 				<li>0.449999988</li>
 				<li>0.400000006</li>
+				<li>0.0120000001</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>

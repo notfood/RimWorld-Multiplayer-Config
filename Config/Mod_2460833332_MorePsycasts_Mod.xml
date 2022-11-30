@@ -79,8 +79,50 @@
 				<li>NF_Ignite</li>
 				<li>NF_Haste</li>
 				<li>NF_Pounce</li>
+				<li>Bloodfeed</li>
+				<li>Coagulate</li>
+				<li>ReimplantXenogerm</li>
+				<li>PiercingSpine</li>
+				<li>Resurrect</li>
+				<li>AcidSpray</li>
+				<li>FoamSpray</li>
+				<li>FireSpew</li>
+				<li>Longjump</li>
+				<li>FireBurst</li>
+				<li>AnimalWarcall</li>
+				<li>LongjumpMech</li>
+				<li>LongjumpMechLauncher</li>
+				<li>SmokepopMech</li>
+				<li>FirefoampopMech</li>
+				<li>ResurrectionMech</li>
+				<li>RemoteRepair</li>
+				<li>RemoteShield</li>
+				<li>MorePsycasts_BoostImmunity</li>
+				<li>MorePsycasts_CureDisease</li>
+				<li>MorePsycasts_ReverseAging</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

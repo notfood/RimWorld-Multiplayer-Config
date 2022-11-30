@@ -2,6 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="MoreTraitSlots.Settings">
 		<traitsMin>3</traitsMin>
-		<traitsMax>6</traitsMax>
+		<traitsMax>5</traitsMax>
 	</ModSettings>
 </SettingsBlock>

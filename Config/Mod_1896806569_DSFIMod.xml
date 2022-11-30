@@ -2,5 +2,37 @@
 <SettingsBlock>
 	<ModSettings Class="DSFI.DSFISettings">
 		<wanderMultiplier>1</wanderMultiplier>
+		<idleJobActivated>
+			<keys>
+				<li>IdleJobGiver_TakeBreakTime</li>
+				<li>IdleJobGiver_MendItem</li>
+				<li>IdleJobGiver_WatchResearch</li>
+				<li>IdleJobGiver_WatchWorking</li>
+				<li>IdleJobGiver_ObservingAnimal</li>
+				<li>IdleJobGiver_MessingAround</li>
+				<li>IdleJobGiver_LookAroundRoom</li>
+				<li>IdleJobGiver_PracticeMelee</li>
+				<li>IdleJobGiver_ThrowingStone</li>
+				<li>IdleJobGiver_Graffiti</li>
+				<li>IdleJobGiver_CleaningGun</li>
+				<li>IdleJobGiver_Gardening</li>
+				<li>IdleJobGiver_Thinking</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</idleJobActivated>
 	</ModSettings>
 </SettingsBlock>

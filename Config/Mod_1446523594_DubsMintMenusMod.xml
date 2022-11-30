@@ -15,6 +15,7 @@
 		<listWidth>404</listWidth>
 		<ResearchListWidth>350</ResearchListWidth>
 		<WheelOnRightClick>True</WheelOnRightClick>
+		<pinnedArchitectTabs IsNull="True" />
 		<ResourceReadout>
 			<li>MealSimple</li>
 			<li>Kibble</li>

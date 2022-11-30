@@ -29,8 +29,9 @@
   </AllowTool>
   <Hospitality>
     <disableWarden>True</disableWarden>
-    <disableArtAndCraft>False</disableArtAndCraft>
     <maxGuestGroupSize>8</maxGuestGroupSize>
+    <disableArtAndCraft>False</disableArtAndCraft>
+    <guestGroupSize>1|16</guestGroupSize>
     <enableRecruitNotification>False</enableRecruitNotification>
   </Hospitality>
   <codeoptimist.jobsofopportunity>
