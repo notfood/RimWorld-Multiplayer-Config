@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterInfestations.BetterInfestationsSettings">
+		<initialPawnsPoints>350</initialPawnsPoints>
+		<jellyMultiplier>0.25</jellyMultiplier>
+		<defenderMinSpawnInDays>0.75</defenderMinSpawnInDays>
+		<defenderMaxSpawnInDays>1.25</defenderMaxSpawnInDays>
+		<hunter1MinSpawnInDays>0.850000024</hunter1MinSpawnInDays>
+		<hunter1MaxSpawnInDays>1.39999998</hunter1MaxSpawnInDays>
+		<hunter2MinSpawnInDays>0.850000024</hunter2MinSpawnInDays>
+		<hunter2MaxSpawnInDays>1.39999998</hunter2MaxSpawnInDays>
+		<hunter3MinSpawnInDays>0.850000024</hunter3MinSpawnInDays>
+		<hunter3MaxSpawnInDays>1.39999998</hunter3MaxSpawnInDays>
+		<queenHiveMinSpawnInDays>1.60000002</queenHiveMinSpawnInDays>
+		<queenHiveMaxSpawnInDays>2.79999995</queenHiveMaxSpawnInDays>
+		<hiveReproductionMinSpawnInDays>3.79999995</hiveReproductionMinSpawnInDays>
+		<hiveReproductionMaxSpawnInDays>5.19999981</hiveReproductionMaxSpawnInDays>
+	</ModSettings>
+</SettingsBlock>

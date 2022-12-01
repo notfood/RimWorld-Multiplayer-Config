@@ -100,8 +100,38 @@
 				<li>MorePsycasts_BoostImmunity</li>
 				<li>MorePsycasts_CureDisease</li>
 				<li>MorePsycasts_ReverseAging</li>
+				<li>VME_EnforceCompliance</li>
+				<li>VME_LeaderConversionRitual</li>
+				<li>VME_LeaderConvert</li>
+				<li>VME_LeaderPreachHealth</li>
+				<li>VME_LeaderReassure</li>
+				<li>VME_LeaderCounsel</li>
+				<li>VME_StrengthenFlame</li>
+				<li>VME_HarvestBodyParts</li>
+				<li>VME_TameInsectoid</li>
+				<li>VME_ConstructANest</li>
+				<li>VME_EnableSelfDestruct</li>
+				<li>VME_MedicalEmergency</li>
+				<li>VME_ThrowParty</li>
+				<li>VME_CallTradeCaravan</li>
+				<li>VME_MakeADessert</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

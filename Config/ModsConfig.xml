@@ -15,6 +15,7 @@
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>dhultgren.keepbedownership</li>
     <li>dninemfive.qualitycooldown</li>
+    <li>dra.woodisnaturalfortrees</li>
     <li>dubwise.dubsappareltweaks</li>
     <li>dvs.norandomrelations</li>
     <li>erdelf.minifyeverything</li>
@@ -27,6 +28,7 @@
     <li>nercury.assignanimalfood</li>
     <li>notfood.frameratecontrol</li>
     <li>ogre.ogrestack</li>
+    <li>opa.allspecialistscanwork</li>
     <li>owlchemist.bettervanillamasking</li>
     <li>syrchalis.harvestyieldpatch</li>
     <li>veh.freelove</li>
@@ -37,7 +39,6 @@
     <li>rh2.chicken.mitchell.2.hairstyles</li>
     <li>rimsenal.hair</li>
     <li>spoonshortage.spoonshairmod</li>
-    <li>uru.keomono.friends.hair</li>
     <li>won.hair</li>
     <li>won2.hair</li>
     <li>handandfootwearcontinued.kv.rw</li>
@@ -93,8 +94,8 @@
     <li>mlie.medicalsupplements</li>
     <li>mlie.newlimbsneedstraining</li>
     <li>proxyer.desurgeries.desurgeries</li>
-    <li>azuraal.choiceofpsycasts</li>
     <li>noodlesking.morepsycasts</li>
+    <li>vanillaexpanded.vpsycastse</li>
     <li>aelanna.eccentrictech.core</li>
     <li>aelanna.eccentrictech.advancedshields</li>
     <li>5katz.commschat</li>
@@ -104,6 +105,7 @@
     <li>proxyer.desurgeries.dbhpatch</li>
     <li>twokay.plushies.specific</li>
     <li>vanillaexpanded.vbookse</li>
+    <li>vanillaexpanded.vmemese</li>
     <li>tikubonn.stuffeddoll</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitch</li>
@@ -113,13 +115,13 @@
     <li>katavrik.crashlanding</li>
     <li>notfood.infused</li>
     <li>relaxedotter.moreinspirationtypes</li>
+    <li>sinnamon.moreritualrewards1.4</li>
     <li>sr.modrimworld.raidextension</li>
     <li>vanillaexpanded.vee</li>
     <li>laast.worldmapenhanced</li>
     <li>oblitus.mylittleplanet</li>
     <li>avilmask.nonunopinata</li>
     <li>caravanjourneyspot.leeh</li>
-    <li>codeoptimist.jobsofopportunity</li>
     <li>dhultgren.useminifiedbuildings</li>
     <li>gguake.ai.dsfi</li>
     <li>grizzlemethis.tradingspot.rw</li>
@@ -127,7 +129,7 @@
     <li>holdthegrenades.1trickponyta</li>
     <li>jamaicancastle.shoo</li>
     <li>kittahkhan.grazeup</li>
-    <li>llunak.moreprecepts</li>
+    <li>machine.betterinfestations</li>
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.badcanbegood</li>
@@ -156,12 +158,16 @@
     <li>falconne.aff</li>
     <li>fluffy.areaunlocker</li>
     <li>gguake.ui.armorinfo</li>
+    <li>jp.strangerdanger</li>
     <li>mersid.powertab</li>
     <li>mlie.flickablestorage</li>
     <li>navyseal5.moreharvestdesignators</li>
     <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>
+    <li>owlchemist.researchpowl</li>
+    <li>owlchemist.scatteredflames</li>
+    <li>owlchemist.scatteredstones</li>
     <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
     <li>tammybee.restocknotification</li>

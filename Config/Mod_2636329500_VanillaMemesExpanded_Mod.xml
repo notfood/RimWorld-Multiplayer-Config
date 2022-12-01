@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VanillaMemesExpanded.VanillaMemesExpanded_Settings">
+		<memeAmount>4</memeAmount>
+		<ritualsAmount>6</ritualsAmount>
+		<stylesAmount>5</stylesAmount>
+		<relicsAmount>3</relicsAmount>
+		<buildingsAmount>2</buildingsAmount>
+	</ModSettings>
+</SettingsBlock>

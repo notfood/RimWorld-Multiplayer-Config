@@ -20,7 +20,6 @@
 			<li>AncientGiantWheel</li>
 			<li>AncientHydrant</li>
 			<li>AncientKitchenSink</li>
-			<li>AncientLamp</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
 			<li>AncientLockerBank</li>
@@ -86,6 +85,9 @@
 			<li>Column</li>
 			<li>ELIF_CBorder</li>
 			<li>CraftingSpot</li>
+			<li>Ship_Engine_CrashLanded</li>
+			<li>Ship_Reactor_CrashLanded</li>
+			<li>Ship_Beam_CrashLanded</li>
 			<li>Plant_TreeCypress</li>
 			<li>DeepOilWell</li>
 			<li>Terraform_WaterDeep-WaterShallow</li>

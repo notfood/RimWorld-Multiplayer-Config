@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="JobsOfOpportunity.Mod+Settings">
+		<DrawSpecialHauls>True</DrawSpecialHauls>
 		<Opportunity_MaxStartToThing>30</Opportunity_MaxStartToThing>
 		<Opportunity_MaxStartToThingPctOrigTrip>0.5</Opportunity_MaxStartToThingPctOrigTrip>
 		<Opportunity_MaxStoreToJob>50</Opportunity_MaxStoreToJob>
@@ -2856,7 +2857,6 @@
 				<li>Frame_Turret_RocketswarmLauncher</li>
 				<li>Blueprint_Sandbags</li>
 				<li>Frame_Sandbags</li>
-				<li>Blueprint_Install_Sandbags</li>
 				<li>Blueprint_Barricade</li>
 				<li>Frame_Barricade</li>
 				<li>Blueprint_TrapSpike</li>
@@ -2920,18 +2920,6 @@
 				<li>Frame_Cooler</li>
 				<li>Blueprint_Vent</li>
 				<li>Frame_Vent</li>
-				<li>Blueprint_Install_Plant_TreeDrago</li>
-				<li>Blueprint_Install_Plant_TreeWillow</li>
-				<li>Blueprint_Install_Plant_TreeCypress</li>
-				<li>Blueprint_Install_Plant_TreeMaple</li>
-				<li>Blueprint_Install_Plant_TreeOak</li>
-				<li>Blueprint_Install_Plant_TreePoplar</li>
-				<li>Blueprint_Install_Plant_TreePine</li>
-				<li>Blueprint_Install_Plant_TreeBirch</li>
-				<li>Blueprint_Install_Plant_TreeTeak</li>
-				<li>Blueprint_Install_Plant_TreeCecropia</li>
-				<li>Blueprint_Install_Plant_TreePalm</li>
-				<li>Blueprint_Install_Plant_TreeBamboo</li>
 				<li>Blueprint_Drape</li>
 				<li>Frame_Drape</li>
 				<li>Blueprint_Install_Drape</li>
@@ -3166,9 +3154,6 @@
 				<li>Frame_BasicRecharger</li>
 				<li>Blueprint_StandardRecharger</li>
 				<li>Frame_StandardRecharger</li>
-				<li>Blueprint_Install_Plant_TreeGrayPine</li>
-				<li>Blueprint_Install_Plant_Witchwood</li>
-				<li>Blueprint_Install_Plant_RatPalm</li>
 				<li>Blueprint_BarrelProcessor</li>
 				<li>Frame_BarrelProcessor</li>
 				<li>Blueprint_Install_BarrelProcessor</li>
@@ -3299,52 +3284,37 @@
 				<li>Blueprint_Install_ELIF_Ramp_5S</li>
 				<li>Blueprint_ELIF_FStairs_S</li>
 				<li>Frame_ELIF_FStairs_S</li>
-				<li>Blueprint_Install_ELIF_FStairs_S</li>
 				<li>Blueprint_ELIF_FStairs_SC</li>
 				<li>Frame_ELIF_FStairs_SC</li>
-				<li>Blueprint_Install_ELIF_FStairs_SC</li>
 				<li>Blueprint_ELIF_FStairs_CC</li>
 				<li>Frame_ELIF_FStairs_CC</li>
-				<li>Blueprint_Install_ELIF_FStairs_CC</li>
 				<li>Blueprint_ELIF_FStairs_RC</li>
 				<li>Frame_ELIF_FStairs_RC</li>
-				<li>Blueprint_Install_ELIF_FStairs_RC</li>
 				<li>Blueprint_ELIF_FStairs_DC</li>
 				<li>Frame_ELIF_FStairs_DC</li>
-				<li>Blueprint_Install_ELIF_FStairs_DC</li>
 				<li>Blueprint_ELIF_HStairs_S</li>
 				<li>Frame_ELIF_HStairs_S</li>
-				<li>Blueprint_Install_ELIF_HStairs_S</li>
 				<li>Blueprint_ELIF_HStairs_SC</li>
 				<li>Frame_ELIF_HStairs_SC</li>
-				<li>Blueprint_Install_ELIF_HStairs_SC</li>
 				<li>Blueprint_ELIF_HStairs_CC</li>
 				<li>Frame_ELIF_HStairs_CC</li>
-				<li>Blueprint_Install_ELIF_HStairs_CC</li>
 				<li>Blueprint_ELIF_HStairs_RC</li>
 				<li>Frame_ELIF_HStairs_RC</li>
-				<li>Blueprint_Install_ELIF_HStairs_RC</li>
 				<li>Blueprint_ELIF_HStairs_DC</li>
 				<li>Frame_ELIF_HStairs_DC</li>
-				<li>Blueprint_Install_ELIF_HStairs_DC</li>
 				<li>Blueprint_ELIF_WallMountedFTV</li>
 				<li>Frame_ELIF_WallMountedFTV</li>
 				<li>Blueprint_Install_ELIF_WallMountedFTV</li>
 				<li>Blueprint_ELIF_HBorder</li>
 				<li>Frame_ELIF_HBorder</li>
-				<li>Blueprint_Install_ELIF_HBorder</li>
 				<li>Blueprint_ELIF_SBorder</li>
 				<li>Frame_ELIF_SBorder</li>
-				<li>Blueprint_Install_ELIF_SBorder</li>
 				<li>Blueprint_ELIF_BBorder</li>
 				<li>Frame_ELIF_BBorder</li>
-				<li>Blueprint_Install_ELIF_BBorder</li>
 				<li>Blueprint_ELIF_WBorder</li>
 				<li>Frame_ELIF_WBorder</li>
-				<li>Blueprint_Install_ELIF_WBorder</li>
 				<li>Blueprint_ELIF_CBorder</li>
 				<li>Frame_ELIF_CBorder</li>
-				<li>Blueprint_Install_ELIF_CBorder</li>
 				<li>Blueprint_ELIF_Banner_A</li>
 				<li>Frame_ELIF_Banner_A</li>
 				<li>Blueprint_Install_ELIF_Banner_A</li>
@@ -3443,16 +3413,12 @@
 				<li>Frame_Gate_Stone</li>
 				<li>Blueprint_VFlowerarch</li>
 				<li>Frame_VFlowerarch</li>
-				<li>Blueprint_Install_VFlowerarch</li>
 				<li>Blueprint_VFlowerbed</li>
 				<li>Frame_VFlowerbed</li>
-				<li>Blueprint_Install_VFlowerbed</li>
 				<li>Blueprint_VFlowerbedCM</li>
 				<li>Frame_VFlowerbedCM</li>
-				<li>Blueprint_Install_VFlowerbedCM</li>
 				<li>Blueprint_VFlowerbedCR</li>
 				<li>Frame_VFlowerbedCR</li>
-				<li>Blueprint_Install_VFlowerbedCR</li>
 				<li>Blueprint_VeeFlowers</li>
 				<li>Frame_VeeFlowers</li>
 				<li>Blueprint_Install_VeeFlowers</li>
@@ -3473,7 +3439,6 @@
 				<li>Blueprint_Install_VeeZZdea</li>
 				<li>Blueprint_Veeseedspot</li>
 				<li>Frame_Veeseedspot</li>
-				<li>Blueprint_Install_Veeseedspot</li>
 				<li>Blueprint_VeeShelf</li>
 				<li>Frame_VeeShelf</li>
 				<li>Blueprint_Install_VeeShelf</li>
@@ -3991,7 +3956,6 @@
 				<li>Blueprint_Install_CompostBarrel</li>
 				<li>Blueprint_HeavySandbags</li>
 				<li>Frame_HeavySandbags</li>
-				<li>Blueprint_Install_HeavySandbags</li>
 				<li>Blueprint_RFF_ScrapGenerator</li>
 				<li>Frame_RFF_ScrapGenerator</li>
 				<li>Blueprint_SeedExtractionSpot</li>
@@ -4016,15 +3980,8 @@
 				<li>Blueprint_Install_VCE_CheesePress</li>
 				<li>Blueprint_VCE_StewPot</li>
 				<li>Frame_VCE_StewPot</li>
-				<li>Blueprint_Install_VCE_AppleTree</li>
-				<li>Blueprint_Install_VCE_PeachTree</li>
-				<li>Blueprint_Install_VCE_CherryTree</li>
-				<li>Blueprint_Install_VCE_PlumTree</li>
-				<li>Blueprint_Install_VCE_PearTree</li>
 				<li>Blueprint_Install_VCE_Opuntia</li>
 				<li>Blueprint_Install_VCE_BearBerryBush</li>
-				<li>Blueprint_Install_VCE_BananaTree</li>
-				<li>Blueprint_Install_VCE_OrangeTree</li>
 				<li>Blueprint_WFFT_FishTrap</li>
 				<li>Frame_WFFT_FishTrap</li>
 				<li>Blueprint_Install_WFFT_FishTrap</li>
@@ -6145,50 +6102,6 @@
 				<li>Corpse_ACPSpiritwolf</li>
 				<li>Corpse_ACPSpiritwolfFF</li>
 				<li>Corpse_ACPWoolyRhino</li>
-				<li>Psytrainer_Painblock</li>
-				<li>Psytrainer_Stun</li>
-				<li>Psytrainer_Burden</li>
-				<li>Psytrainer_BlindingPulse</li>
-				<li>Psytrainer_EntropyDump</li>
-				<li>Psytrainer_Beckon</li>
-				<li>Psytrainer_VertigoPulse</li>
-				<li>Psytrainer_ChaosSkip</li>
-				<li>Psytrainer_Skip</li>
-				<li>Psytrainer_Wallraise</li>
-				<li>Psytrainer_Smokepop</li>
-				<li>Psytrainer_Focus</li>
-				<li>Psytrainer_Berserk</li>
-				<li>Psytrainer_Invisibility</li>
-				<li>Psytrainer_BerserkPulse</li>
-				<li>Psytrainer_ManhunterPulse</li>
-				<li>Psytrainer_MassChaosSkip</li>
-				<li>Psytrainer_Waterskip</li>
-				<li>Psytrainer_Flashstorm</li>
-				<li>Psytrainer_BulletShield</li>
-				<li>Psytrainer_SolarPinhole</li>
-				<li>Psytrainer_WordOfTrust</li>
-				<li>Psytrainer_WordOfJoy</li>
-				<li>Psytrainer_WordOfLove</li>
-				<li>Psytrainer_WordOfSerenity</li>
-				<li>Psytrainer_WordOfInspiration</li>
-				<li>Psytrainer_Farskip</li>
-				<li>Psytrainer_Neuroquake</li>
-				<li>Psytrainer_Chunkskip</li>
-				<li>Psytrainer_MorePsycasts_StabilizingTouch</li>
-				<li>Psytrainer_MorePsycasts_HealingTouch</li>
-				<li>Psytrainer_MorePsycasts_FlashHeal</li>
-				<li>Psytrainer_MorePsycasts_HealScars</li>
-				<li>Psytrainer_MorePsycasts_RegrowBodyParts</li>
-				<li>Psytrainer_MorePsycasts_RevivingTouch</li>
-				<li>Psytrainer_MorePsycasts_Ignite</li>
-				<li>Psytrainer_MorePsycasts_ArcticPinhole</li>
-				<li>Psytrainer_MorePsycasts_CleanSkip</li>
-				<li>Psytrainer_MorePsycasts_HaulSkip</li>
-				<li>Psytrainer_MorePsycasts_Mending</li>
-				<li>Psytrainer_MorePsycasts_FertilitySkip</li>
-				<li>Psytrainer_MorePsycasts_BoostImmunity</li>
-				<li>Psytrainer_MorePsycasts_CureDisease</li>
-				<li>Psytrainer_MorePsycasts_ReverseAging</li>
 				<li>Neurotrainer_Shooting</li>
 				<li>Neurotrainer_Melee</li>
 				<li>Neurotrainer_Construction</li>
@@ -6202,12 +6115,6 @@
 				<li>Neurotrainer_Social</li>
 				<li>Neurotrainer_Intellectual</li>
 				<li>Blueprint_Install_AncientLamp</li>
-				<li>Blueprint_Install_AncientConcreteBarrier</li>
-				<li>Blueprint_Install_AncientLamppost</li>
-				<li>Blueprint_Install_Snowman</li>
-				<li>Blueprint_Install_SleepingSpot</li>
-				<li>Blueprint_Install_DoubleSleepingSpot</li>
-				<li>Blueprint_Install_AnimalSleepingSpot</li>
 				<li>Blueprint_Install_TorchLamp</li>
 				<li>Blueprint_Install_CommsConsole</li>
 				<li>Blueprint_Install_MoisturePump</li>
@@ -6215,27 +6122,17 @@
 				<li>Blueprint_Install_LongRangeMineralScanner</li>
 				<li>Blueprint_Install_PodLauncher</li>
 				<li>Blueprint_Install_TransportPod</li>
-				<li>Blueprint_Install_Grave</li>
 				<li>Blueprint_Install_Sarcophagus</li>
 				<li>Blueprint_Install_CryptosleepCasket</li>
-				<li>Blueprint_Install_AncientCryptosleepCasket</li>
-				<li>Blueprint_Install_MarriageSpot</li>
-				<li>Blueprint_Install_PartySpot</li>
-				<li>Blueprint_Install_CaravanPackingSpot</li>
 				<li>Blueprint_Install_SteleLarge</li>
 				<li>Blueprint_Install_SteleGrand</li>
 				<li>Blueprint_Install_Hive</li>
-				<li>Blueprint_Install_PowerConduit</li>
-				<li>Blueprint_Install_WaterproofConduit</li>
 				<li>Blueprint_Install_PowerSwitch</li>
 				<li>Blueprint_Install_WoodFiredGenerator</li>
 				<li>Blueprint_Install_ChemfuelPoweredGenerator</li>
 				<li>Blueprint_Install_WindTurbine</li>
 				<li>Blueprint_Install_SolarGenerator</li>
-				<li>Blueprint_Install_GeothermalGenerator</li>
 				<li>Blueprint_Install_WatermillGenerator</li>
-				<li>Blueprint_Install_CraftingSpot</li>
-				<li>Blueprint_Install_ButcherSpot</li>
 				<li>Blueprint_Install_BiofuelRefinery</li>
 				<li>Blueprint_Install_FabricationBench</li>
 				<li>Blueprint_Install_HiTechResearchBench</li>
@@ -6248,24 +6145,16 @@
 				<li>Blueprint_Install_Artillery_Mortar</li>
 				<li>Blueprint_Install_Turret_RocketswarmLauncher</li>
 				<li>Blueprint_Install_Gun_RocketswarmLauncher</li>
-				<li>Blueprint_Install_Barricade</li>
 				<li>Blueprint_Install_Ship_Beam</li>
 				<li>Blueprint_Install_Ship_CryptosleepCasket</li>
 				<li>Blueprint_Install_Ship_ComputerCore</li>
 				<li>Blueprint_Install_Ship_Reactor</li>
 				<li>Blueprint_Install_Ship_Engine</li>
 				<li>Blueprint_Install_Ship_SensorCluster</li>
-				<li>Blueprint_Install_Door</li>
-				<li>Blueprint_Install_Autodoor</li>
 				<li>Blueprint_Install_AnimalFlap</li>
-				<li>Blueprint_Install_Wall</li>
-				<li>Blueprint_Install_Fence</li>
-				<li>Blueprint_Install_FenceGate</li>
-				<li>Blueprint_Install_Column</li>
 				<li>Blueprint_Install_Campfire</li>
 				<li>Blueprint_Install_PassiveCooler</li>
 				<li>Blueprint_Install_Cooler</li>
-				<li>Blueprint_Install_Vent</li>
 				<li>Blueprint_Install_ActivatorCountdown</li>
 				<li>Blueprint_Install_ActivatorProximity</li>
 				<li>Blueprint_Install_ShieldGeneratorMortar</li>
@@ -6277,56 +6166,9 @@
 				<li>Blueprint_Install_Turret_AutoChargeBlaster</li>
 				<li>Blueprint_Install_Turret_AutoInferno</li>
 				<li>Blueprint_Install_Turret_AutoMortar</li>
-				<li>Blueprint_Install_MeditationSpot</li>
-				<li>Blueprint_Install_AncientTerminal_Worshipful</li>
-				<li>Blueprint_Install_AncientTerminal</li>
-				<li>Blueprint_Install_AncientEnemyTerminal</li>
 				<li>Blueprint_Install_AncientHermeticCrate</li>
 				<li>Blueprint_Install_AncientSecurityCrate</li>
-				<li>Blueprint_Install_AncientCommsConsole</li>
-				<li>Blueprint_Install_AncientFuelNode</li>
-				<li>Blueprint_Install_AncientSystemRack</li>
-				<li>Blueprint_Install_AncientEquipmentBlocks</li>
-				<li>Blueprint_Install_AncientMachine</li>
-				<li>Blueprint_Install_AncientStorageCylinder</li>
 				<li>Blueprint_Install_AncientBed</li>
-				<li>Blueprint_Install_AncientDisplayBank</li>
-				<li>Blueprint_Install_AncientLockerBank</li>
-				<li>Blueprint_Install_AncientCrate</li>
-				<li>Blueprint_Install_AncientMilitaryCrate</li>
-				<li>Blueprint_Install_AncientSpacerCrate</li>
-				<li>Blueprint_Install_AncientBarrel</li>
-				<li>Blueprint_Install_AncientGenerator</li>
-				<li>Blueprint_Install_AncientOperatingTable</li>
-				<li>Blueprint_Install_AncientShoppingCart</li>
-				<li>Blueprint_Install_AncientPostbox</li>
-				<li>Blueprint_Install_AncientVendingMachine</li>
-				<li>Blueprint_Install_AncientAirConditioner</li>
-				<li>Blueprint_Install_AncientKitchenSink</li>
-				<li>Blueprint_Install_AncientStove</li>
-				<li>Blueprint_Install_AncientOven</li>
-				<li>Blueprint_Install_AncientATM</li>
-				<li>Blueprint_Install_AncientWashingMachine</li>
-				<li>Blueprint_Install_AncientHydrant</li>
-				<li>Blueprint_Install_AncientMicrowave</li>
-				<li>Blueprint_Install_AncientToilet</li>
-				<li>Blueprint_Install_AncientRefrigerator</li>
-				<li>Blueprint_Install_AncientSmallCrate</li>
-				<li>Blueprint_Install_AncientLongCrate</li>
-				<li>Blueprint_Install_AncientLargeCrate</li>
-				<li>Blueprint_Install_AncientWheel</li>
-				<li>Blueprint_Install_AncientGiantWheel</li>
-				<li>Blueprint_Install_AncientFence</li>
-				<li>Blueprint_Install_AncientRazorWire</li>
-				<li>Blueprint_Install_AncientPipes</li>
-				<li>Blueprint_Install_AncientMegaCannonTripod</li>
-				<li>Blueprint_Install_AncientMegaCannonBarrel</li>
-				<li>Blueprint_Install_AncientContainer</li>
-				<li>Blueprint_Install_AncientMechDetritus</li>
-				<li>Blueprint_Install_AncientMechDropBeacon</li>
-				<li>Blueprint_Install_AncientSecurityTurret</li>
-				<li>Blueprint_Install_AncientRustedEngineBlock</li>
-				<li>Blueprint_Install_AncientShipBeacon</li>
 				<li>Blueprint_Install_Altar_Small</li>
 				<li>Blueprint_Install_Altar_Medium</li>
 				<li>Blueprint_Install_Altar_Large</li>
@@ -6334,13 +6176,9 @@
 				<li>Blueprint_Install_Ideogram</li>
 				<li>Blueprint_Install_Darktorch</li>
 				<li>Blueprint_Install_DarktorchFungus</li>
-				<li>Blueprint_Install_RitualSpot</li>
 				<li>Blueprint_Install_Reliquary</li>
-				<li>Blueprint_Install_DryadCocoon</li>
-				<li>Blueprint_Install_DryadHealingPod</li>
 				<li>Blueprint_Install_GaumakerCocoon</li>
 				<li>Blueprint_Install_Autobong</li>
-				<li>Blueprint_Install_BabySleepingSpot</li>
 				<li>Blueprint_Install_BandNode</li>
 				<li>Blueprint_Install_ToxifierGenerator</li>
 				<li>Blueprint_Install_GeneAssembler</li>
@@ -6359,43 +6197,17 @@
 				<li>Blueprint_Install_SubcoreRipscanner</li>
 				<li>Blueprint_Install_BasicRecharger</li>
 				<li>Blueprint_Install_StandardRecharger</li>
-				<li>Blueprint_Install_KCSG_PowerConduit</li>
-				<li>Blueprint_Install_VEF_OutpostDeliverySpot</li>
-				<li>Blueprint_Install_ELIF_ReinforcedWallA</li>
 				<li>Blueprint_Install_Fence_Bar</li>
-				<li>Blueprint_Install_Fence_BrickShort</li>
-				<li>Blueprint_Install_Fence_BrickTall</li>
-				<li>Blueprint_Install_Fence_Chainlink</li>
 				<li>Blueprint_Install_Fence_Closeboard</li>
 				<li>Blueprint_Install_Fence_Farm</li>
 				<li>Blueprint_Install_Fence_Picket</li>
 				<li>Blueprint_Install_Fence_Solid</li>
 				<li>Blueprint_Install_Gate_Bar</li>
-				<li>Blueprint_Install_Gate_Chainlink</li>
 				<li>Blueprint_Install_Gate_Closeboard</li>
 				<li>Blueprint_Install_Gate_Farm</li>
 				<li>Blueprint_Install_Gate_Round</li>
 				<li>Blueprint_Install_Gate_Square</li>
 				<li>Blueprint_Install_Gate_Stone</li>
-				<li>Blueprint_Install_VeeFakeStair</li>
-				<li>Blueprint_Install_VeeFakeStairCR</li>
-				<li>Blueprint_Install_VeeFakeStairCRs</li>
-				<li>Blueprint_Install_Stone_Cliff_Right</li>
-				<li>Blueprint_Install_Stone_Cliff_Left</li>
-				<li>Blueprint_Install_Stone_CliffTop_Right</li>
-				<li>Blueprint_Install_Stone_CliffTop_Left</li>
-				<li>Blueprint_Install_Brick_Cliff_Right</li>
-				<li>Blueprint_Install_Brick_Cliff_Left</li>
-				<li>Blueprint_Install_Brick_CliffTop_Right</li>
-				<li>Blueprint_Install_Brick_CliffTop_Left</li>
-				<li>Blueprint_Install_Dirt_Hill_Right</li>
-				<li>Blueprint_Install_Dirt_Hill_Left</li>
-				<li>Blueprint_Install_Dirt_HillTop_Right</li>
-				<li>Blueprint_Install_Dirt_HillTop_Left</li>
-				<li>Blueprint_Install_Metal_Cliff_Right</li>
-				<li>Blueprint_Install_Metal_Cliff_Left</li>
-				<li>Blueprint_Install_Metal_CliffTop_Right</li>
-				<li>Blueprint_Install_Metal_CliffTop_Left</li>
 				<li>Blueprint_Install_Basic_EggIncubator</li>
 				<li>Blueprint_Install_Normal_EggIncubator</li>
 				<li>Blueprint_Install_sd_chickennest</li>
@@ -6405,28 +6217,9 @@
 				<li>Blueprint_Install_Owl_LongCeilingLight</li>
 				<li>Blueprint_Install_Owl_CeilingFirefoamPopper</li>
 				<li>Blueprint_Install_Owl_CeilingSunLamp</li>
-				<li>Blueprint_Install_PowerConduitInvisible</li>
-				<li>Blueprint_Install_WaterproofPowerConduitInvisible</li>
 				<li>Blueprint_Install_Owl_Fencepost_TorchLamp</li>
 				<li>Blueprint_Install_Owl_Heater</li>
-				<li>Blueprint_Install_MassGrave</li>
-				<li>Blueprint_Install_MassGraveAlt</li>
-				<li>Blueprint_Install_diagonal</li>
-				<li>Blueprint_Install_beveledwall</li>
-				<li>Blueprint_Install_diagonalwall</li>
-				<li>Blueprint_Install_RGK_Wall</li>
-				<li>Blueprint_Install_GL_Wall</li>
-				<li>Blueprint_Install_GL_VentWall</li>
-				<li>Blueprint_Install_GL_WindowWall</li>
-				<li>Blueprint_Install_RGK_WoodFence</li>
-				<li>Blueprint_Install_GL_FlowerWall</li>
-				<li>Blueprint_Install_RGK_DoorOld</li>
-				<li>Blueprint_Install_RGK_Door</li>
 				<li>Blueprint_Install_GL_DoorFrame</li>
-				<li>Blueprint_Install_GL_BoundaryWood</li>
-				<li>Blueprint_Install_GL_BoundaryStone</li>
-				<li>Blueprint_Install_GL_BoundaryWoodCorner</li>
-				<li>Blueprint_Install_GL_BoundaryStoneCorner</li>
 				<li>Blueprint_Install_RGK_Street_Lamp_L</li>
 				<li>Blueprint_Install_RGK_Street_Lamp</li>
 				<li>Blueprint_Install_RGK_Street_Lamp_Seven</li>
@@ -6441,92 +6234,23 @@
 				<li>Blueprint_Install_GL_Wall_LampE_White</li>
 				<li>Blueprint_Install_GlowObject</li>
 				<li>Blueprint_Install_GlowObject_White</li>
-				<li>Blueprint_Install_BrickWall</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-Stone</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Sand-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Gravel-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_SoilF-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_SoilMarshy-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Mud-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Stone-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_WaterShallow-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Sand-Sand</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-Sand</li>
-				<li>Blueprint_Install_Terraform_Gravel-Sand</li>
-				<li>Blueprint_Install_Terraform_SoilF-Sand</li>
-				<li>Blueprint_Install_Terraform_WaterShallow-Sand</li>
-				<li>Blueprint_Install_Terraform_Gravel-Gravel</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-Gravel</li>
-				<li>Blueprint_Install_Terraform_Sand-Gravel</li>
-				<li>Blueprint_Install_Terraform_SoilF-Gravel</li>
-				<li>Blueprint_Install_Terraform_SoilF-PackedDirt</li>
-				<li>Blueprint_Install_Terraform_SoilF-SoilF</li>
-				<li>Blueprint_Install_Terraform_Sand-SoilF</li>
-				<li>Blueprint_Install_Terraform_Gravel-SoilF</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-SoilF</li>
-				<li>Blueprint_Install_Terraform_PackedDirt-SoilF</li>
-				<li>Blueprint_Install_Terraform_Mud-SoilF</li>
-				<li>Blueprint_Install_Terraform_SoilMarshy-SoilF</li>
-				<li>Blueprint_Install_Terraform_Marsh-SoilF</li>
-				<li>Blueprint_Install_Terraform_WaterShallow-SoilF</li>
-				<li>Blueprint_Install_Terraform_Mud-Mud</li>
-				<li>Blueprint_Install_Terraform_SoilF-Mud</li>
-				<li>Blueprint_Install_Terraform_SoilMarshy-Mud</li>
-				<li>Blueprint_Install_Terraform_Marsh-Mud</li>
-				<li>Blueprint_Install_Terraform_SoilMarshy-SoilMarshy</li>
-				<li>Blueprint_Install_Terraform_SoilF-SoilMarshy</li>
-				<li>Blueprint_Install_Terraform_Mud-SoilMarshy</li>
-				<li>Blueprint_Install_Terraform_Marsh-SoilMarshy</li>
-				<li>Blueprint_Install_Terraform_SoilF-Marsh</li>
-				<li>Blueprint_Install_Terraform_Mud-Marsh</li>
-				<li>Blueprint_Install_Terraform_SoilMarshy-Marsh</li>
-				<li>Blueprint_Install_Terraform_WaterShallow-Marsh</li>
-				<li>Blueprint_Install_Terraform_Sand-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_SoilF-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_RockyDirt-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_Marsh-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_WaterDeep-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_WaterShallow-WaterDeep</li>
-				<li>Blueprint_Install_Terraform_Marsh-WaterDeep</li>
-				<li>Blueprint_Install_Terraform_Ice-WaterShallow</li>
-				<li>Blueprint_Install_Terraform_Ice-RockyDirt</li>
-				<li>Blueprint_Install_Terraform_Stone-Topsoil</li>
-				<li>Blueprint_Install_Terraform_Topsoil-DirtFert</li>
-				<li>Blueprint_Install_Terraform_SoilF-SoilRich</li>
-				<li>Blueprint_Install_Terraform_SoilRich-SoilTilled</li>
-				<li>Blueprint_Install_Terraform_SoilWorn-SoilF</li>
 				<li>Blueprint_Install_CompostBin</li>
 				<li>Blueprint_Install_RFF_ScrapGenerator</li>
-				<li>Blueprint_Install_SeedExtractionSpot</li>
 				<li>Blueprint_Install_VCE_StewPot</li>
 				<li>Blueprint_Install_MSDrugMixer</li>
-				<li>Blueprint_Install_sewagePipeStuff</li>
-				<li>Blueprint_Install_airPipe</li>
-				<li>Blueprint_Install_ToiletStallDoor</li>
-				<li>Blueprint_Install_PrimitiveWell</li>
-				<li>Blueprint_Install_BurnPit</li>
 				<li>Blueprint_Install_DBHSwimmingPool</li>
-				<li>Blueprint_Install_WaterWellInlet</li>
-				<li>Blueprint_Install_DeepWaterWellInlet</li>
 				<li>Blueprint_Install_WaterTowerS</li>
 				<li>Blueprint_Install_WaterTowerL</li>
 				<li>Blueprint_Install_WindPump</li>
 				<li>Blueprint_Install_PumpingStation</li>
-				<li>Blueprint_Install_SewageOutlet</li>
 				<li>Blueprint_Install_SewageSepticTank</li>
 				<li>Blueprint_Install_SewageTreatment</li>
 				<li>Blueprint_Install_WaterTreatment</li>
 				<li>Blueprint_Install_SolarHeater</li>
 				<li>Blueprint_Install_GeothermHeater</li>
-				<li>Blueprint_Install_Filth_OilSlick</li>
-				<li>Blueprint_Install_Filth_NapalmTrail</li>
 				<li>Blueprint_Install_SparkGrid</li>
-				<li>Blueprint_Install_OilPipeline</li>
 				<li>Blueprint_Install_OilWellHead</li>
 				<li>Blueprint_Install_DeepOilWellHead</li>
-				<li>Blueprint_Install_OilWell</li>
-				<li>Blueprint_Install_DeepOilWell</li>
 				<li>Blueprint_Install_OilStorage</li>
 				<li>Blueprint_Install_FuelStorage</li>
 				<li>Blueprint_Install_CrudeCracker</li>
@@ -6539,7 +6263,6 @@
 				<li>Blueprint_Install_SupesCutoffSwitch</li>
 				<li>Blueprint_Install_SupesLightSensor</li>
 				<li>Blueprint_Install_SupesHeatSensor</li>
-				<li>Blueprint_Install_SupesRemoteDoor</li>
 				<li>Blueprint_Install_SupesFuse</li>
 				<li>Blueprint_Install_SupesEntangledSwitch</li>
 				<li>Blueprint_Install_SupesZoneSwitch</li>
@@ -6553,13 +6276,6 @@
 				<li>Blueprint_Install_Ship_Beam_CrashLanded</li>
 				<li>Blueprint_Install_Ship_Engine_CrashLanded</li>
 				<li>Blueprint_Install_Ammo_container_CrashLanded</li>
-				<li>Blueprint_Install_CaravanJourneySpot</li>
-				<li>Blueprint_Install_TradingSpot</li>
-				<li>Blueprint_Install_AnimalHarvestingSpot</li>
-				<li>Blueprint_Install_AnimalMilkingSpot</li>
-				<li>Blueprint_Install_AnimalShearingSpot</li>
-				<li>Blueprint_Install_AnimalSlaughteringSpot</li>
-				<li>Blueprint_Install_AnimalTrainingSpot</li>
 			</allowedDefs>
 			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>

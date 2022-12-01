@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ResearchPowl.ModSettings_ResearchPowl">
+		<ShouldSeparateByTechLevels>False</ShouldSeparateByTechLevels>
+		<ShouldPauseOnOpen>False</ShouldPauseOnOpen>
+		<ProgressTooltip>True</ProgressTooltip>
+		<AlwaysDisplayProgress>True</AlwaysDisplayProgress>
+		<ScrollingSpeedMultiplier>1</ScrollingSpeedMultiplier>
+		<zoomingSpeedMultiplier>1</zoomingSpeedMultiplier>
+		<draggingDisplayDelay>0.25</draggingDisplayDelay>
+		<swapZoomMode>True</swapZoomMode>
+	</ModSettings>
+</SettingsBlock>

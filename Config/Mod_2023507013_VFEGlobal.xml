@@ -9,8 +9,12 @@
 		<isRandomGraphic>False</isRandomGraphic>
 		<hideRandomizeButton>False</hideRandomizeButton>
 		<weatherDamagesOptions>
-			<keys />
-			<values />
+			<keys>
+				<li>VPE_Hurricane</li>
+			</keys>
+			<values>
+				<li>True</li>
+			</values>
 		</weatherDamagesOptions>
 	</ModSettings>
 </SettingsBlock>

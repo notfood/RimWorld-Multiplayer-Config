@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ScatteredStones.ModSettings_ScatteredStones">
+		<minScaleModifier>1</minScaleModifier>
+		<maxScaleModifier>1</maxScaleModifier>
+		<offsetModifier>1</offsetModifier>
+	</ModSettings>
+</SettingsBlock>

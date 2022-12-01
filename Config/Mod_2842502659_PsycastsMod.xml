@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VanillaPsycastsExpanded.PsycastSettings">
+		<xpPerPercent>1</xpPerPercent>
+		<baseSpawnChance>0.100000001</baseSpawnChance>
+		<additionalAbilityChance>0.100000001</additionalAbilityChance>
+	</ModSettings>
+</SettingsBlock>

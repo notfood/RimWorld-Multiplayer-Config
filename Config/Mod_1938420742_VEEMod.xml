@@ -70,6 +70,11 @@
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
 				<li>WastepackInfestation</li>
+				<li>BI_SwarmingHorde</li>
+				<li>BI_WorldInfestation</li>
+				<li>BI_InsectRaid</li>
+				<li>VME_JunkChunkDrop</li>
+				<li>VPE_EltexMeteorite</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -135,6 +140,11 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -210,6 +220,11 @@
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
 				<li>WastepackInfestation</li>
+				<li>BI_SwarmingHorde</li>
+				<li>BI_WorldInfestation</li>
+				<li>BI_InsectRaid</li>
+				<li>VME_JunkChunkDrop</li>
+				<li>VPE_EltexMeteorite</li>
 			</keys>
 			<values>
 				<li>0.799999952</li>
@@ -279,6 +294,11 @@
 				<li>0.449999988</li>
 				<li>0.399999976</li>
 				<li>0.00999999978</li>
+				<li>70</li>
+				<li>4.5</li>
+				<li>7.39999962</li>
+				<li>2</li>
+				<li>0.049999997</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -350,6 +370,11 @@
 				<li>VEE_HuntingParty</li>
 				<li>VEE_WandererJoinsTraitor</li>
 				<li>WastepackInfestation</li>
+				<li>BI_SwarmingHorde</li>
+				<li>BI_WorldInfestation</li>
+				<li>BI_InsectRaid</li>
+				<li>VME_JunkChunkDrop</li>
+				<li>VPE_EltexMeteorite</li>
 			</keys>
 			<values>
 				<li>0.800000012</li>
@@ -419,6 +444,11 @@
 				<li>0.449999988</li>
 				<li>0.400000006</li>
 				<li>0.0120000001</li>
+				<li>70</li>
+				<li>4.5</li>
+				<li>7.4000001</li>
+				<li>2</li>
+				<li>0.0500000007</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
