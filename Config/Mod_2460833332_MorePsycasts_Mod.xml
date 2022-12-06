@@ -115,8 +115,38 @@
 				<li>VME_ThrowParty</li>
 				<li>VME_CallTradeCaravan</li>
 				<li>VME_MakeADessert</li>
+				<li>BTEMa_AntleredHeadbutt</li>
+				<li>BTEMa_HideBoundLeap</li>
+				<li>BTEMa_PsychicFuryNeedle</li>
+				<li>BTEMa_SmokeExhaust</li>
+				<li>BTEMy_AurumDetonation</li>
+				<li>BTEMy_VastFlight</li>
+				<li>BTEMy_VastFlightWeaker</li>
+				<li>BTEMy_Cauterize</li>
+				<li>BTEMy_PurgeMemory</li>
+				<li>BTEMy_BlessingCelerity</li>
+				<li>BTEMy_BlessingInspire</li>
+				<li>BTEMy_CursePain</li>
+				<li>BTEMy_CurseSluggish</li>
+				<li>BTEMy_Punish</li>
+				<li>BTEMy_BrilliantBlast</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

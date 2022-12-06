@@ -72,6 +72,7 @@
     <li>rimfridge.kv.rw</li>
     <li>sf.comfy.meditation</li>
     <li>solaris.furniturebase</li>
+    <li>soulfulpumpkin.tabletoptrove</li>
     <li>syrchalis.prosthetictable</li>
     <li>telkir.tmods.morefloors</li>
     <li>ucp.tabletopdecorations</li>
@@ -96,6 +97,15 @@
     <li>proxyer.desurgeries.desurgeries</li>
     <li>noodlesking.morepsycasts</li>
     <li>vanillaexpanded.vpsycastse</li>
+    <li>biotexpans.core</li>
+    <li>biotexpans.mammalia</li>
+    <li>biotexpans.earpatch</li>
+    <li>biotexpans.mythic</li>
+    <li>dorutoruka.gene</li>
+    <li>mlie.nomissinggeneicons</li>
+    <li>sl4vp0wer.dominantgene</li>
+    <li>sx99.biotech.lessbloodcolorgenes</li>
+    <li>turnovus.biotech.integratedgenes</li>
     <li>aelanna.eccentrictech.core</li>
     <li>aelanna.eccentrictech.advancedshields</li>
     <li>5katz.commschat</li>
@@ -114,6 +124,7 @@
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
     <li>notfood.infused</li>
+    <li>petetimessix.researchreinvented</li>
     <li>relaxedotter.moreinspirationtypes</li>
     <li>sinnamon.moreritualrewards1.4</li>
     <li>sr.modrimworld.raidextension</li>
@@ -129,7 +140,6 @@
     <li>holdthegrenades.1trickponyta</li>
     <li>jamaicancastle.shoo</li>
     <li>kittahkhan.grazeup</li>
-    <li>machine.betterinfestations</li>
     <li>mehni.pickupandhaul</li>
     <li>mlie.animalharvestingspot</li>
     <li>mlie.badcanbegood</li>
@@ -162,7 +172,6 @@
     <li>mersid.powertab</li>
     <li>mlie.flickablestorage</li>
     <li>navyseal5.moreharvestdesignators</li>
-    <li>neptimus7.progressrenderer</li>
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>
     <li>owlchemist.researchpowl</li>
@@ -170,6 +179,8 @@
     <li>owlchemist.scatteredstones</li>
     <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
+    <li>rimworld.randomcoughdrop.geneassistant</li>
+    <li>superniquito.traiticons</li>
     <li>tammybee.restocknotification</li>
     <li>telardo.numbers</li>
     <li>thewirelord354.conduitdeconstruct</li>
@@ -177,7 +188,6 @@
     <li>usagirei.pocketsand</li>
     <li>vanillaexpanded.ideo.iconsandsymbols</li>
     <li>caesarv6.damageindicators</li>
-    <li>com.yayo.yayoani.continued</li>
     <li>jaxe.bubbles</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>name.krypt.rimworld.moddiff</li>

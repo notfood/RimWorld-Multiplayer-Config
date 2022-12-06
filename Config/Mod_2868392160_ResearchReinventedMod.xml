@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PeteTimesSix.ResearchReinvented.ResearchReinvented_Settings">
+		<activePreset>SettingsPreset_RR_Slow</activePreset>
+		<prototypeResearchSpeedFactor>0.5</prototypeResearchSpeedFactor>
+		<categorySettingChanges>
+			<li>
+				<category>Theory</category>
+			</li>
+			<li>
+				<category>Prototyping</category>
+			</li>
+			<li>
+				<category>Tooling</category>
+			</li>
+			<li>
+				<category>ReverseEngineering</category>
+			</li>
+			<li>
+				<category>ForwardEngineering</category>
+			</li>
+			<li>
+				<category>Logistics</category>
+			</li>
+			<li>
+				<category>Geology</category>
+			</li>
+			<li>
+				<category>Biology</category>
+			</li>
+			<li>
+				<category>Chemistry</category>
+			</li>
+			<li>
+				<category>Gastronomy</category>
+			</li>
+			<li>
+				<category>Material</category>
+			</li>
+		</categorySettingChanges>
+	</ModSettings>
+</SettingsBlock>
