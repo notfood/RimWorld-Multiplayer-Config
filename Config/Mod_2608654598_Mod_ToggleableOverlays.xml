@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ToggleableOverlays.ModSettings_ToggleableOverlays">
+		<hidePrisonerPawns>True</hidePrisonerPawns>
+		<hideFriendlyPawns>True</hideFriendlyPawns>
+		<hideHostilePawns>True</hideHostilePawns>
+		<quickShowAltMode>False</quickShowAltMode>
+		<blueprintTransparency>1</blueprintTransparency>
+		<useOptimizedLister>True</useOptimizedLister>
+		<zoomFilter>True</zoomFilter>
+		<hideFuelGauge>True</hideFuelGauge>
+		<hideWindGauge>True</hideWindGauge>
+	</ModSettings>
+</SettingsBlock>

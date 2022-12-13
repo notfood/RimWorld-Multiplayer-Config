@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RFF_Code.Settings">
-		<newGrowZonesDR>False</newGrowZonesDR>
+		<autoRecompost>False</autoRecompost>
+		<newGrowZoneRTS>True</newGrowZoneRTS>
 		<playHardMode>True</playHardMode>
 		<plantScrapsPercent>51.696949</plantScrapsPercent>
 		<depleteChance>1.44944715</depleteChance>

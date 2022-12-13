@@ -10,7 +10,6 @@
 			<li>AncientConcreteBarrier</li>
 			<li>AncientContainer</li>
 			<li>AncientCrate</li>
-			<li>AncientCryptosleepCasket</li>
 			<li>AncientDisplayBank</li>
 			<li>AncientEnemyTerminal</li>
 			<li>AncientRustedEngineBlock</li>
@@ -76,7 +75,6 @@
 			<li>BurnPit</li>
 			<li>ButcherSpot</li>
 			<li>CaravanPackingSpot</li>
-			<li>CaravanJourneySpot</li>
 			<li>Plant_TreeCecropia</li>
 			<li>Fence_Chainlink</li>
 			<li>Gate_Chainlink</li>
@@ -125,6 +123,7 @@
 			<li>HeavySandbags</li>
 			<li>Terraform_Ice-RockyDirt</li>
 			<li>Terraform_Ice-WaterShallow</li>
+			<li>VPE_IceWall</li>
 			<li>Plant_TreeMaple</li>
 			<li>MarriageSpot</li>
 			<li>Terraform_Marsh-WaterDeep</li>

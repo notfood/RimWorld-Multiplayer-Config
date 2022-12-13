@@ -4,5 +4,6 @@
 		<rainTimeDelay>2</rainTimeDelay>
 		<fireMultiplier>1</fireMultiplier>
 		<partsTimeDelayMultiplier>1</partsTimeDelayMultiplier>
+		<crashlandedPawnsDamage>30</crashlandedPawnsDamage>
 	</ModSettings>
 </SettingsBlock>

@@ -130,8 +130,12 @@
 				<li>BTEMy_CurseSluggish</li>
 				<li>BTEMy_Punish</li>
 				<li>BTEMy_BrilliantBlast</li>
+				<li>BTEMy_BlessingLife</li>
+				<li>BTEMy_CurseDeath</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

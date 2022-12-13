@@ -11,10 +11,10 @@
 		<flagChargeBatteries>True</flagChargeBatteries>
 		<flagExplodingAnimalEggs>True</flagExplodingAnimalEggs>
 		<flagHovering>True</flagHovering>
-		<flagGraphicChanging>True</flagGraphicChanging>
+		<flagGraphicChanging>False</flagGraphicChanging>
 		<flagEffecters>True</flagEffecters>
 		<flagRegeneration>True</flagRegeneration>
-		<flagResurrection>True</flagResurrection>
+		<flagResurrection>False</flagResurrection>
 		<flagUntameable>True</flagUntameable>
 	</ModSettings>
 </SettingsBlock>
