@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RomanceOnTheRim.RomanceOnTheRimModSettings">
+		<needFallPerDay>0.25</needFallPerDay>
+		<getJoyTogetherSelectionWeight>1</getJoyTogetherSelectionWeight>
+		<kissSelectionWeight>1.5</kissSelectionWeight>
+		<musicalPerformanceSelectionWeight>1</musicalPerformanceSelectionWeight>
+		<pillowTalkSelectionWeight>1</pillowTalkSelectionWeight>
+		<skygazeTogetherSelectionWeight>1</skygazeTogetherSelectionWeight>
+	</ModSettings>
+</SettingsBlock>
