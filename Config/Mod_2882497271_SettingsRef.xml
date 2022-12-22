@@ -2,5 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="RandomsGeneAssistant.GeneSettings">
 		<backgroundSaturation>0.5</backgroundSaturation>
+		<ignoredGenes />
 	</ModSettings>
 </SettingsBlock>

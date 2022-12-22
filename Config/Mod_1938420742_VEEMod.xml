@@ -75,6 +75,21 @@
 				<li>BI_InsectRaid</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>AA_Incident_Aerofleets</li>
+				<li>AA_IncidentStalkingArcticLion</li>
+				<li>AA_IncidentBlizzariskClutchMother</li>
+				<li>AA_IncidentDunealiskClutchMother</li>
+				<li>AA_IncidentFeraliskClutchMother</li>
+				<li>AA_IncidentAnimaliskEnters</li>
+				<li>AA_IncidentSummitCrab</li>
+				<li>AA_CactipineDropPod</li>
+				<li>AA_Incident_Gallatross</li>
+				<li>AA_BehemothPasses</li>
+				<li>AA_Incident_SkyMeteorite</li>
+				<li>AA_Incident_Bumbledrones</li>
+				<li>AA_Incident_BlackHive</li>
+				<li>AA_MimeWandererJoinQuest</li>
+				<li>AA_IncidentFungalHusk</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -140,6 +155,21 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -225,6 +255,21 @@
 				<li>BI_InsectRaid</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>AA_Incident_Aerofleets</li>
+				<li>AA_IncidentStalkingArcticLion</li>
+				<li>AA_IncidentBlizzariskClutchMother</li>
+				<li>AA_IncidentDunealiskClutchMother</li>
+				<li>AA_IncidentFeraliskClutchMother</li>
+				<li>AA_IncidentAnimaliskEnters</li>
+				<li>AA_IncidentSummitCrab</li>
+				<li>AA_CactipineDropPod</li>
+				<li>AA_Incident_Gallatross</li>
+				<li>AA_BehemothPasses</li>
+				<li>AA_Incident_SkyMeteorite</li>
+				<li>AA_Incident_Bumbledrones</li>
+				<li>AA_Incident_BlackHive</li>
+				<li>AA_MimeWandererJoinQuest</li>
+				<li>AA_IncidentFungalHusk</li>
 			</keys>
 			<values>
 				<li>0.799999952</li>
@@ -299,6 +344,21 @@
 				<li>7.39999962</li>
 				<li>2</li>
 				<li>0.049999997</li>
+				<li>0.699999988</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.099999994</li>
+				<li>0.299999982</li>
+				<li>0.199999988</li>
+				<li>0.349999994</li>
+				<li>0.25</li>
+				<li>0.099999994</li>
+				<li>0.349999994</li>
+				<li>1.5</li>
+				<li>0.099999994</li>
+				<li>0.099999994</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -375,6 +435,21 @@
 				<li>BI_InsectRaid</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>AA_Incident_Aerofleets</li>
+				<li>AA_IncidentStalkingArcticLion</li>
+				<li>AA_IncidentBlizzariskClutchMother</li>
+				<li>AA_IncidentDunealiskClutchMother</li>
+				<li>AA_IncidentFeraliskClutchMother</li>
+				<li>AA_IncidentAnimaliskEnters</li>
+				<li>AA_IncidentSummitCrab</li>
+				<li>AA_CactipineDropPod</li>
+				<li>AA_Incident_Gallatross</li>
+				<li>AA_BehemothPasses</li>
+				<li>AA_Incident_SkyMeteorite</li>
+				<li>AA_Incident_Bumbledrones</li>
+				<li>AA_Incident_BlackHive</li>
+				<li>AA_MimeWandererJoinQuest</li>
+				<li>AA_IncidentFungalHusk</li>
 			</keys>
 			<values>
 				<li>0.800000012</li>
@@ -449,6 +524,21 @@
 				<li>7.4000001</li>
 				<li>2</li>
 				<li>0.0500000007</li>
+				<li>0.699999988</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.5</li>
+				<li>0.100000001</li>
+				<li>0.300000012</li>
+				<li>0.200000003</li>
+				<li>0.349999994</li>
+				<li>0.25</li>
+				<li>0.100000001</li>
+				<li>0.349999994</li>
+				<li>1.5</li>
+				<li>0.100000001</li>
+				<li>0.100000001</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
