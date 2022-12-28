@@ -90,6 +90,16 @@
 				<li>AA_Incident_BlackHive</li>
 				<li>AA_MimeWandererJoinQuest</li>
 				<li>AA_IncidentFungalHusk</li>
+				<li>MFI_ReverseTradeRequest</li>
+				<li>MFI_PirateExtortion</li>
+				<li>MFI_WoundedCombatants</li>
+				<li>MFI_RoadWorks</li>
+				<li>MFI_DiplomaticMarriage</li>
+				<li>MFI_MysticalShaman</li>
+				<li>MFI_SettlementBaseAttack</li>
+				<li>MFI_BumperCropRequest</li>
+				<li>MFI_Quest_PeaceTalks</li>
+				<li>MFI_QuestSpreadingPirateCamp</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -155,6 +165,16 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -270,6 +290,16 @@
 				<li>AA_Incident_BlackHive</li>
 				<li>AA_MimeWandererJoinQuest</li>
 				<li>AA_IncidentFungalHusk</li>
+				<li>MFI_ReverseTradeRequest</li>
+				<li>MFI_PirateExtortion</li>
+				<li>MFI_WoundedCombatants</li>
+				<li>MFI_RoadWorks</li>
+				<li>MFI_DiplomaticMarriage</li>
+				<li>MFI_MysticalShaman</li>
+				<li>MFI_SettlementBaseAttack</li>
+				<li>MFI_BumperCropRequest</li>
+				<li>MFI_Quest_PeaceTalks</li>
+				<li>MFI_QuestSpreadingPirateCamp</li>
 			</keys>
 			<values>
 				<li>0.799999952</li>
@@ -359,6 +389,16 @@
 				<li>1.5</li>
 				<li>0.099999994</li>
 				<li>0.099999994</li>
+				<li>0.299999982</li>
+				<li>1.25</li>
+				<li>0.799999952</li>
+				<li>0.199999988</li>
+				<li>0.5</li>
+				<li>0.799999952</li>
+				<li>0.799999952</li>
+				<li>1</li>
+				<li>0.50999999</li>
+				<li>1.29999995</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -450,6 +490,16 @@
 				<li>AA_Incident_BlackHive</li>
 				<li>AA_MimeWandererJoinQuest</li>
 				<li>AA_IncidentFungalHusk</li>
+				<li>MFI_ReverseTradeRequest</li>
+				<li>MFI_PirateExtortion</li>
+				<li>MFI_WoundedCombatants</li>
+				<li>MFI_RoadWorks</li>
+				<li>MFI_DiplomaticMarriage</li>
+				<li>MFI_MysticalShaman</li>
+				<li>MFI_SettlementBaseAttack</li>
+				<li>MFI_BumperCropRequest</li>
+				<li>MFI_Quest_PeaceTalks</li>
+				<li>MFI_QuestSpreadingPirateCamp</li>
 			</keys>
 			<values>
 				<li>0.800000012</li>
@@ -539,6 +589,16 @@
 				<li>1.5</li>
 				<li>0.100000001</li>
 				<li>0.100000001</li>
+				<li>0.300000012</li>
+				<li>1.25</li>
+				<li>0.800000012</li>
+				<li>0.200000003</li>
+				<li>0.5</li>
+				<li>0.800000012</li>
+				<li>0.800000012</li>
+				<li>1</li>
+				<li>0.50999999</li>
+				<li>1.29999995</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
