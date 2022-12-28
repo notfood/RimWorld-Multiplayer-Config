@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="StopDropAndRoll.StopDropAndRollSettings">
+		<IRS>4</IRS>
+		<MHA>0.25</MHA>
+		<enableStopDropAndRollOnNonColonists>True</enableStopDropAndRollOnNonColonists>
+	</ModSettings>
+</SettingsBlock>

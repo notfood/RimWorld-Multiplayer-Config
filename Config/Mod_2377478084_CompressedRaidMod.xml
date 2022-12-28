@@ -5,7 +5,7 @@
 		<allowMechanoids>False</allowMechanoids>
 		<allowInsectoids>False</allowInsectoids>
 		<maxRaidPawnsCount>150</maxRaidPawnsCount>
-		<gainFactorMult>0</gainFactorMult>
+		<gainFactorMult>1</gainFactorMult>
 		<chanceOfEnhancement>0.5</chanceOfEnhancement>
 		<allowManhunters>False</allowManhunters>
 		<gainFactorMultRaidFriendly>1</gainFactorMultRaidFriendly>
@@ -64,9 +64,9 @@
 		<addDrugChanceMax>0.899999976</addDrugChanceMax>
 		<addDrugChanceNegativeCurve>0.5</addDrugChanceNegativeCurve>
 		<addDrugMaxNumber>2</addDrugMaxNumber>
+		<giveOnlyActiveIngredients>False</giveOnlyActiveIngredients>
 		<withoutSocialDrug>True</withoutSocialDrug>
 		<withoutMedicalDrug>True</withoutMedicalDrug>
 		<withoutNonVolatilityDrug>True</withoutNonVolatilityDrug>
-		<techLevelUpperRange>1</techLevelUpperRange>
 	</ModSettings>
 </SettingsBlock>

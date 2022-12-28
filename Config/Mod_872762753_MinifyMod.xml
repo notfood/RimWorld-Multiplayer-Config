@@ -4,52 +4,114 @@
 		<disabledDefList>
 			<li>airPipe</li>
 			<li>AncientAirConditioner</li>
+			<li>VME_AncientAirConditioner</li>
 			<li>AncientATM</li>
+			<li>VME_AncientATM</li>
 			<li>AncientBarrel</li>
+			<li>VME_AncientBarrel</li>
+			<li>VME_AncientRustedCar</li>
+			<li>VME_AncientRustedCarFrame</li>
 			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
 			<li>AncientContainer</li>
+			<li>VME_AncientContainer</li>
 			<li>AncientCrate</li>
+			<li>VME_AncientCrate</li>
 			<li>AncientDisplayBank</li>
+			<li>VME_AncientDisplayBank</li>
+			<li>VME_AncientRustedDropship</li>
+			<li>VME_AncientDropshipEngine</li>
 			<li>AncientEnemyTerminal</li>
 			<li>AncientRustedEngineBlock</li>
+			<li>VME_AncientRustedEngineBlock</li>
 			<li>AncientEquipmentBlocks</li>
+			<li>VME_AncientEquipmentBlocks</li>
 			<li>AncientFence</li>
+			<li>VME_AncientFence</li>
 			<li>AncientGenerator</li>
+			<li>VME_AncientGenerator</li>
 			<li>AncientGiantWheel</li>
+			<li>VME_AncientGiantWheel</li>
 			<li>AncientHydrant</li>
+			<li>VME_AncientHydrant</li>
+			<li>VME_AncientJetEngine</li>
 			<li>AncientKitchenSink</li>
+			<li>VME_AncientKitchenSink</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
+			<li>VME_AncientLargeCrate</li>
 			<li>AncientLockerBank</li>
+			<li>VME_AncientLockerBank</li>
 			<li>AncientLongCrate</li>
+			<li>VME_AncientLongCrate</li>
 			<li>AncientMachine</li>
+			<li>VME_AncientMachine</li>
+			<li>VME_AncientLargeRustedEngineBlock</li>
 			<li>AncientMechDropBeacon</li>
+			<li>VME_AncientMechDropBeacon</li>
+			<li>VME_AncientMechanoidShell</li>
 			<li>AncientMegaCannonBarrel</li>
+			<li>VME_AncientMegaCannonBarrel</li>
 			<li>AncientMegaCannonTripod</li>
+			<li>VME_AncientMegaCannonTripod</li>
 			<li>AncientMicrowave</li>
+			<li>VME_AncientMicrowave</li>
 			<li>AncientMilitaryCrate</li>
+			<li>VME_AncientMilitaryCrate</li>
 			<li>AncientShipBeacon</li>
+			<li>VME_AncientShipBeacon</li>
 			<li>AncientOperatingTable</li>
+			<li>VME_AncientOperatingTable</li>
 			<li>AncientOven</li>
+			<li>VME_AncientOven</li>
+			<li>VME_AncientPipelineSection</li>
 			<li>AncientPipes</li>
+			<li>VME_AncientPipes</li>
+			<li>VME_AncientPodCar</li>
 			<li>AncientPostbox</li>
+			<li>VME_AncientPostbox</li>
 			<li>AncientRazorWire</li>
+			<li>VME_AncientRazorWire</li>
 			<li>AncientRefrigerator</li>
+			<li>VME_AncientRefrigerator</li>
+			<li>VME_AncientAPC</li>
+			<li>VME_AncientTank</li>
 			<li>AncientSecurityTurret</li>
+			<li>VME_AncientSecurityTurret</li>
 			<li>AncientShoppingCart</li>
+			<li>VME_AncientShoppingCart</li>
 			<li>AncientSmallCrate</li>
+			<li>VME_AncientSmallCrate</li>
+			<li>VME_AncientSpaceJunk</li>
 			<li>AncientSpacerCrate</li>
+			<li>VME_AncientSpacerCrate</li>
 			<li>AncientStorageCylinder</li>
+			<li>VME_AncientStorageCylinder</li>
 			<li>AncientStove</li>
+			<li>VME_AncientStove</li>
 			<li>AncientSystemRack</li>
+			<li>VME_AncientSystemRack</li>
+			<li>VME_AncientTankTrap</li>
 			<li>AncientTerminal_Worshipful</li>
 			<li>AncientTerminal</li>
 			<li>AncientToilet</li>
+			<li>VME_AncientToilet</li>
+			<li>VME_AncientRustedJeep</li>
+			<li>VME_AncientRustedTruck</li>
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
+			<li>VME_AncientVendingMachine</li>
+			<li>VME_AncientWarspiderRemains</li>
+			<li>VME_AncientMiniWarwalkerRemains</li>
+			<li>VME_AncientWarwalkerClaw</li>
+			<li>VME_AncientWarwalkerFoot</li>
+			<li>VME_AncientWarwalkerLeg</li>
+			<li>VME_AncientWarwalkerShell</li>
+			<li>VME_AncientWarwalkerTorso</li>
 			<li>AncientWashingMachine</li>
+			<li>VME_AncientWashingMachine</li>
 			<li>AncientWheel</li>
+			<li>VME_AncientWheel</li>
 			<li>AnimalHarvestingSpot</li>
 			<li>AnimalSleepingSpot</li>
 			<li>VCE_AppleTree</li>
@@ -157,6 +219,7 @@
 			<li>OilWell</li>
 			<li>VCE_OrangeTree</li>
 			<li>VEF_OutpostDeliverySpot</li>
+			<li>AA_Overgrown_DropPod</li>
 			<li>Terraform_PackedDirt-SoilF</li>
 			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>

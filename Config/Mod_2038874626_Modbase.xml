@@ -37,6 +37,8 @@
 				<li>DubsBadHygiene.Alert_WaterTemp</li>
 				<li>RimWorld.Alert_BestowerWaiting</li>
 				<li>Rimefeller.Alert_ConsoleTab</li>
+				<li>RimWorld.Alert_UnusableMeditationFocus</li>
+				<li>RimWorld.Alert_UnusableMeditationFocus+Alert_PermitAvailable</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -58,6 +60,8 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 			</values>
 		</alertfilter>
