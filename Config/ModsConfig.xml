@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.4.3580 rev1305</version>
+  <version>1.4.3613 rev642</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -33,6 +33,7 @@
     <li>owlchemist.toggleableoverlays</li>
     <li>owlchemist.toggleablereadouts</li>
     <li>syrchalis.harvestyieldpatch</li>
+    <li>uuugggg.mealsonwheels</li>
     <li>jintuzilamian.hairstyle.afumenshairstyles</li>
     <li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
     <li>mlie.ponytailiskawaii</li>
@@ -71,6 +72,7 @@
     <li>mlie.sdchickennest</li>
     <li>mosi.practicalpallets</li>
     <li>neceros.animalmedicalbed</li>
+    <li>owlchemist.windows</li>
     <li>pyrce.mass.graves</li>
     <li>radzerp.wallcorners</li>
     <li>sf.comfy.meditation</li>
@@ -84,10 +86,13 @@
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>vanillaexpanded.vplantse</li>
+    <li>daemon976.pf.vceb</li>
     <li>daemon976.pf.vfec</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>mlie.realdining</li>
     <li>owlchemist.seedspleaselite</li>
+    <li>vanillaexpanded.vaeroy</li>
+    <li>vanillaexpanded.vbrewe</li>
     <li>warlocksforge.fishtraps</li>
     <li>daniledman.cyberfauna</li>
     <li>darthsergeant.nursejob</li>
@@ -116,6 +121,7 @@
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimefeller</li>
     <li>notfood.mendandrecycle</li>
+    <li>overpl.drawnspots</li>
     <li>proxyer.desurgeries.dbhpatch</li>
     <li>ryflamer.other.cosmichorrors</li>
     <li>sarg.alphaanimals</li>
@@ -123,6 +129,7 @@
     <li>twokay.plushies.specific</li>
     <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vmemese</li>
+    <li>zylle.childrensdrawings</li>
     <li>semo583.gloomyhextrahuhkitchen</li>
     <li>zymex.gloomyvanillaoverhaul</li>
     <li>merthsoft.timeofdayswitch</li>
@@ -132,13 +139,13 @@
     <li>frozensnowfox.bettercamploot</li>
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
-    <li>miyamiya.compressedraid.latest</li>
     <li>mlie.morefactioninteraction</li>
     <li>notfood.infused</li>
     <li>petetimessix.researchreinvented</li>
     <li>relaxedotter.moreinspirationtypes</li>
     <li>sinnamon.moreritualrewards1.4</li>
     <li>sr.modrimworld.raidextension</li>
+    <li>twsta.compressedraid.latest</li>
     <li>vanillaexpanded.vee</li>
     <li>odeum.wmbp</li>
     <li>laast.worldmapenhanced</li>
@@ -184,6 +191,7 @@
     <li>dubwise.dubsmintminimap</li>
     <li>fluffy.areaunlocker</li>
     <li>gguake.ui.armorinfo</li>
+    <li>haecriver.injuredcarry</li>
     <li>jp.strangerdanger</li>
     <li>kathanon.showweapontallies</li>
     <li>llunak.dietfiltersinstorage</li>
@@ -195,17 +203,22 @@
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>
     <li>owlchemist.researchpowl</li>
+    <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>
     <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
+    <li>sandy.rpgstyleinventory</li>
     <li>superniquito.traiticons</li>
     <li>tammybee.restocknotification</li>
     <li>thewirelord354.conduitdeconstruct</li>
     <li>ubergarm.kanbanstockpile</li>
     <li>usagirei.pocketsand</li>
     <li>vanillaexpanded.ideo.iconsandsymbols</li>
+    <li>vanillaexpanded.ideo.relicsandartifacts</li>
+    <li>vanillaracesexpanded.customicons</li>
     <li>caesarv6.damageindicators</li>
+    <li>iworosiak.holsters</li>
     <li>jaxe.bubbles</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>name.krypt.rimworld.moddiff</li>

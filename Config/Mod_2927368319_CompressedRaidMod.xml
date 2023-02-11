@@ -2,14 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="CompressedRaid.CompressedRaidModSettings">
 		<chanceOfCompression>1</chanceOfCompression>
-		<allowMechanoids>False</allowMechanoids>
-		<allowInsectoids>False</allowInsectoids>
-		<maxRaidPawnsCount>150</maxRaidPawnsCount>
+		<maxRaidPawnsCount>125</maxRaidPawnsCount>
 		<gainFactorMult>1</gainFactorMult>
-		<chanceOfEnhancement>0.5</chanceOfEnhancement>
-		<allowManhunters>False</allowManhunters>
+		<chanceOfEnhancement>0.75</chanceOfEnhancement>
 		<gainFactorMultRaidFriendly>1</gainFactorMultRaidFriendly>
-		<displayMessage>False</displayMessage>
 		<enableMainEnhance>False</enableMainEnhance>
 		<gainFactorMultPain>0.25</gainFactorMultPain>
 		<gainFactorMultArmorRating_Blunt>0.25</gainFactorMultArmorRating_Blunt>
@@ -47,26 +43,16 @@
 		<gainFactorMaxCapacityBloodFiltration>5</gainFactorMaxCapacityBloodFiltration>
 		<gainFactorMaxCapacityBloodPumping>5</gainFactorMaxCapacityBloodPumping>
 		<gainFactorMaxCapacityBreathing>5</gainFactorMaxCapacityBreathing>
-		<enableAddBionicsOption>True</enableAddBionicsOption>
 		<addBionicsChanceFactor>2</addBionicsChanceFactor>
 		<addBionicsChanceMax>0.899999976</addBionicsChanceMax>
 		<addBionicsChanceNegativeCurve>0.5</addBionicsChanceNegativeCurve>
-		<addBionicsMaxNumber>6</addBionicsMaxNumber>
-		<allowedByGTTechLevel>6</allowedByGTTechLevel>
 		<enableRefineGearOption>True</enableRefineGearOption>
 		<refineGearChanceFactor>1</refineGearChanceFactor>
 		<refineGearChanceMax>0.899999976</refineGearChanceMax>
 		<refineGearChanceNegativeCurve>0.5</refineGearChanceNegativeCurve>
-		<optionSetBiocode>True</optionSetBiocode>
-		<optionAddDeathAcidifier>True</optionAddDeathAcidifier>
 		<enableAddDrugOption>True</enableAddDrugOption>
 		<addDrugChanceFactor>1</addDrugChanceFactor>
 		<addDrugChanceMax>0.899999976</addDrugChanceMax>
 		<addDrugChanceNegativeCurve>0.5</addDrugChanceNegativeCurve>
-		<addDrugMaxNumber>2</addDrugMaxNumber>
-		<giveOnlyActiveIngredients>False</giveOnlyActiveIngredients>
-		<withoutSocialDrug>True</withoutSocialDrug>
-		<withoutMedicalDrug>True</withoutMedicalDrug>
-		<withoutNonVolatilityDrug>True</withoutNonVolatilityDrug>
 	</ModSettings>
 </SettingsBlock>

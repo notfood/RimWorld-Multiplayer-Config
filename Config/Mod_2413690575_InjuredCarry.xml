@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="InjuredCarry.InjuredCarrySettings">
+		<InjuredCarry.Settings.RescueNotInjured>False</InjuredCarry.Settings.RescueNotInjured>
+	</ModSettings>
+</SettingsBlock>
