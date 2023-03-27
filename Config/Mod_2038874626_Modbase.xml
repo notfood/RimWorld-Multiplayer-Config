@@ -39,6 +39,8 @@
 				<li>Rimefeller.Alert_ConsoleTab</li>
 				<li>RimWorld.Alert_UnusableMeditationFocus</li>
 				<li>RimWorld.Alert_UnusableMeditationFocus+Alert_PermitAvailable</li>
+				<li>Hospitality.Alert_GuestCantClaimBed</li>
+				<li>Hospitality.Alert_GuestNotEnoughBeds</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -60,6 +62,8 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

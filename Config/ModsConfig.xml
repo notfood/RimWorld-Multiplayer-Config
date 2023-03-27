@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.4.3613 rev642</version>
+  <version>1.4.3641 rev651</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -196,12 +196,12 @@
     <li>kathanon.showweapontallies</li>
     <li>llunak.dietfiltersinstorage</li>
     <li>mehni.numbers</li>
-    <li>mersid.powertab</li>
     <li>mlie.bestmix</li>
     <li>mlie.flickablestorage</li>
     <li>navyseal5.moreharvestdesignators</li>
     <li>notfood.outfitted</li>
     <li>notfood.yasp</li>
+    <li>owlchemist.powertab</li>
     <li>owlchemist.researchpowl</li>
     <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>

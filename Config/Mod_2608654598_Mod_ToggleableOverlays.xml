@@ -6,8 +6,6 @@
 		<hideHostilePawns>True</hideHostilePawns>
 		<quickShowAltMode>False</quickShowAltMode>
 		<blueprintTransparency>1</blueprintTransparency>
-		<useOptimizedLister>True</useOptimizedLister>
-		<zoomFilter>True</zoomFilter>
 		<hideFuelGauge>True</hideFuelGauge>
 		<hideWindGauge>True</hideWindGauge>
 	</ModSettings>
