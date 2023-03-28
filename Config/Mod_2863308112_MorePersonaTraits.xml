@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MorePersonaTraits.Settings.MorePersonaTraitsSettings">
+		<rangedProcChanceFactor>0.5</rangedProcChanceFactor>
+	</ModSettings>
+</SettingsBlock>

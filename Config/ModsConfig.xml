@@ -2,7 +2,7 @@
 <ModsConfigData>
   <version>1.4.3641 rev651</version>
   <activeMods>
-    <li>brrainz.harmony</li>
+      <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
@@ -45,11 +45,13 @@
     <li>javier.culturalcouture</li>
     <li>mlie.mercerbackpacks</li>
     <li>spoonshortage.fashionrimsta</li>
+    <li>arquebus.morepersonatraits</li>
     <li>janson.weapontech</li>
     <li>mlie.fireextinguisher</li>
     <li>mlie.yayoscombat3</li>
     <li>shinzy.apparello</li>
     <li>simmin.powertools</li>
+    <li>statistno1.personabond</li>
     <li>vanillaexpanded.vweg</li>
     <li>acpteam.acpvanillastyle</li>
     <li>owlchemist.ceilingutilities</li>
@@ -69,9 +71,9 @@
     <li>lat.veedeco</li>
     <li>mlie.decorativecliffs</li>
     <li>mlie.eggincubator</li>
-    <li>mlie.sdchickennest</li>
     <li>mosi.practicalpallets</li>
     <li>neceros.animalmedicalbed</li>
+    <li>owlchemist.chickennests</li>
     <li>owlchemist.windows</li>
     <li>pyrce.mass.graves</li>
     <li>radzerp.wallcorners</li>
@@ -166,6 +168,7 @@
     <li>mlie.animalharvestingspot</li>
     <li>mlie.badcanbegood</li>
     <li>mlie.firewarden</li>
+    <li>mlie.grabyourtool</li>
     <li>mlie.huntersusemelee</li>
     <li>mlie.picnicarea</li>
     <li>mlie.zonetoschedule</li>
@@ -173,6 +176,7 @@
     <li>oblitus.animalslogic</li>
     <li>orion.hospitality</li>
     <li>owlchemist.cleanpathfinding</li>
+    <li>owlchemist.giddyup</li>
     <li>revolus.animalsarefun</li>
     <li>telardo.romanceontherim</li>
     <li>trojan.deathrattle</li>
@@ -205,12 +209,14 @@
     <li>owlchemist.researchpowl</li>
     <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>
+    <li>owlchemist.smartfarming</li>
     <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
     <li>sandy.rpgstyleinventory</li>
     <li>superniquito.traiticons</li>
     <li>tammybee.restocknotification</li>
+    <li>telardo.pipettetool</li>
     <li>thewirelord354.conduitdeconstruct</li>
     <li>ubergarm.kanbanstockpile</li>
     <li>usagirei.pocketsand</li>

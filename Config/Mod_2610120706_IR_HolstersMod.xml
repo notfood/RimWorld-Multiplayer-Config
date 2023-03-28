@@ -347,6 +347,10 @@
 					<li>AA_DemolisherCharges</li>
 					<li>AA_Flamethrower</li>
 					<li>AA_CryogenicGun</li>
+					<li>Gun_HuntingShotgun</li>
+					<li>Gun_PoliceRifle</li>
+					<li>PBF_ThingDef_Weapon_Gun_ChargeRifle</li>
+					<li>PBF_ThingDef_Weapon_Gun_ChargeLance</li>
 				</weapons>
 			</li>
 			<li>
@@ -960,6 +964,7 @@
 					<li>VBE_DoubleWhiskey</li>
 					<li>VBE_Soda</li>
 					<li>VBE_Cider</li>
+					<li>MPT_MeleeWeapon_PsyfocusStaffBladelink</li>
 				</weapons>
 			</li>
 			<li>
