@@ -2,7 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="PeteTimesSix.ResearchReinvented.ResearchReinvented_Settings">
 		<activePreset>SettingsPreset_RR_Slow</activePreset>
-		<prototypeResearchSpeedFactor>0.5</prototypeResearchSpeedFactor>
 		<categorySettingChanges>
 			<li>
 				<category>Theory</category>
@@ -36,6 +35,9 @@
 			</li>
 			<li>
 				<category>Material</category>
+			</li>
+			<li>
+				<category>Medical</category>
 			</li>
 		</categorySettingChanges>
 	</ModSettings>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.4.3641 rev651</version>
+  <version>1.4.3704 rev898</version>
   <activeMods>
-      <li>brrainz.harmony</li>
+    <li>zetrith.prepatcher</li>
+    <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
@@ -190,7 +191,6 @@
     <li>carnysenpai.traitraritycolors</li>
     <li>com.bymarcin.architecticons</li>
     <li>diddily.poweralerts</li>
-    <li>dra.multiplayercustomtickrates</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
     <li>fluffy.areaunlocker</li>
@@ -209,7 +209,6 @@
     <li>owlchemist.researchpowl</li>
     <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>
-    <li>owlchemist.smartfarming</li>
     <li>reiquard.researchinfo</li>
     <li>revolus.textilestats</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
@@ -234,6 +233,9 @@
     <li>telefonmast.graphicssettings</li>
     <li>void.charactereditor</li>
     <li>notfood.glue</li>
+    <li>owlchemist.smartfarming</li>
+    <li>kaitorisenkou.whatstodaysmenu</li>
+    <li>petetimessix.researchreinvented.steppingstones</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld</li>

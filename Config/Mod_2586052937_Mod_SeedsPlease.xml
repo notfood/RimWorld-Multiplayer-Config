@@ -4,5 +4,6 @@
 		<marketValueModifier>1</marketValueModifier>
 		<extractionModifier>1</extractionModifier>
 		<seedFactorModifier>1</seedFactorModifier>
+		<seedless />
 	</ModSettings>
 </SettingsBlock>

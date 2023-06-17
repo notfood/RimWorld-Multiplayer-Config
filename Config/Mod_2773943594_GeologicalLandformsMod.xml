@@ -2,5 +2,9 @@
 <SettingsBlock>
 	<ModSettings Class="GeologicalLandforms.GeologicalLandformsSettings">
 		<AnimalDensityFactorForSecludedAreas>0.5</AnimalDensityFactorForSecludedAreas>
+		<DisabledLandforms />
+		<DisabledBiomeVariants />
+		<BiomesExcludedFromLandforms />
+		<BiomesExcludedFromTransitions />
 	</ModSettings>
 </SettingsBlock>
