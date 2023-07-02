@@ -33,17 +33,14 @@
 				<li>MoreThanCapable.Alert_BadWorkAssignment</li>
 				<li>RimWorld.Alert_NeedResearchBench</li>
 				<li>RimWorld.Alert_NeedJoySources</li>
-				<li>Hospitality.Alert_GuestHasNoFood</li>
 				<li>DubsBadHygiene.Alert_WaterTemp</li>
 				<li>RimWorld.Alert_BestowerWaiting</li>
 				<li>Rimefeller.Alert_ConsoleTab</li>
 				<li>RimWorld.Alert_UnusableMeditationFocus</li>
 				<li>RimWorld.Alert_UnusableMeditationFocus+Alert_PermitAvailable</li>
-				<li>Hospitality.Alert_GuestCantClaimBed</li>
-				<li>Hospitality.Alert_GuestNotEnoughBeds</li>
+				<li>RimWorld.Alert_TimedMakeFactionHostile</li>
 			</keys>
 			<values>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -65,8 +62,7 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
+				<li>False</li>
 			</values>
 		</alertfilter>
 		<overrideAlerts>True</overrideAlerts>
