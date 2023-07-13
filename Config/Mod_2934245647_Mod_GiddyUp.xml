@@ -120,6 +120,9 @@
 				<li>AA_MammothWorm_Temporary/0</li>
 				<li>AAVPE_BlackQueen/2</li>
 				<li>AA_OcularOriginator/0</li>
+				<li>AA_DunealiskClutchMother/0</li>
+				<li>AA_FeraliskClutchMother/0</li>
+				<li>AA_NightAve/2</li>
 			</keys>
 			<values>
 				<li>0.833281219</li>
@@ -231,6 +234,9 @@
 				<li>1.32560551</li>
 				<li>1.89406264</li>
 				<li>-0.131640673</li>
+				<li>1.28271484</li>
+				<li>1.00996089</li>
+				<li>0.948242188</li>
 			</values>
 		</offsetCache>
 	</ModSettings>
