@@ -352,6 +352,7 @@
 					<li>PBF_ThingDef_Weapon_Gun_ChargeRifle</li>
 					<li>PBF_ThingDef_Weapon_Gun_ChargeLance</li>
 					<li>Gun_StubbyLeverActionRifle</li>
+					<li>Gun_MechanoidMinigun</li>
 				</weapons>
 			</li>
 			<li>

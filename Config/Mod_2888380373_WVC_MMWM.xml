@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="NonUnoPinata.Settings" />
+	<ModSettings Class="WVC_WorkModes.WVC_MMWM_Settings" />
 </SettingsBlock>

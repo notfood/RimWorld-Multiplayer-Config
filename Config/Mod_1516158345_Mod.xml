@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Bubbles.Settings">
-		<Version>2.5</Version>
+		<Version>2.9</Version>
 		<ScaleMax>1.25</ScaleMax>
 		<OpacityStart>0.899999976</OpacityStart>
 		<OpacityHover>0.200000003</OpacityHover>

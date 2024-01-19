@@ -123,6 +123,10 @@
 				<li>AA_DunealiskClutchMother/0</li>
 				<li>AA_FeraliskClutchMother/0</li>
 				<li>AA_NightAve/2</li>
+				<li>OCARINA_GreenLizard/2</li>
+				<li>OCARINA_PinkLizard/2</li>
+				<li>OCARINA_DaddyLongLegsPawn/2</li>
+				<li>OCARINA_BrotherLongLegsPawn/2</li>
 			</keys>
 			<values>
 				<li>0.833281219</li>
@@ -237,6 +241,10 @@
 				<li>1.28271484</li>
 				<li>1.00996089</li>
 				<li>0.948242188</li>
+				<li>0.725585938</li>
+				<li>0.710546911</li>
+				<li>2.68789053</li>
+				<li>1.3351562</li>
 			</values>
 		</offsetCache>
 	</ModSettings>

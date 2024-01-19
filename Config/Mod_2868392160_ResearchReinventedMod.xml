@@ -37,7 +37,10 @@
 				<category>Material</category>
 			</li>
 			<li>
-				<category>Medical</category>
+				<category>Clinical</category>
+			</li>
+			<li>
+				<category>Social</category>
 			</li>
 		</categorySettingChanges>
 	</ModSettings>

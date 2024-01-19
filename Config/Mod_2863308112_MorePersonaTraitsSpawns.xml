@@ -148,8 +148,44 @@
 				<li>MPT_OnHit_ChangeWeather</li>
 				<li>MPT_Bonded_ThoughtNoAnimalHate</li>
 				<li>MPT_Bonded_ThoughtAnimalHate</li>
+				<li>MPT_OnHit_AddedFlame</li>
+				<li>MPT_OnHit_AddedFlame_Major</li>
+				<li>MPT_OnHit_AddedBulletToxic_Major</li>
+				<li>MPT_OnHit_AddedBlunt_Major</li>
+				<li>MPT_OnHit_AddedFlame_Minor</li>
+				<li>MPT_OnKill_TransformToPlasteel</li>
+				<li>MPT_OnHit_AddedBlunt_Minor</li>
+				<li>MPT_OnHit_AddedBlunt</li>
+				<li>MPT_OnHit_TeleportSelf</li>
+				<li>MPT_OnHit_AddedCut_Major</li>
+				<li>MPT_OnKill_TransformToWood</li>
+				<li>MPT_OnKill_TransformToGold</li>
+				<li>MPT_OnHit_TeleportTarget</li>
+				<li>MPT_OnHit_AddedEMP</li>
+				<li>MPT_OnHit_AddedCut</li>
+				<li>MPT_OnHit_AddedCut_Minor</li>
+				<li>MPT_OnHit_AddedBulletToxic</li>
+				<li>MPT_OnHit_AddedBulletToxic_Minor</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

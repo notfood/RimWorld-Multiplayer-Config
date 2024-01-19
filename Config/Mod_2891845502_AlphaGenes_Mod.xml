@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AlphaGenes.AlphaGenes_Settings">
+		<AG_QuestRate>1</AG_QuestRate>
+	</ModSettings>
+</SettingsBlock>

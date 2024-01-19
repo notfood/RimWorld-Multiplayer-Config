@@ -15,6 +15,7 @@
 			<li>AncientConcreteBarrier</li>
 			<li>AncientContainer</li>
 			<li>VME_AncientContainer</li>
+			<li>AG_AncientCorpse</li>
 			<li>AncientCrate</li>
 			<li>VME_AncientCrate</li>
 			<li>AncientDisplayBank</li>
@@ -26,12 +27,19 @@
 			<li>VME_AncientRustedEngineBlock</li>
 			<li>AncientEquipmentBlocks</li>
 			<li>VME_AncientEquipmentBlocks</li>
+			<li>AG_AncientFaultyLamp</li>
 			<li>AncientFence</li>
 			<li>VME_AncientFence</li>
+			<li>AG_AncientGeneAssembler</li>
+			<li>AG_AncientGeneBank</li>
+			<li>AG_AncientGeneExtractor</li>
+			<li>AG_AncientGeneProcessor</li>
 			<li>AncientGenerator</li>
 			<li>VME_AncientGenerator</li>
 			<li>AncientGiantWheel</li>
 			<li>VME_AncientGiantWheel</li>
+			<li>AG_AncientGrowthVat</li>
+			<li>AG_AncientHugeBank</li>
 			<li>AncientHydrant</li>
 			<li>VME_AncientHydrant</li>
 			<li>VME_AncientJetEngine</li>
@@ -40,6 +48,8 @@
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
 			<li>VME_AncientLargeCrate</li>
+			<li>AG_AncientLargeMechGestator</li>
+			<li>AG_AncientLargeRecharger</li>
 			<li>AncientLockerBank</li>
 			<li>VME_AncientLockerBank</li>
 			<li>AncientLongCrate</li>
@@ -49,6 +59,8 @@
 			<li>VME_AncientLargeRustedEngineBlock</li>
 			<li>AncientMechDropBeacon</li>
 			<li>VME_AncientMechDropBeacon</li>
+			<li>AG_AncientMechGestator</li>
+			<li>AG_AncientBasicRecharger</li>
 			<li>VME_AncientMechanoidShell</li>
 			<li>AncientMegaCannonBarrel</li>
 			<li>VME_AncientMegaCannonBarrel</li>
@@ -68,6 +80,7 @@
 			<li>AncientPipes</li>
 			<li>VME_AncientPipes</li>
 			<li>VME_AncientPodCar</li>
+			<li>AG_AncientPollutionPump</li>
 			<li>AncientPostbox</li>
 			<li>VME_AncientPostbox</li>
 			<li>AncientRazorWire</li>
@@ -89,6 +102,7 @@
 			<li>VME_AncientStorageCylinder</li>
 			<li>AncientStove</li>
 			<li>VME_AncientStove</li>
+			<li>AG_AncientSubcoreRipscanner</li>
 			<li>AncientSystemRack</li>
 			<li>VME_AncientSystemRack</li>
 			<li>VME_AncientTankTrap</li>
@@ -101,6 +115,7 @@
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
 			<li>VME_AncientVendingMachine</li>
+			<li>AG_AncientVitalsMonitor</li>
 			<li>VME_AncientWarspiderRemains</li>
 			<li>VME_AncientMiniWarwalkerRemains</li>
 			<li>VME_AncientWarwalkerClaw</li>
@@ -110,15 +125,19 @@
 			<li>VME_AncientWarwalkerTorso</li>
 			<li>AncientWashingMachine</li>
 			<li>VME_AncientWashingMachine</li>
+			<li>AG_AncientWastepackAtomizer</li>
 			<li>AncientWheel</li>
 			<li>VME_AncientWheel</li>
 			<li>AnimalHarvestingSpot</li>
+			<li>AnimalLab</li>
 			<li>AnimalSleepingSpot</li>
 			<li>VCE_AppleTree</li>
 			<li>Autodoor</li>
 			<li>BabySleepingSpot</li>
 			<li>Plant_TreeBamboo</li>
 			<li>VCE_BananaTree</li>
+			<li>Fence_Bar</li>
+			<li>Gate_Bar</li>
 			<li>Barricade</li>
 			<li>beveledwall</li>
 			<li>Plant_TreeBirch</li>
@@ -154,6 +173,7 @@
 			<li>DeepWaterWellInlet</li>
 			<li>diagonalwall</li>
 			<li>diagonal</li>
+			<li>Gastronomy_DiningSpot</li>
 			<li>Dirt_Hill_Left</li>
 			<li>Dirt_Hill_Right</li>
 			<li>Dirt_HillTop_Left</li>
@@ -202,6 +222,7 @@
 			<li>MassGraveAlt</li>
 			<li>AncientMechDetritus</li>
 			<li>MeditationSpot</li>
+			<li>CocoonMegaspider</li>
 			<li>Metal_Cliff_Left</li>
 			<li>Metal_Cliff_Right</li>
 			<li>Metal_CliffTop_Left</li>
@@ -217,6 +238,7 @@
 			<li>OilPipeline</li>
 			<li>Filth_OilSlick</li>
 			<li>OilWell</li>
+			<li>VME_Obelisk</li>
 			<li>VCE_OrangeTree</li>
 			<li>VEF_OutpostDeliverySpot</li>
 			<li>AA_Overgrown_DropPod</li>
@@ -237,6 +259,7 @@
 			<li>ELIF_ReinforcedWallA</li>
 			<li>SupesRemoteDoor</li>
 			<li>Terraform_SoilWorn-SoilF</li>
+			<li>RR_ThinkingSpot</li>
 			<li>Terraform_SoilF-SoilRich</li>
 			<li>RitualSpot</li>
 			<li>Terraform_RockyDirt-RockyDirt</li>

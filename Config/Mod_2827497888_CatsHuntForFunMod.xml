@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CatsHuntForFun.CatsHuntForFunModSettings">
+		<RelativeBodySize>0</RelativeBodySize>
+		<ChanceToHunt>0.327677935</ChanceToHunt>
+		<ChanceForGifts>0.5007779</ChanceForGifts>
+		<HuntRange>10</HuntRange>
+		<ManualCats>
+			<li>Cat</li>
+			<li>Cougar</li>
+			<li>OCARINA_SlugcatSurvivor</li>
+			<li>OCARINA_SlugcatMonk</li>
+			<li>OCARINA_SlugcatHunter</li>
+			<li>OCARINA_PinkLizard</li>
+			<li>OCARINA_GreenLizard</li>
+		</ManualCats>
+	</ModSettings>
+</SettingsBlock>
