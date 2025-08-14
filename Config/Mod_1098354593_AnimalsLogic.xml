@@ -2,7 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="AnimalsLogic.Settings">
 		<prevent_eating_stuff>False</prevent_eating_stuff>
-		<convert_ruined_eggs>False</convert_ruined_eggs>
 		<use_dispenser>False</use_dispenser>
 		<wildness_threshold_for_tameness_decay>0.25</wildness_threshold_for_tameness_decay>
 		<training_decay_factor>0.25</training_decay_factor>

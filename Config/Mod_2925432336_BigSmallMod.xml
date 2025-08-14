@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BigAndSmall.BSSettings">
+		<sapientAnimalsChance>0</sapientAnimalsChance>
+		<visualLargerMult>1</visualLargerMult>
+		<visualSmallerMult>1</visualSmallerMult>
+		<headPowLarge>0.800000012</headPowLarge>
+		<headPowSmall2>0.649999976</headPowSmall2>
+		<dmgExponent>0.75</dmgExponent>
+		<hungerRate>1</hungerRate>
+		<flatDmgIncrease>8</flatDmgIncrease>
+		<inflitratorChance>0.00999999978</inflitratorChance>
+		<inflitratorRaidChance>0.00499999989</inflitratorRaidChance>
+		<immortalReturnTimeFactor>1</immortalReturnTimeFactor>
+	</ModSettings>
+</SettingsBlock>

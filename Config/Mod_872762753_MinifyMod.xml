@@ -4,332 +4,121 @@
 		<disabledDefList>
 			<li>airPipe</li>
 			<li>AncientAirConditioner</li>
-			<li>VME_AncientAirConditioner</li>
 			<li>AncientATM</li>
-			<li>VME_AncientATM</li>
 			<li>AncientBarrel</li>
-			<li>VME_AncientBarrel</li>
-			<li>VME_AncientRustedCar</li>
-			<li>VME_AncientRustedCarFrame</li>
 			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
-			<li>AncientContainer</li>
-			<li>VME_AncientContainer</li>
-			<li>AG_AncientCorpse</li>
 			<li>AncientCrate</li>
-			<li>VME_AncientCrate</li>
 			<li>AncientDisplayBank</li>
-			<li>VME_AncientDisplayBank</li>
-			<li>VME_AncientRustedDropship</li>
-			<li>VME_AncientDropshipEngine</li>
 			<li>AncientEnemyTerminal</li>
 			<li>AncientRustedEngineBlock</li>
-			<li>VME_AncientRustedEngineBlock</li>
 			<li>AncientEquipmentBlocks</li>
-			<li>VME_AncientEquipmentBlocks</li>
-			<li>AG_AncientFaultyLamp</li>
 			<li>AncientFence</li>
-			<li>VME_AncientFence</li>
-			<li>AG_AncientGeneAssembler</li>
-			<li>AG_AncientGeneBank</li>
-			<li>AG_AncientGeneExtractor</li>
-			<li>AG_AncientGeneProcessor</li>
 			<li>AncientGenerator</li>
-			<li>VME_AncientGenerator</li>
 			<li>AncientGiantWheel</li>
-			<li>VME_AncientGiantWheel</li>
-			<li>AG_AncientGrowthVat</li>
-			<li>AG_AncientHugeBank</li>
 			<li>AncientHydrant</li>
-			<li>VME_AncientHydrant</li>
-			<li>VME_AncientJetEngine</li>
 			<li>AncientKitchenSink</li>
-			<li>VME_AncientKitchenSink</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
-			<li>VME_AncientLargeCrate</li>
-			<li>AG_AncientLargeMechGestator</li>
-			<li>AG_AncientLargeRecharger</li>
 			<li>AncientLockerBank</li>
-			<li>VME_AncientLockerBank</li>
 			<li>AncientLongCrate</li>
-			<li>VME_AncientLongCrate</li>
 			<li>AncientMachine</li>
-			<li>VME_AncientMachine</li>
-			<li>VME_AncientLargeRustedEngineBlock</li>
 			<li>AncientMechDropBeacon</li>
-			<li>VME_AncientMechDropBeacon</li>
-			<li>AG_AncientMechGestator</li>
-			<li>AG_AncientBasicRecharger</li>
-			<li>VME_AncientMechanoidShell</li>
 			<li>AncientMegaCannonBarrel</li>
-			<li>VME_AncientMegaCannonBarrel</li>
 			<li>AncientMegaCannonTripod</li>
-			<li>VME_AncientMegaCannonTripod</li>
 			<li>AncientMicrowave</li>
-			<li>VME_AncientMicrowave</li>
 			<li>AncientMilitaryCrate</li>
-			<li>VME_AncientMilitaryCrate</li>
 			<li>AncientShipBeacon</li>
-			<li>VME_AncientShipBeacon</li>
 			<li>AncientOperatingTable</li>
-			<li>VME_AncientOperatingTable</li>
 			<li>AncientOven</li>
-			<li>VME_AncientOven</li>
-			<li>VME_AncientPipelineSection</li>
 			<li>AncientPipes</li>
-			<li>VME_AncientPipes</li>
-			<li>VME_AncientPodCar</li>
-			<li>AG_AncientPollutionPump</li>
 			<li>AncientPostbox</li>
-			<li>VME_AncientPostbox</li>
 			<li>AncientRazorWire</li>
-			<li>VME_AncientRazorWire</li>
 			<li>AncientRefrigerator</li>
-			<li>VME_AncientRefrigerator</li>
-			<li>VME_AncientAPC</li>
-			<li>VME_AncientTank</li>
 			<li>AncientSecurityTurret</li>
-			<li>VME_AncientSecurityTurret</li>
 			<li>AncientShoppingCart</li>
-			<li>VME_AncientShoppingCart</li>
 			<li>AncientSmallCrate</li>
-			<li>VME_AncientSmallCrate</li>
-			<li>VME_AncientSpaceJunk</li>
 			<li>AncientSpacerCrate</li>
-			<li>VME_AncientSpacerCrate</li>
 			<li>AncientStorageCylinder</li>
-			<li>VME_AncientStorageCylinder</li>
 			<li>AncientStove</li>
-			<li>VME_AncientStove</li>
-			<li>AG_AncientSubcoreRipscanner</li>
 			<li>AncientSystemRack</li>
-			<li>VME_AncientSystemRack</li>
-			<li>VME_AncientTankTrap</li>
 			<li>AncientTerminal_Worshipful</li>
 			<li>AncientTerminal</li>
 			<li>AncientToilet</li>
-			<li>VME_AncientToilet</li>
-			<li>VME_AncientRustedJeep</li>
-			<li>VME_AncientRustedTruck</li>
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
-			<li>VME_AncientVendingMachine</li>
-			<li>AG_AncientVitalsMonitor</li>
-			<li>VME_AncientWarspiderRemains</li>
-			<li>VME_AncientMiniWarwalkerRemains</li>
-			<li>VME_AncientWarwalkerClaw</li>
-			<li>VME_AncientWarwalkerFoot</li>
-			<li>VME_AncientWarwalkerLeg</li>
-			<li>VME_AncientWarwalkerShell</li>
-			<li>VME_AncientWarwalkerTorso</li>
 			<li>AncientWashingMachine</li>
-			<li>VME_AncientWashingMachine</li>
-			<li>AG_AncientWastepackAtomizer</li>
 			<li>AncientWheel</li>
-			<li>VME_AncientWheel</li>
-			<li>AnimalHarvestingSpot</li>
 			<li>AnimalLab</li>
 			<li>AnimalSleepingSpot</li>
-			<li>VCE_AppleTree</li>
 			<li>Autodoor</li>
 			<li>BabySleepingSpot</li>
 			<li>Plant_TreeBamboo</li>
-			<li>VCE_BananaTree</li>
-			<li>Fence_Bar</li>
-			<li>Gate_Bar</li>
 			<li>Barricade</li>
-			<li>beveledwall</li>
 			<li>Plant_TreeBirch</li>
-			<li>GL_BoundaryWood</li>
-			<li>GL_BoundaryStone</li>
-			<li>GL_BoundaryStoneCorner</li>
-			<li>GL_BoundaryWoodCorner</li>
-			<li>ELIF_BBorder</li>
 			<li>Brick_Cliff_Left</li>
 			<li>Brick_Cliff_Right</li>
 			<li>Brick_CliffTop_Left</li>
 			<li>Brick_CliffTop_Right</li>
-			<li>Fence_BrickShort</li>
-			<li>Fence_BrickTall</li>
-			<li>BrickWall</li>
 			<li>BurnPit</li>
 			<li>ButcherSpot</li>
 			<li>CaravanPackingSpot</li>
 			<li>Plant_TreeCecropia</li>
-			<li>Fence_Chainlink</li>
-			<li>Gate_Chainlink</li>
-			<li>VCE_CherryTree</li>
-			<li>RGK_DoorOld</li>
 			<li>Column</li>
-			<li>ELIF_CBorder</li>
 			<li>CraftingSpot</li>
 			<li>Ship_Engine_CrashLanded</li>
 			<li>Ship_Reactor_CrashLanded</li>
 			<li>Ship_Beam_CrashLanded</li>
 			<li>Plant_TreeCypress</li>
-			<li>DeepOilWell</li>
-			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>DeepWaterWellInlet</li>
-			<li>diagonalwall</li>
-			<li>diagonal</li>
-			<li>Gastronomy_DiningSpot</li>
 			<li>Dirt_Hill_Left</li>
 			<li>Dirt_Hill_Right</li>
 			<li>Dirt_HillTop_Left</li>
 			<li>Dirt_HillTop_Right</li>
 			<li>Door</li>
-			<li>RGK_Door</li>
 			<li>DoubleSleepingSpot</li>
 			<li>Plant_TreeDrago</li>
 			<li>DryadCocoon</li>
 			<li>DryadHealingPod</li>
 			<li>Fence</li>
-			<li>RGK_WoodFence</li>
 			<li>FenceGate</li>
-			<li>Terraform_Topsoil-DirtFert</li>
-			<li>VFlowerarch</li>
-			<li>VFlowerbed</li>
-			<li>VFlowerbedCM</li>
-			<li>VFlowerbedCR</li>
-			<li>GL_FlowerWall</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
 			<li>Plant_TreeGrayPine</li>
-			<li>ELIF_HStairs_DC</li>
-			<li>ELIF_HStairs_S</li>
-			<li>ELIF_HStairs_CC</li>
-			<li>ELIF_HStairs_RC</li>
-			<li>ELIF_HStairs_SC</li>
-			<li>ELIF_HBorder</li>
-			<li>HeavySandbags</li>
-			<li>Terraform_Ice-RockyDirt</li>
-			<li>Terraform_Ice-WaterShallow</li>
-			<li>VPE_IceWall</li>
 			<li>Plant_TreeMaple</li>
 			<li>MarriageSpot</li>
-			<li>Terraform_Marsh-WaterDeep</li>
-			<li>Terraform_Marsh-SoilMarshy</li>
-			<li>Terraform_Marsh-Mud</li>
-			<li>Terraform_Marsh-WaterShallow</li>
-			<li>Terraform_Marsh-SoilF</li>
-			<li>Terraform_SoilMarshy-Marsh</li>
-			<li>Terraform_SoilMarshy-SoilMarshy</li>
-			<li>Terraform_SoilMarshy-Mud</li>
-			<li>Terraform_SoilMarshy-RockyDirt</li>
-			<li>Terraform_SoilMarshy-SoilF</li>
-			<li>MassGrave</li>
-			<li>MassGraveAlt</li>
-			<li>AncientMechDetritus</li>
 			<li>MeditationSpot</li>
 			<li>CocoonMegaspider</li>
 			<li>Metal_Cliff_Left</li>
 			<li>Metal_Cliff_Right</li>
 			<li>Metal_CliffTop_Left</li>
 			<li>Metal_CliffTop_Right</li>
-			<li>AnimalMilkingSpot</li>
-			<li>Terraform_Mud-Marsh</li>
-			<li>Terraform_Mud-SoilMarshy</li>
-			<li>Terraform_Mud-Mud</li>
-			<li>Terraform_Mud-RockyDirt</li>
-			<li>Terraform_Mud-SoilF</li>
-			<li>Filth_NapalmTrail</li>
 			<li>Plant_TreeOak</li>
-			<li>OilPipeline</li>
-			<li>Filth_OilSlick</li>
-			<li>OilWell</li>
-			<li>VME_Obelisk</li>
-			<li>VCE_OrangeTree</li>
-			<li>VEF_OutpostDeliverySpot</li>
-			<li>AA_Overgrown_DropPod</li>
-			<li>Terraform_PackedDirt-SoilF</li>
 			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>
-			<li>VCE_PeachTree</li>
-			<li>VCE_PearTree</li>
 			<li>Plant_TreePine</li>
-			<li>Veeseedspot</li>
-			<li>VCE_PlumTree</li>
 			<li>sewagePipeStuff</li>
 			<li>Plant_TreePoplar</li>
 			<li>PowerConduit</li>
-			<li>KCSG_PowerConduit</li>
 			<li>PrimitiveWell</li>
 			<li>Plant_RatPalm</li>
-			<li>ELIF_ReinforcedWallA</li>
-			<li>SupesRemoteDoor</li>
-			<li>Terraform_SoilWorn-SoilF</li>
 			<li>RR_ThinkingSpot</li>
-			<li>Terraform_SoilF-SoilRich</li>
 			<li>RitualSpot</li>
-			<li>Terraform_RockyDirt-RockyDirt</li>
-			<li>Terraform_RockyDirt-Stone</li>
-			<li>Terraform_RockyDirt-Sand</li>
-			<li>Terraform_RockyDirt-WaterShallow</li>
-			<li>Terraform_RockyDirt-SoilF</li>
-			<li>Terraform_RockyDirt-Gravel</li>
-			<li>Terraform_Sand-RockyDirt</li>
-			<li>Terraform_Sand-Sand</li>
-			<li>Terraform_Sand-WaterShallow</li>
-			<li>Terraform_Sand-SoilF</li>
-			<li>Terraform_Sand-Gravel</li>
 			<li>Sandbags</li>
-			<li>SeedExtractionSpot</li>
 			<li>SewageOutlet</li>
-			<li>Terraform_WaterShallow-WaterDeep</li>
-			<li>Terraform_WaterShallow-Marsh</li>
-			<li>Terraform_WaterShallow-RockyDirt</li>
-			<li>Terraform_WaterShallow-Sand</li>
-			<li>Terraform_WaterShallow-SoilF</li>
-			<li>AnimalShearingSpot</li>
-			<li>ELIF_SBorder</li>
-			<li>AnimalSlaughteringSpot</li>
 			<li>SleepingSpot</li>
 			<li>Snowman</li>
-			<li>Terraform_SoilF-Marsh</li>
-			<li>Terraform_SoilF-SoilMarshy</li>
-			<li>Terraform_SoilF-Mud</li>
-			<li>Terraform_SoilF-PackedDirt</li>
-			<li>Terraform_SoilF-RockyDirt</li>
-			<li>Terraform_SoilF-Sand</li>
-			<li>Terraform_SoilF-WaterShallow</li>
-			<li>Terraform_SoilF-SoilF</li>
-			<li>Terraform_SoilF-Gravel</li>
-			<li>VeeFakeStair</li>
-			<li>VeeFakeStairCR</li>
-			<li>VeeFakeStairCRs</li>
-			<li>ELIF_FStairs_S</li>
-			<li>ELIF_FStairs_CC</li>
-			<li>ELIF_FStairs_DC</li>
-			<li>ELIF_FStairs_RC</li>
-			<li>ELIF_FStairs_SC</li>
-			<li>ELIF_WBorder</li>
 			<li>ToiletStallDoor</li>
 			<li>Stone_Cliff_Left</li>
 			<li>Stone_Cliff_Right</li>
 			<li>Stone_CliffTop_Left</li>
 			<li>Stone_CliffTop_Right</li>
-			<li>Terraform_Stone-RockyDirt</li>
-			<li>Terraform_Gravel-RockyDirt</li>
-			<li>Terraform_Gravel-Sand</li>
-			<li>Terraform_Gravel-SoilF</li>
-			<li>Terraform_Gravel-Gravel</li>
 			<li>Plant_TreeTeak</li>
-			<li>Terraform_SoilRich-SoilTilled</li>
-			<li>Terraform_Stone-Topsoil</li>
-			<li>TradingSpot</li>
-			<li>AnimalTrainingSpot</li>
-			<li>PowerConduitInvisible</li>
-			<li>WaterproofPowerConduitInvisible</li>
 			<li>Vent</li>
-			<li>GL_VentWall</li>
 			<li>Wall</li>
-			<li>RGK_Wall</li>
-			<li>GL_Wall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
 			<li>Plant_TreeWillow</li>
-			<li>GL_WindowWall</li>
 			<li>Plant_Witchwood</li>
 		</disabledDefList>
 	</ModSettings>

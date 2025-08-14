@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PawnEditor.PawnEditorSettings">
+		<DontShowAgain />
+		<PointLimit>100000</PointLimit>
+	</ModSettings>
+</SettingsBlock>

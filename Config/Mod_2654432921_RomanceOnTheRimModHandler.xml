@@ -7,5 +7,23 @@
 		<musicalPerformanceSelectionWeight>1</musicalPerformanceSelectionWeight>
 		<pillowTalkSelectionWeight>1</pillowTalkSelectionWeight>
 		<skygazeTogetherSelectionWeight>1</skygazeTogetherSelectionWeight>
+		<sharedReadingSelectionWeight>1</sharedReadingSelectionWeight>
+		<readTogetherSelectionWeight>1</readTogetherSelectionWeight>
+		<snowballFightSelectionWeight>1</snowballFightSelectionWeight>
+		<strollTogetherSelectionWeight>1</strollTogetherSelectionWeight>
+		<swimTogetherSelectionWeight>1</swimTogetherSelectionWeight>
+		<adoptionBaseChance>0.200000003</adoptionBaseChance>
+		<maxAgeForAdoption>13</maxAgeForAdoption>
+		<minAgeForAdoption>8</minAgeForAdoption>
+		<adoptionMinYearsInColony>4</adoptionMinYearsInColony>
+		<aHeartsReturnBaseChance>0.150000006</aHeartsReturnBaseChance>
+		<bondOfFreedomBaseChance>0.5</bondOfFreedomBaseChance>
+		<crushBaseChance>0.5</crushBaseChance>
+		<diplomaticMarriageBaseChance>0.5</diplomaticMarriageBaseChance>
+		<diplomaticMarriageBaseChance>0.5</diplomaticMarriageBaseChance>
+		<diplomaticMarriageAwayBaseChance>0.5</diplomaticMarriageAwayBaseChance>
+		<kidneyTradeBaseChance>0.100000001</kidneyTradeBaseChance>
+		<orphanLoverBaseChance>0.150000006</orphanLoverBaseChance>
+		<fromTheAshesBaseChance>0.5</fromTheAshesBaseChance>
 	</ModSettings>
 </SettingsBlock>

@@ -42,6 +42,9 @@
 			<li>
 				<category>Social</category>
 			</li>
+			<li>
+				<category>Books</category>
+			</li>
 		</categorySettingChanges>
 	</ModSettings>
 </SettingsBlock>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RedHealth.RedSettings">
+		<aspectsDisabled>
+			<li>
+				<defName>RED_BrainHealth</defName>
+				<active>True</active>
+			</li>
+			<li>
+				<defName>RED_CardiHealth</defName>
+				<active>True</active>
+			</li>
+			<li>
+				<defName>RED_OrganHealth</defName>
+				<active>True</active>
+			</li>
+		</aspectsDisabled>
+		<devEventTimeAcceleration>1</devEventTimeAcceleration>
+	</ModSettings>
+</SettingsBlock>
