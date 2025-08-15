@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PawnTargetFix.PawnTargetFixSettings">
+		<AccuracyWeight>120</AccuracyWeight>
+		<DownedPenalty>50</DownedPenalty>
+		<StickinessPercent>0.100000001</StickinessPercent>
+		<RecentTargetBonus>40</RecentTargetBonus>
+	</ModSettings>
+</SettingsBlock>

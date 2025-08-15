@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TraitSlotsPlus.Settings">
+		<TraitProbabilities>
+			<keys />
+			<values />
+		</TraitProbabilities>
+		<ChildrenTraitProbabilities>
+			<keys />
+			<values />
+		</ChildrenTraitProbabilities>
+		<BabyTraitProbabilities>
+			<keys />
+			<values />
+		</BabyTraitProbabilities>
+	</ModSettings>
+</SettingsBlock>

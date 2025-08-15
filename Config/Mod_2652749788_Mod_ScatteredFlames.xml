@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="ScatteredFlames.ModSettings_ScatteredFlames">
-		<specialFX>False</specialFX>
-		<smoke>False</smoke>
-	</ModSettings>
-</SettingsBlock>

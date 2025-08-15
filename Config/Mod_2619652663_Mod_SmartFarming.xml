@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="SmartFarming.ModSettings_SmartFarming">
-		<processedFoodFactor>1.79999995</processedFoodFactor>
-		<minTempAllowed>-3</minTempAllowed>
-		<pettyJobs>0.200000003</pettyJobs>
-		<orchardAlignment>False</orchardAlignment>
-	</ModSettings>
-</SettingsBlock>

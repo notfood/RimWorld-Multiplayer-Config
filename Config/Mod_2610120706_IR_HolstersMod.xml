@@ -12,10 +12,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.0, 0.0, 1.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(-1, 0, 1)</li>
+						<li>(0, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</pos>
 				<angle>
@@ -70,10 +70,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -112,10 +112,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(1.5, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.5)</li>
-						<li>(-2.0, 0.0, 0.5)</li>
-						<li>(2.0, 0.0, 0.5)</li>
+						<li>(1.5, 0, 0)</li>
+						<li>(-1, 0, 0.5)</li>
+						<li>(-2, 0, 0.5)</li>
+						<li>(2, 0, 0.5)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -170,10 +170,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(1.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(1, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -353,6 +353,87 @@
 					<li>PBF_ThingDef_Weapon_Gun_ChargeLance</li>
 					<li>Gun_StubbyLeverActionRifle</li>
 					<li>Gun_MechanoidMinigun</li>
+					<li>Gun_TacticalTurret</li>
+					<li>NerveSpiker</li>
+					<li>Gun_HellcatRifle</li>
+					<li>Gun_Incinerator</li>
+					<li>Gun_ChargedLMGTurret</li>
+					<li>Gun_ChargedSubmachineGun</li>
+					<li>Gun_ChargedLMG</li>
+					<li>Gun_GaussSubmachineGun</li>
+					<li>Gun_GaussAssaultRifle</li>
+					<li>Gun_MarksmanRifle</li>
+					<li>Gun_ChargedMarksmanRifle</li>
+					<li>Gun_GaussMarksmanRifle</li>
+					<li>Gun_ServiceSubmachineGun</li>
+					<li>Gun_RuggedSubmachineGun</li>
+					<li>Gun_FederalSubmachineGun</li>
+					<li>Gun_Coachgun</li>
+					<li>Gun_CivilShotgun</li>
+					<li>Gun_SurplusAutomaticShotgun</li>
+					<li>Gun_ReproductionBreechLoadingRifle</li>
+					<li>Gun_CowboyRifle</li>
+					<li>Gun_SurplusBoltActionRifle</li>
+					<li>Gun_ModularAssaultRifle</li>
+					<li>Gun_TacticalServiceRifle</li>
+					<li>Gun_ModernisedUniversalRifle</li>
+					<li>Gun_CommonwealthBattleRifle</li>
+					<li>Gun_ImprovisedCoilgun</li>
+					<li>Gun_ChargedServiceRifle</li>
+					<li>Gun_SurplusLMG</li>
+					<li>Gun_ModularLMG</li>
+					<li>Gun_ServiceLMG</li>
+					<li>Gun_ModernisedServiceLMG</li>
+					<li>Gun_SurplusBoltActionSniperRifle</li>
+					<li>Gun_ModernisedRuggedCovertRifle</li>
+					<li>Gun_ChargedSniperRifle</li>
+					<li>Gun_SurplusIncendiaryLauncher</li>
+					<li>Gun_SurplusSmokeLauncher</li>
+					<li>Gun_SurplusEMPLauncher</li>
+					<li>Gun_SpecialistIncendiaryLauncher</li>
+					<li>Gun_SpecialistSmokeLauncher</li>
+					<li>Gun_SpecialistEMPLauncher</li>
+					<li>Gun_SmartIncendiaryLauncher</li>
+					<li>Gun_SmartSmokeLauncher</li>
+					<li>Gun_SmartEMPLauncher</li>
+					<li>Gun_SurvivalRifle</li>
+					<li>Gun_ChargedCivilRifle</li>
+					<li>Gun_LeverActionBrushGun</li>
+					<li>Gun_AncientRuggedSpecialistCarbine</li>
+					<li>Gun_AncientRecoillessRifle</li>
+					<li>Gun_AncientServiceRifle</li>
+					<li>Gun_AncientMarksmanCarbine</li>
+					<li>Gun_GaussRifle</li>
+					<li>Gun_CombatLMG</li>
+					<li>Gun_Coilgun</li>
+					<li>Gun_ScopedCoilgun</li>
+					<li>Gun_SurplusToxbombLauncher</li>
+					<li>Gun_SpecialistToxbombLauncher</li>
+					<li>Gun_SmartToxbombLauncher</li>
+					<li>Gun_AncientArmoredTurret</li>
+					<li>Gun_BoltActionRifle_Unique</li>
+					<li>Gun_ChainShotgun_Unique</li>
+					<li>Gun_HeavySMG_Unique</li>
+					<li>Gun_LMG_Unique</li>
+					<li>Gun_AssaultRifle_Unique</li>
+					<li>Gun_SniperRifle_Unique</li>
+					<li>Gun_Minigun_Unique</li>
+					<li>Gun_ChargeRifle_Unique</li>
+					<li>Gun_ChargeLance_Unique</li>
+					<li>Gun_BeamRepeater_Unique</li>
+					<li>Gun_BeamRepeater</li>
+					<li>Gun_Scattergun</li>
+					<li>BS_JotunJavelin</li>
+					<li>BS_GiantPrimitiveBow</li>
+					<li>BS_OgreThrowinRock</li>
+					<li>BS_JotunRifle</li>
+					<li>BS_GiantMinigun</li>
+					<li>BS_JotunRocketLauncher</li>
+					<li>BMad_ShrinkRay</li>
+					<li>BMad_GrowthRay</li>
+					<li>BMAD_Gun_ShrinkTurret</li>
+					<li>BMAD_Gun_GrowthTurret</li>
+					<li>advancedTool_NailGun</li>
 				</weapons>
 			</li>
 			<li>
@@ -365,10 +446,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(1.5, 0.0, -2.5)</li>
-						<li>(-1.5, 0.0, -2.5)</li>
-						<li>(1.0, 0.0, -2.5)</li>
-						<li>(-0.5, 0.0, -2.5)</li>
+						<li>(1.5, 0, -2.5)</li>
+						<li>(-1.5, 0, -2.5)</li>
+						<li>(1, 0, -2.5)</li>
+						<li>(-0.5, 0, -2.5)</li>
 					</values>
 				</pos>
 				<angle>
@@ -423,10 +504,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(2.0, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(2, 0, -0.5)</li>
+						<li>(-2, 0, -0.5)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -465,10 +546,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.5, 0.0, -2.5)</li>
-						<li>(1.5, 0.0, -2.5)</li>
-						<li>(0.5, 0.0, -2.5)</li>
-						<li>(0.0, 0.0, -2.5)</li>
+						<li>(-1.5, 0, -2.5)</li>
+						<li>(1.5, 0, -2.5)</li>
+						<li>(0.5, 0, -2.5)</li>
+						<li>(0, 0, -2.5)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -523,10 +604,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-2.0, 0.0, -0.5)</li>
-						<li>(2.0, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(-2, 0, -0.5)</li>
+						<li>(2, 0, -0.5)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -546,6 +627,12 @@
 				<weapons>
 					<li>Gun_MiniTurretMech</li>
 					<li>Artillery_AutoMortar</li>
+					<li>Gun_ChargedPistol</li>
+					<li>Gun_CowboyRevolver</li>
+					<li>Gun_MagnumRevolver</li>
+					<li>Gun_SurplusSemiAutomaticPistol</li>
+					<li>Gun_SurvivalRevolver</li>
+					<li>Gun_Revolver_Unique</li>
 				</weapons>
 			</li>
 			<li>
@@ -558,10 +645,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-0.5, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(-0.5, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</pos>
 				<angle>
@@ -616,10 +703,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
-						<li>(1.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
+						<li>(1, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -658,10 +745,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.5, 0.0, -1.5)</li>
-						<li>(0.0, 0.0, -2.0)</li>
-						<li>(-0.5, 0.0, -2.0)</li>
-						<li>(0.0, 0.0, -2.0)</li>
+						<li>(0.5, 0, -1.5)</li>
+						<li>(0, 0, -2)</li>
+						<li>(-0.5, 0, -2)</li>
+						<li>(0, 0, -2)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -716,10 +803,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -740,6 +827,7 @@
 					<li>Bow_Short</li>
 					<li>Bow_Recurve</li>
 					<li>Bow_Great</li>
+					<li>Bow_Great_Unique</li>
 				</weapons>
 			</li>
 			<li>
@@ -752,10 +840,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-0.5, 0.0, 0.5)</li>
-						<li>(0.5, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(-0.5, 0, 0.5)</li>
+						<li>(0.5, 0, -0.5)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</pos>
 				<angle>
@@ -810,10 +898,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.5)</li>
-						<li>(0.0, 0.0, 0.5)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0.5)</li>
+						<li>(0, 0, 0.5)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -852,10 +940,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.5, 0.0, -0.5)</li>
-						<li>(0.0, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, -0.5)</li>
-						<li>(1.0, 0.0, 0.5)</li>
+						<li>(-1.5, 0, -0.5)</li>
+						<li>(0, 0, -0.5)</li>
+						<li>(-2, 0, -0.5)</li>
+						<li>(1, 0, 0.5)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -910,10 +998,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -967,6 +1055,23 @@
 					<li>VBE_Soda</li>
 					<li>VBE_Cider</li>
 					<li>MPT_MeleeWeapon_PsyfocusStaffBladelink</li>
+					<li>RR_Weapon_Torch</li>
+					<li>MastodonTusk</li>
+					<li>AlphaThrumboHorn</li>
+					<li>BS_JotunSword</li>
+					<li>BS_SurtrSword_Persona</li>
+					<li>BS_SkrymirHammer_Persona</li>
+					<li>BS_OgreClub</li>
+					<li>BS_GiantHammer</li>
+					<li>BS_JotunHammer</li>
+					<li>BS_SurtrSword</li>
+					<li>BS_SkrymirHammer</li>
+					<li>advancedTool_IndustrialChainsaw</li>
+					<li>advancedTool_PowerSaw</li>
+					<li>advancedTool_PowerAuger</li>
+					<li>advancedTool_Chisel</li>
+					<li>advancedTool_Jackhammer</li>
+					<li>advancedTool_Drill</li>
 				</weapons>
 			</li>
 			<li>
@@ -979,10 +1084,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(1.5, 0.0, -2.0)</li>
-						<li>(-1.5, 0.0, -2.0)</li>
-						<li>(0.5, 0.0, -2.0)</li>
-						<li>(-0.5, 0.0, -2.0)</li>
+						<li>(1.5, 0, -2)</li>
+						<li>(-1.5, 0, -2)</li>
+						<li>(0.5, 0, -2)</li>
+						<li>(-0.5, 0, -2)</li>
 					</values>
 				</pos>
 				<angle>
@@ -1037,10 +1142,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(2.0, 0.0, 0.0)</li>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
-						<li>(1.0, 0.0, 0.0)</li>
+						<li>(2, 0, 0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
+						<li>(1, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -1079,10 +1184,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.5, 0.0, -2.0)</li>
-						<li>(1.5, 0.0, -2.0)</li>
-						<li>(0.5, 0.0, -2.0)</li>
-						<li>(-0.5, 0.0, -2.0)</li>
+						<li>(-1.5, 0, -2)</li>
+						<li>(1.5, 0, -2)</li>
+						<li>(0.5, 0, -2)</li>
+						<li>(-0.5, 0, -2)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -1137,10 +1242,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-2.0, 0.0, 0.0)</li>
-						<li>(2.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
-						<li>(1.0, 0.0, 0.0)</li>
+						<li>(-2, 0, 0)</li>
+						<li>(2, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
+						<li>(1, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -1176,10 +1281,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.5, 0.0, -2.5)</li>
-						<li>(-0.5, 0.0, -2.5)</li>
-						<li>(1.0, 0.0, -2.5)</li>
-						<li>(-1.0, 0.0, -2.5)</li>
+						<li>(0.5, 0, -2.5)</li>
+						<li>(-0.5, 0, -2.5)</li>
+						<li>(1, 0, -2.5)</li>
+						<li>(-1, 0, -2.5)</li>
 					</values>
 				</pos>
 				<angle>
@@ -1234,10 +1339,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.0, 0.0, -0.5)</li>
-						<li>(1.0, 0.0, -0.5)</li>
-						<li>(1.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
+						<li>(-1, 0, -0.5)</li>
+						<li>(1, 0, -0.5)</li>
+						<li>(1, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -1276,10 +1381,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.5, 0.0, -2.0)</li>
-						<li>(1.5, 0.0, -2.0)</li>
-						<li>(2.0, 0.0, -0.5)</li>
-						<li>(-2.0, 0.0, -0.5)</li>
+						<li>(-1.5, 0, -2)</li>
+						<li>(1.5, 0, -2)</li>
+						<li>(2, 0, -0.5)</li>
+						<li>(-2, 0, -0.5)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -1334,10 +1439,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(-1.5, 0.0, 0.0)</li>
-						<li>(1.5, 0.0, 0.0)</li>
-						<li>(1.0, 0.0, 0.0)</li>
-						<li>(-1.0, 0.0, 0.0)</li>
+						<li>(-1.5, 0, 0)</li>
+						<li>(1.5, 0, 0)</li>
+						<li>(1, 0, 0)</li>
+						<li>(-1, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
@@ -1372,10 +1477,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
 					</values>
 				</pos>
 				<angle>
@@ -1430,10 +1535,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
 					</values>
 				</bodyOffset>
 				<size>
@@ -1472,10 +1577,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
 					</values>
 				</posSide>
 				<angleSide>
@@ -1530,10 +1635,10 @@
 						<li>3</li>
 					</keys>
 					<values>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
-						<li>(0.0, 0.0, 0.0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
+						<li>(0, 0, 0)</li>
 					</values>
 				</bodyOffsetSide>
 				<isFrontSide>
