@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnimalsAreFunContinued.Settings">
+		<MinConsciousness>0.600000024</MinConsciousness>
+		<MinMoving>0.699999988</MinMoving>
+		<MaxBodySize>1.60000002</MaxBodySize>
+		<MaxWildness>0.800000012</MaxWildness>
+		<BondedAnimalsPreference>0.5</BondedAnimalsPreference>
+		<MaximumAnimalDistance>30</MaximumAnimalDistance>
+	</ModSettings>
+</SettingsBlock>

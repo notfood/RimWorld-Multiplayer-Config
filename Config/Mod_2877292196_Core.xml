@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="yayoAni.YayoAniSettings">
+	<ModSettings Class="YayoAnimation.YayoAniSettings">
 		<WalkSpeed>0.800000012</WalkSpeed>
 		<WalkAngle>0.600000024</WalkAngle>
 		<CombatTwirlMaxMass>5</CombatTwirlMaxMass>
-		<CombatTwirlMaxSize>1</CombatTwirlMaxSize>
 	</ModSettings>
 </SettingsBlock>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="ResearchInfo.RI_Settings">
-		<showTimeToComplete>False</showTimeToComplete>
-	</ModSettings>
-</SettingsBlock>

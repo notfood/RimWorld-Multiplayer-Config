@@ -4,26 +4,56 @@
 		<disabledDefList>
 			<li>airPipe</li>
 			<li>AncientAirConditioner</li>
+			<li>AncientAmmoStack</li>
+			<li>AncientAntenna</li>
 			<li>AncientATM</li>
+			<li>AncientBandNode</li>
 			<li>AncientBarrel</li>
+			<li>AncientBasicRecharger</li>
+			<li>AncientBlastDoor</li>
+			<li>AncientRustedCar</li>
+			<li>AncientRustedCarFrame</li>
+			<li>AncientChembarrel</li>
+			<li>AncientChembarrelPallet</li>
+			<li>AncientChemtruck</li>
+			<li>AncientColdStorage</li>
 			<li>AncientCommsConsole</li>
 			<li>AncientConcreteBarrier</li>
+			<li>AncientLargeContainer</li>
+			<li>AncientMediumContainer</li>
+			<li>AncientSmallContainer</li>
 			<li>AncientCrate</li>
+			<li>AncientCratePallet</li>
+			<li>AncientDestroyedConsole</li>
+			<li>AncientDestroyedConsoleLarge</li>
 			<li>AncientDisplayBank</li>
+			<li>AncientDrillPlatform</li>
+			<li>AncientRustedDropship</li>
+			<li>AncientDropshipEngine</li>
 			<li>AncientEnemyTerminal</li>
 			<li>AncientRustedEngineBlock</li>
 			<li>AncientEquipmentBlocks</li>
+			<li>AncientExcavator</li>
+			<li>AncientExostriderCannon</li>
+			<li>AncientExostriderHead</li>
+			<li>AncientExostriderLeg</li>
+			<li>AncientExostriderRemains</li>
+			<li>AncientExplosivesCrate</li>
 			<li>AncientFence</li>
 			<li>AncientGenerator</li>
 			<li>AncientGiantWheel</li>
 			<li>AncientHydrant</li>
+			<li>AncientJetEngine</li>
 			<li>AncientKitchenSink</li>
 			<li>AncientLamppost</li>
 			<li>AncientLargeCrate</li>
+			<li>AncientLargeMechGestator</li>
 			<li>AncientLockerBank</li>
 			<li>AncientLongCrate</li>
 			<li>AncientMachine</li>
 			<li>AncientMechDropBeacon</li>
+			<li>AncientMechGestator</li>
+			<li>AncientMechGestatorTank</li>
 			<li>AncientMegaCannonBarrel</li>
 			<li>AncientMegaCannonTripod</li>
 			<li>AncientMicrowave</li>
@@ -31,22 +61,43 @@
 			<li>AncientShipBeacon</li>
 			<li>AncientOperatingTable</li>
 			<li>AncientOven</li>
+			<li>AncientPipe</li>
+			<li>AncientPipelineSection</li>
 			<li>AncientPipes</li>
+			<li>AncientPodCar</li>
 			<li>AncientPostbox</li>
 			<li>AncientRazorWire</li>
 			<li>AncientRefrigerator</li>
+			<li>AncientAPC</li>
+			<li>AncientTank</li>
 			<li>AncientSecurityTurret</li>
 			<li>AncientShoppingCart</li>
 			<li>AncientSmallCrate</li>
 			<li>AncientSpacerCrate</li>
+			<li>AncientHatch</li>
+			<li>AncientHatchExit</li>
 			<li>AncientStorageCylinder</li>
 			<li>AncientStove</li>
 			<li>AncientSystemRack</li>
+			<li>AncientTankTrap</li>
 			<li>AncientTerminal_Worshipful</li>
 			<li>AncientTerminal</li>
+			<li>AncientTerraformer</li>
 			<li>AncientToilet</li>
+			<li>AncientToxifierGenerator</li>
+			<li>AncientRustedJeep</li>
+			<li>AncientRustedTruck</li>
+			<li>AncientTunnelerClaw</li>
+			<li>AncientTunnelerHusk</li>
 			<li>AncientFuelNode</li>
 			<li>AncientVendingMachine</li>
+			<li>AncientWarspiderRemains</li>
+			<li>AncientMiniWarwalkerRemains</li>
+			<li>AncientWarwalkerClaw</li>
+			<li>AncientWarwalkerFoot</li>
+			<li>AncientWarwalkerLeg</li>
+			<li>AncientWarwalkerShell</li>
+			<li>AncientWarwalkerTorso</li>
 			<li>AncientWashingMachine</li>
 			<li>AncientWheel</li>
 			<li>AnimalLab</li>
@@ -60,15 +111,28 @@
 			<li>Brick_Cliff_Right</li>
 			<li>Brick_CliffTop_Left</li>
 			<li>Brick_CliffTop_Right</li>
+			<li>AncientAutocannonTurret</li>
+			<li>AncientUraniumSlugTurret</li>
 			<li>BurnPit</li>
+			<li>BurrowWall</li>
 			<li>ButcherSpot</li>
 			<li>CaravanPackingSpot</li>
+			<li>InsectLairEntrance</li>
+			<li>CaveExit</li>
 			<li>Plant_TreeCecropia</li>
+			<li>CollapsedRocks</li>
 			<li>Column</li>
 			<li>CraftingSpot</li>
+			<li>ShuttleCrashed_Exitable_Mechanitor</li>
+			<li>MechRelay_Crashed</li>
 			<li>Ship_Engine_CrashLanded</li>
 			<li>Ship_Reactor_CrashLanded</li>
 			<li>Ship_Beam_CrashLanded</li>
+			<li>ShuttleCrashed</li>
+			<li>ShuttleCrashed_Exitable</li>
+			<li>CraterSmall</li>
+			<li>CraterMedium</li>
+			<li>CraterLarge</li>
 			<li>Plant_TreeCypress</li>
 			<li>DeepWaterWellInlet</li>
 			<li>Dirt_Hill_Left</li>
@@ -82,11 +146,18 @@
 			<li>DryadHealingPod</li>
 			<li>Fence</li>
 			<li>FenceGate</li>
+			<li>OrbitalAncientFortifiedWall</li>
+			<li>AncientFortifiedWall</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
 			<li>Plant_TreeGrayPine</li>
 			<li>Plant_TreeMaple</li>
 			<li>MarriageSpot</li>
+			<li>MechanoidDropPod</li>
+			<li>AncientEmergencyLight_Green</li>
+			<li>MechanoidProcessor</li>
+			<li>MechRelay</li>
+			<li>ShipChunk_Mech</li>
 			<li>MeditationSpot</li>
 			<li>CocoonMegaspider</li>
 			<li>Metal_Cliff_Left</li>
@@ -94,6 +165,11 @@
 			<li>Metal_CliffTop_Left</li>
 			<li>Metal_CliffTop_Right</li>
 			<li>Plant_TreeOak</li>
+			<li>OilPipeline</li>
+			<li>OilPipelineHidden</li>
+			<li>OilWell</li>
+			<li>OilWellHead</li>
+			<li>OrnateDoor</li>
 			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>
 			<li>Plant_TreePine</li>
@@ -101,23 +177,48 @@
 			<li>Plant_TreePoplar</li>
 			<li>PowerConduit</li>
 			<li>PrimitiveWell</li>
+			<li>RaisedRocks</li>
 			<li>Plant_RatPalm</li>
 			<li>RR_ThinkingSpot</li>
 			<li>RitualSpot</li>
+			<li>RubblePile</li>
+			<li>AncientCraneArm</li>
+			<li>AncientCraneArmSmall</li>
+			<li>AncientCraneBase</li>
+			<li>AncientCraneColumn</li>
+			<li>AncientForklift</li>
+			<li>AncientFilingCabinet</li>
+			<li>AncientIndustrialTruck</li>
+			<li>AncientLockers</li>
+			<li>AncientMetalCrate</li>
+			<li>AncientRustedMicrowave</li>
+			<li>AncientOpenContainer</li>
+			<li>AncientSafe</li>
 			<li>Sandbags</li>
+			<li>AncientSealedContainer_GravshipUpgrade</li>
+			<li>AncientSealedContainer</li>
+			<li>SealedCrate</li>
+			<li>AncientSealedCrate</li>
+			<li>AncientSealedCrate_Gravlite</li>
+			<li>AncientSealedCrate_Shells</li>
+			<li>AncientSecurityCrate</li>
 			<li>SewageOutlet</li>
 			<li>SleepingSpot</li>
 			<li>Snowman</li>
 			<li>ToiletStallDoor</li>
+			<li>SteamGeyser</li>
 			<li>Stone_Cliff_Left</li>
 			<li>Stone_Cliff_Right</li>
 			<li>Stone_CliffTop_Left</li>
 			<li>Stone_CliffTop_Right</li>
+			<li>Gate_Stone</li>
 			<li>Plant_TreeTeak</li>
+			<li>ToxicSpewer</li>
 			<li>Vent</li>
 			<li>Wall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
+			<li>Bees_Wildhive</li>
 			<li>Plant_TreeWillow</li>
 			<li>Plant_Witchwood</li>
 		</disabledDefList>

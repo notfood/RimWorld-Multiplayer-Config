@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.6.4543 rev1069</version>
   <activeMods>
@@ -7,50 +6,152 @@
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.odyssey</li>
     <li>rwmt.multiplayer</li>
-    <li>rwmt.multiplayercompatibility_steam</li>
+    <li>rwmt.multiplayercompatibility</li>
+    <li>ccl.patchoperation.highlander</li>
+    <li>dubwise.dubsappareltweaks</li>
+    <li>dvs.norandomrelations</li>
+    <li>erdelf.minifyeverything</li>
+    <li>fed1splay.pawntargetfix</li>
+    <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>hobtook.mortaraccuracy</li>
+    <li>mlie.syrharvestyield</li>
+    <li>monkey5206.carrycapacityfixed</li>
+    <li>nercury.assignanimalfood</li>
+    <li>ogre.ogrestack</li>
+    <li>opa.allspecialistscanwork</li>
+    <li>sclarke.groundtargeter1.6temp</li>
+    <li>sensiblebedownership.1trickpwnyta</li>
+    <li>mlie.noversionwarning</li>
     <li>jintuzilamian.hairstyle.afumenshairstyles</li>
     <li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
     <li>mlie.ponytailiskawaii</li>
     <li>rimsenal.hair</li>
     <li>won.hair</li>
     <li>won2.hair</li>
-    <li>oblitus.mylittleplanet</li>
-    <li>isorex.pawneditor</li>
-    <li>mehni.pickupandhaul</li>
-    <li>katavrik.crashlanding</li>
-    <li>jaxe.bubbles</li>
-    <li>gguake.ai.dsfi</li>
-    <li>telardo.romanceontherim</li>
-    <li>mlie.decorativecliffs</li>
-    <li>mosi.practicalpallets</li>
+    <li>javier.culturalcouture</li>
     <li>mlie.mercerbackpacks</li>
+    <li>arquebus.morepersonatraits</li>
+    <li>janson.weapontech</li>
+    <li>setosa.power.tools</li>
+    <li>shinzy.apparello</li>
+    <li>statistno1.personabond</li>
+    <li>4loris4.morelinkables</li>
+    <li>adamas.bees</li>
     <li>dracoix.doormat.r12a</li>
-    <li>dubwise.dubsbadhygiene</li>
-    <li>dubwise.dubsmintmenus</li>
-    <li>dubwise.dubsmintminimap</li>
-    <li>dubwise.dubsappareltweaks</li>
+    <li>jamaicancastle.rf.fertilefields</li>
+    <li>jaxe.bubbles</li>
+    <li>jiopaba.fences</li>
+    <li>jiopaba.fencetab</li>
+    <li>karvinen.tablesplus</li>
+    <li>mlie.decorativecliffs</li>
+    <li>mlie.eggincubator</li>
+    <li>mlie.syrprosthetictable</li>
+    <li>mosi.practicalpallets</li>
+    <li>owlchemist.ceilingutilities</li>
+    <li>owlchemist.chickennests</li>
+    <li>owlchemist.fridgeutilities</li>
+    <li>owlchemist.wallutilities</li>
+    <li>pyrce.mass.graves.continued</li>
+    <li>telkir.tmods.morefloors</li>
+    <li>twokay.plushies.specific</li>
+    <li>ucp.tabletopdecorations</li>
+    <li>zylle.childrensdrawings</li>
+    <li>iworosiak.holsters</li>
+    <li>kaitorisenkou.whatstodaysmenu</li>
+    <li>mlie.realdining</li>
+    <li>ferny.replacelib</li>
+    <li>ferny.progressionagriculture</li>
+    <li>atlas.fallouttraits</li>
+    <li>consolidatedtraits.lc.rw</li>
+    <li>mlie.badcanbegood</li>
+    <li>rsev.synergistictraits</li>
+    <li>side1iner.traitslotsplus</li>
+    <li>defi.generipper</li>
+    <li>ebsg.aio</li>
+    <li>lazyfridaystudio.genesexpandedhorns</li>
+    <li>mlie.nomissinggeneicons</li>
+    <li>sl4vp0wer.dominantgene</li>
+    <li>tac.genetrader</li>
     <li>daniledman.cyberfauna</li>
-    <li>oblitus.animalslogic</li>
-    <li>weilbyte.snapout</li>
-    <li>haecriver.injuredcarry</li>
+    <li>darthsergeant.nursejob</li>
+    <li>dubwise.dubsrimkit</li>
+    <li>frozensnowfox.vanillabionicsexpansion</li>
+    <li>mlie.newlimbsneedstraining</li>
+    <li>proxyer.desurgeries.desurgeries</li>
+    <li>dubwise.dubsbadhygiene</li>
+    <li>dubwise.rimefeller</li>
+    <li>overpl.drawnspots</li>
+    <li>proxyer.desurgeries.dbhpatch</li>
+    <li>merthsoft.timeofdayswitch</li>
+    <li>supes.powerlogic.core</li>
+    <li>frozensnowfox.betterexplorationloot</li>
+    <li>ghxx.techadvancing</li>
+    <li>katavrik.crashlanding</li>
+    <li>mlie.morefactioninteraction</li>
     <li>petetimessix.researchreinvented</li>
     <li>petetimessix.researchreinvented.steppingstones</li>
-    <li>redmattis.betterprerequisites</li>
-    <li>redmattis.bigsmall.core</li>
-    <li>redmattis.bsslimes</li>
-    <li>erdelf.minifyeverything</li>
-    <li>darthsergeant.nursejob</li>
-    <li>kaitorisenkou.whatstodaysmenu</li>
-    <li>telardo.pipettetool</li>
-    <li>com.bymarcin.architecticons</li>
+    <li>sinnamon.moreritualrewards</li>
+    <li>oblitus.mylittleplanet</li>
+    <li>avilmask.nonunopinata</li>
+    <li>balistafreak.stopdropandroll</li>
+    <li>colossalfossil.animalsarefuncontinued</li>
+    <li>gguake.ai.dsfi</li>
+    <li>holdthegrenades.1trickponyta</li>
+    <li>kittahkhan.grazeup</li>
+    <li>mehni.pickupandhaul</li>
+    <li>memegoddess.mealsonwheels</li>
+    <li>mlie.animalharvestingspot</li>
+    <li>mlie.catshuntforfun</li>
+    <li>mlie.cutplantsbeforebuilding</li>
+    <li>mlie.grabyourtool</li>
+    <li>mlie.huntersusemelee</li>
+    <li>mlie.picnicarea</li>
+    <li>oblitus.animalslogic</li>
+    <li>telardo.romanceontherim</li>
+    <li>troopersmith1.deathrattle</li>
+    <li>weilbyte.snapout</li>
+    <li>andromeda.packablecontainers</li>
+    <li>arl85.corpseinfo</li>
+    <li>automatic.autolinks</li>
     <li>automatic.bionicicons</li>
+    <li>bodlosh.weaponstats</li>
     <li>caesarv6.damageindicators</li>
+    <li>carnysenpai.traitraritycolors</li>
+    <li>com.bymarcin.architecticons</li>
+    <li>dawnsglow.numbers</li>
+    <li>dubwise.dubsmintmenus</li>
+    <li>dubwise.dubsmintminimap</li>
+    <li>haecriver.injuredcarry</li>
+    <li>kathanon.showweapontallies</li>
+    <li>llunak.dietfiltersinstorage</li>
+    <li>mlie.bestmix</li>
+    <li>mlie.flickablestorage</li>
+    <li>mlie.stufflist</li>
+    <li>mlie.zonetoschedule</li>
+    <li>navyseal5.moreharvestdesignators</li>
+    <li>owlchemist.toggleableoverlays</li>
+    <li>superniquito.traiticons</li>
+    <li>telardo.pipettetool</li>
+    <li>usagirei.pocketsand</li>
+    <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>name.krypt.rimworld.moddiff</li>
+    <li>name.krypt.rimworld.pawntablegrouped</li>
+    <li>com.yayo.yayoani.continued</li>
+    <li>owlchemist.scatteredflames</li>
+    <li>owlchemist.scatteredstones</li>
+    <li>isorex.pawneditor</li>
+    <li>rimworld.randomcoughdrop.geneassistant</li>
+    <li>sandy.rpgstyleinventory</li>
+    <li>superniquito.modoptionssort</li>
+    <li>notfood.glue</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
+    <li>ludeon.rimworld.odyssey</li>
   </knownExpansions>
 </ModsConfigData>
