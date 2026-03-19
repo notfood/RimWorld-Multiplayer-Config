@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HoldTheGrenades.HoldTheGrenadesSettings">
+		<NoFireAtWill>
+			<li>Gun_InfernoCannonTurret</li>
+			<li>Artillery_AutoMortar</li>
+			<li>Gun_RocketswarmLauncher</li>
+			<li>Gun_TripleRocket</li>
+			<li>Gun_DoomsdayRocket</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Gun_InfernoCannon</li>
+			<li>Gun_ThumpCannon</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Gun_HellsphereCannon</li>
+			<li>Gun_BeamGraser</li>
+			<li>Gun_Incinerator</li>
+			<li>Gun_GMGTurret</li>
+			<li>Gun_IncendiaryLauncher</li>
+			<li>Gun_SmokeLauncher</li>
+			<li>Gun_EmpLauncher</li>
+			<li>Gun_SurplusIncendiaryLauncher</li>
+			<li>Gun_SurplusSmokeLauncher</li>
+			<li>Gun_SurplusEMPLauncher</li>
+			<li>Gun_SpecialistIncendiaryLauncher</li>
+			<li>Gun_SpecialistSmokeLauncher</li>
+			<li>Gun_SpecialistEMPLauncher</li>
+			<li>Gun_SmartIncendiaryLauncher</li>
+			<li>Gun_SmartSmokeLauncher</li>
+			<li>Gun_SmartEMPLauncher</li>
+			<li>Gun_QuadLauncher</li>
+			<li>Gun_GrenadeLauncher</li>
+			<li>Gun_DisposableLauncher</li>
+			<li>Gun_ToxbombLauncher</li>
+			<li>Gun_SurplusToxbombLauncher</li>
+			<li>Gun_SpecialistToxbombLauncher</li>
+			<li>Gun_SmartToxbombLauncher</li>
+		</NoFireAtWill>
+	</ModSettings>
+</SettingsBlock>

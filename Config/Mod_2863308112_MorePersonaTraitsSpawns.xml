@@ -218,8 +218,10 @@
 				<li>BS_Primitive_Modernized</li>
 				<li>BS_QuadShot</li>
 				<li>BS_Primitive_UltraTech</li>
+				<li>BioferriteBurner</li>
 			</keys>
 			<values>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

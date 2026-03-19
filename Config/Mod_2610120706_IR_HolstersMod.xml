@@ -434,6 +434,8 @@
 					<li>BMAD_Gun_ShrinkTurret</li>
 					<li>BMAD_Gun_GrowthTurret</li>
 					<li>advancedTool_NailGun</li>
+					<li>Gun_HellcatRifle_Unique</li>
+					<li>AdvancedTool_NailGun</li>
 				</weapons>
 			</li>
 			<li>
@@ -1072,6 +1074,12 @@
 					<li>advancedTool_Chisel</li>
 					<li>advancedTool_Jackhammer</li>
 					<li>advancedTool_Drill</li>
+					<li>AdvancedTool_IndustrialChainsaw</li>
+					<li>AdvancedTool_PowerSaw</li>
+					<li>AdvancedTool_PowerAuger</li>
+					<li>AdvancedTool_Chisel</li>
+					<li>AdvancedTool_Jackhammer</li>
+					<li>AdvancedTool_Drill</li>
 				</weapons>
 			</li>
 			<li>

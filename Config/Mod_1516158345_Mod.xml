@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Bubbles.Settings">
-		<Version>4.1</Version>
+		<Version>4.2</Version>
 		<HearingRange>10</HearingRange>
 		<ScaleMax>1.25</ScaleMax>
 		<OpacityStart>0.899999976</OpacityStart>

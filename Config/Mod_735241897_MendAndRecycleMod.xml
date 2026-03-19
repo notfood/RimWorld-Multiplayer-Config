@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MendAndRecycle.Settings">
+		<removesDeadman>False</removesDeadman>
+		<useTableMending>True</useTableMending>
+		<requiresFuel>True</requiresFuel>
+		<requiresPower>True</requiresPower>
+		<costFromMaxHitPoints>0.100000001</costFromMaxHitPoints>
+		<chances>
+			<keys>
+				<li>Undefined</li>
+				<li>Animal</li>
+				<li>Neolithic</li>
+				<li>Medieval</li>
+				<li>Industrial</li>
+				<li>Spacer</li>
+				<li>Ultra</li>
+				<li>Archotech</li>
+			</keys>
+			<values>
+				<li>0.00999999978</li>
+				<li>0.00999999978</li>
+				<li>0.0199999996</li>
+				<li>0.0299999993</li>
+				<li>0.0399999991</li>
+				<li>0.0500000007</li>
+				<li>0.100000001</li>
+				<li>0.25</li>
+			</values>
+		</chances>
+	</ModSettings>
+</SettingsBlock>
