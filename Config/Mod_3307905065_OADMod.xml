@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="OrphanageAndDaycare.OADSettings">
+		<OrphanageRequestGoodWillPenalty>0</OrphanageRequestGoodWillPenalty>
+		<OrphanageRequestGoodWillReward>15</OrphanageRequestGoodWillReward>
+	</ModSettings>
+</SettingsBlock>

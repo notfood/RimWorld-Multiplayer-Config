@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="b4ttl3m3ds.socialdining.Settings.SocialDiningSettings">
+		<enableAutoSeatAssignment>False</enableAutoSeatAssignment>
+		<alwaysShowChairNames>False</alwaysShowChairNames>
+	</ModSettings>
+</SettingsBlock>

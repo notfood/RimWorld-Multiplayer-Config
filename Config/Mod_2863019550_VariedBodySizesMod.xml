@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VariedBodySizes.VariedBodySizesModSettings">
+		<IgnoreMechs>True</IgnoreMechs>
+		<RelativeToAge>True</RelativeToAge>
+		<StandardDeviationDivider>6</StandardDeviationDivider>
+		<StandardDeviationDividerFemale>6</StandardDeviationDividerFemale>
+		<VariedBodySizes>
+			<keys />
+			<values />
+		</VariedBodySizes>
+	</ModSettings>
+</SettingsBlock>
