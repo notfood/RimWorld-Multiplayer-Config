@@ -2,7 +2,7 @@
 <ModsConfigData>
   <version>1.6.4633 rev1273</version>
   <activeMods>
-        <li>zetrith.prepatcher</li>
+    <li>zetrith.prepatcher</li>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
@@ -25,6 +25,7 @@
     <li>nercury.assignanimalfood</li>
     <li>ogre.ogrestack</li>
     <li>opa.allspecialistscanwork</li>
+    <li>sakurata.ideotickopt</li>
     <li>sclarke.groundtargeter1.6temp</li>
     <li>sensiblebedownership.1trickpwnyta</li>
     <li>jintuzilamian.hairstyle.afumenshairstyles</li>
@@ -44,9 +45,13 @@
     <li>setosa.power.tools</li>
     <li>shinzy.apparello</li>
     <li>statistno1.personabond</li>
+    <li>adaptive.storage.framework</li>
+    <li>telkir.tmods.morefloors</li>
+    <li>twokay.plushies.specific</li>
+    <li>ucp.tabletopdecorations</li>
+    <li>zylle.childrensdrawings</li>
     <li>4loris4.morelinkables</li>
     <li>adamas.bees</li>
-    <li>adaptive.storage.framework</li>
     <li>dracoix.doormat.r12a</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>jaxe.bubbles</li>
@@ -66,10 +71,6 @@
     <li>ponpeco.pfkschooldesk</li>
     <li>ponpeco.pfsf</li>
     <li>pyrce.mass.graves.continued</li>
-    <li>telkir.tmods.morefloors</li>
-    <li>twokay.plushies.specific</li>
-    <li>ucp.tabletopdecorations</li>
-    <li>zylle.childrensdrawings</li>
     <li>ferny.replacelib</li>
     <li>ferny.progressionagriculture</li>
     <li>iworosiak.holsters</li>
@@ -85,6 +86,7 @@
     <li>ebsg.aio</li>
     <li>lazyfridaystudio.genesexpandedhorns</li>
     <li>mlie.nomissinggeneicons</li>
+    <li>sg.ratkin</li>
     <li>sl4vp0wer.dominantgene</li>
     <li>tac.genetrader</li>
     <li>daniledman.cyberfauna</li>
@@ -103,14 +105,19 @@
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
     <li>mlie.morefactioninteraction</li>
+    <li>nalzurin.orphanageanddaycare</li>
     <li>petetimessix.researchreinvented</li>
     <li>petetimessix.researchreinvented.steppingstones</li>
     <li>sinnamon.moreritualrewards</li>
     <li>oblitus.mylittleplanet</li>
+    <li>gguake.ai.dsfi</li>
+    <li>mehni.pickupandhaul</li>
+    <li>assssssqwww.dsfiasqmorejob</li>
+    <li>memegoddess.mealsonwheels</li>
+    <li>mlie.animalharvestingspot</li>
     <li>avilmask.nonunopinata</li>
     <li>balistafreak.stopdropandroll</li>
     <li>colossalfossil.animalsarefuncontinued</li>
-    <li>gguake.ai.dsfi</li>
     <li>holdthegrenades.1trickponyta</li>
     <li>kittahkhan.grazeup</li>
     <li>mlie.catshuntforfun</li>
@@ -122,9 +129,9 @@
     <li>telardo.romanceontherim</li>
     <li>troopersmith1.deathrattle</li>
     <li>weilbyte.snapout</li>
-    <li>mehni.pickupandhaul</li>
-    <li>memegoddess.mealsonwheels</li>
-    <li>mlie.animalharvestingspot</li>
+    <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>name.krypt.rimworld.moddiff</li>
+    <li>name.krypt.rimworld.pawntablegrouped</li>
     <li>andromeda.packablecontainers</li>
     <li>arl85.corpseinfo</li>
     <li>automatic.autolinks</li>
@@ -148,18 +155,16 @@
     <li>superniquito.traiticons</li>
     <li>telardo.pipettetool</li>
     <li>usagirei.pocketsand</li>
-    <li>name.krypt.rimworld.rwlayout.alpha2</li>
-    <li>name.krypt.rimworld.moddiff</li>
-    <li>name.krypt.rimworld.pawntablegrouped</li>
     <li>com.yayo.yayoani.continued</li>
+    <li>mlie.variedbodysizes</li>
     <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>
-    <li>sandy.rpgstyleinventory</li>
-    <li>superniquito.modoptionssort</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
     <li>isorex.pawneditor</li>
+    <li>sandy.rpgstyleinventory</li>
+    <li>superniquito.modoptionssort</li>
     <li>notfood.glue</li>
-    </activeMods>
+  </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>

@@ -17,8 +17,16 @@
 				<li>IdleJobGiver_CleaningGun</li>
 				<li>IdleJobGiver_Gardening</li>
 				<li>IdleJobGiver_Thinking</li>
+				<li>ASQMoreJob_IdleJobGiver_ReadBook</li>
+				<li>ASQMoreJob_IdleJobGiver_TakeANap</li>
+				<li>ASQMoreJob_IdleJobGiver_PlayPhone</li>
+				<li>ASQMoreJob_IdleJobGiver_WatchTV</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

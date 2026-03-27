@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VariedBodySizes.VariedBodySizesModSettings">
+		<IgnoreMechs>True</IgnoreMechs>
+		<RelativeToAge>True</RelativeToAge>
+		<StandardDeviationDivider>19.8454933</StandardDeviationDivider>
+		<StandardDeviationDividerFemale>6</StandardDeviationDividerFemale>
+		<VariedBodySizes>
+			<keys>
+				<li>Chicken</li>
+			</keys>
+			<values>
+				<li>0.899999976~2.00324678</li>
+			</values>
+		</VariedBodySizes>
+	</ModSettings>
+</SettingsBlock>

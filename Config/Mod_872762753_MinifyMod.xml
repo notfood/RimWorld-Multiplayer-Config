@@ -42,6 +42,8 @@
 			<li>AncientFence</li>
 			<li>AncientGenerator</li>
 			<li>AncientGiantWheel</li>
+			<li>AncientGravEngine</li>
+			<li>AncientGravReactor</li>
 			<li>AncientHydrant</li>
 			<li>AncientJetEngine</li>
 			<li>AncientKitchenSink</li>
@@ -111,6 +113,9 @@
 			<li>Brick_Cliff_Right</li>
 			<li>Brick_CliffTop_Left</li>
 			<li>Brick_CliffTop_Right</li>
+			<li>Fence_BrickShort</li>
+			<li>Fence_BrickTall</li>
+			<li>BrickWall</li>
 			<li>AncientAutocannonTurret</li>
 			<li>AncientUraniumSlugTurret</li>
 			<li>BurnPit</li>
@@ -134,6 +139,7 @@
 			<li>CraterMedium</li>
 			<li>CraterLarge</li>
 			<li>Plant_TreeCypress</li>
+			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>DeepWaterWellInlet</li>
 			<li>Dirt_Hill_Left</li>
 			<li>Dirt_Hill_Right</li>
@@ -144,34 +150,75 @@
 			<li>Plant_TreeDrago</li>
 			<li>DryadCocoon</li>
 			<li>DryadHealingPod</li>
+			<li>EndlessPit2x2c</li>
+			<li>EndlessPit3x2c</li>
+			<li>EndlessPit3x3c</li>
 			<li>Fence</li>
 			<li>FenceGate</li>
+			<li>Fleshbulb</li>
+			<li>Fleshmass</li>
+			<li>Fleshmass_Active</li>
+			<li>FleshmassSpitter</li>
 			<li>OrbitalAncientFortifiedWall</li>
 			<li>AncientFortifiedWall</li>
 			<li>GeothermalGenerator</li>
 			<li>Grave</li>
 			<li>Plant_TreeGrayPine</li>
+			<li>HiddenConduit</li>
+			<li>Terraform_Ice-RockyDirt</li>
+			<li>Terraform_Ice-WaterShallow</li>
+			<li>Shuttle</li>
+			<li>CocoonLocust</li>
+			<li>MajorArchotechStructure</li>
+			<li>MajorArchotechStructureStudiable</li>
+			<li>MalfunctioningTransportPod</li>
 			<li>Plant_TreeMaple</li>
 			<li>MarriageSpot</li>
+			<li>Terraform_Marsh-WaterDeep</li>
+			<li>Terraform_Marsh-SoilMarshy</li>
+			<li>Terraform_Marsh-Mud</li>
+			<li>Terraform_Marsh-WaterShallow</li>
+			<li>Terraform_Marsh-SoilF</li>
+			<li>Terraform_SoilMarshy-Marsh</li>
+			<li>Terraform_SoilMarshy-SoilMarshy</li>
+			<li>Terraform_SoilMarshy-Mud</li>
+			<li>Terraform_SoilMarshy-RockyDirt</li>
+			<li>Terraform_SoilMarshy-SoilF</li>
+			<li>MassGrave</li>
+			<li>MassGraveAlt</li>
 			<li>MechanoidDropPod</li>
 			<li>AncientEmergencyLight_Green</li>
 			<li>MechanoidProcessor</li>
 			<li>MechRelay</li>
 			<li>ShipChunk_Mech</li>
 			<li>MeditationSpot</li>
+			<li>CocoonMegascarab</li>
 			<li>CocoonMegaspider</li>
 			<li>Metal_Cliff_Left</li>
 			<li>Metal_Cliff_Right</li>
 			<li>Metal_CliffTop_Left</li>
 			<li>Metal_CliffTop_Right</li>
+			<li>Terraform_Mud-Marsh</li>
+			<li>Terraform_Mud-SoilMarshy</li>
+			<li>Terraform_Mud-Mud</li>
+			<li>Terraform_Mud-RockyDirt</li>
+			<li>Terraform_Mud-SoilF</li>
 			<li>Plant_TreeOak</li>
 			<li>OilPipeline</li>
 			<li>OilPipelineHidden</li>
 			<li>OilWell</li>
 			<li>OilWellHead</li>
 			<li>OrnateDoor</li>
+			<li>Terraform_PackedDirt-SoilF</li>
 			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>
+			<li>PFS_AutodoorB</li>
+			<li>PFS_AutodoorC</li>
+			<li>PFS_Barricade</li>
+			<li>PFS_ColumnA</li>
+			<li>PFS_ColumnB</li>
+			<li>PFS_ColumnC</li>
+			<li>Fence_Picket</li>
 			<li>Plant_TreePine</li>
 			<li>sewagePipeStuff</li>
 			<li>Plant_TreePoplar</li>
@@ -179,8 +226,17 @@
 			<li>PrimitiveWell</li>
 			<li>RaisedRocks</li>
 			<li>Plant_RatPalm</li>
+			<li>Terraform_SoilWorn-SoilF</li>
 			<li>RR_ThinkingSpot</li>
+			<li>Terraform_SoilF-SoilRich</li>
+			<li>Terraform_SoilRich-SoilRich</li>
 			<li>RitualSpot</li>
+			<li>Terraform_RockyDirt-RockyDirt</li>
+			<li>Terraform_RockyDirt-Stone</li>
+			<li>Terraform_RockyDirt-Sand</li>
+			<li>Terraform_RockyDirt-WaterShallow</li>
+			<li>Terraform_RockyDirt-SoilF</li>
+			<li>Terraform_RockyDirt-Gravel</li>
 			<li>RubblePile</li>
 			<li>AncientCraneArm</li>
 			<li>AncientCraneArmSmall</li>
@@ -194,6 +250,11 @@
 			<li>AncientRustedMicrowave</li>
 			<li>AncientOpenContainer</li>
 			<li>AncientSafe</li>
+			<li>Terraform_Sand-RockyDirt</li>
+			<li>Terraform_Sand-Sand</li>
+			<li>Terraform_Sand-WaterShallow</li>
+			<li>Terraform_Sand-SoilF</li>
+			<li>Terraform_Sand-Gravel</li>
 			<li>Sandbags</li>
 			<li>AncientSealedContainer_GravshipUpgrade</li>
 			<li>AncientSealedContainer</li>
@@ -202,9 +263,24 @@
 			<li>AncientSealedCrate_Gravlite</li>
 			<li>AncientSealedCrate_Shells</li>
 			<li>AncientSecurityCrate</li>
+			<li>SecurityDoor</li>
 			<li>SewageOutlet</li>
+			<li>Terraform_WaterShallow-WaterDeep</li>
+			<li>Terraform_WaterShallow-Marsh</li>
+			<li>Terraform_WaterShallow-RockyDirt</li>
+			<li>Terraform_WaterShallow-Sand</li>
+			<li>Terraform_WaterShallow-SoilF</li>
 			<li>SleepingSpot</li>
 			<li>Snowman</li>
+			<li>Terraform_SoilF-Marsh</li>
+			<li>Terraform_SoilF-SoilMarshy</li>
+			<li>Terraform_SoilF-Mud</li>
+			<li>Terraform_SoilF-PackedDirt</li>
+			<li>Terraform_SoilF-RockyDirt</li>
+			<li>Terraform_SoilF-Sand</li>
+			<li>Terraform_SoilF-WaterShallow</li>
+			<li>Terraform_SoilF-SoilF</li>
+			<li>Terraform_SoilF-Gravel</li>
 			<li>ToiletStallDoor</li>
 			<li>SteamGeyser</li>
 			<li>Stone_Cliff_Left</li>
@@ -212,10 +288,31 @@
 			<li>Stone_CliffTop_Left</li>
 			<li>Stone_CliffTop_Right</li>
 			<li>Gate_Stone</li>
+			<li>Terraform_Stone-RockyDirt</li>
+			<li>Terraform_Gravel-RockyDirt</li>
+			<li>Terraform_Gravel-Sand</li>
+			<li>Terraform_Gravel-SoilF</li>
+			<li>Terraform_Gravel-Gravel</li>
 			<li>Plant_TreeTeak</li>
 			<li>ToxicSpewer</li>
+			<li>TwistedArchotechSupport_Small</li>
+			<li>TwistedArchotechSupport_Large</li>
+			<li>TwistedArchotechSupport_Vertical</li>
+			<li>WarpedObelisk_Mutator</li>
 			<li>Vent</li>
+			<li>VoidmetalMassSmall</li>
+			<li>VoidmetalMassMedium</li>
+			<li>VoidmetalMassLarge</li>
+			<li>VoidmetalWall</li>
+			<li>VoidMonolithAttachmentLeft</li>
+			<li>VoidMonolithAttachmentRight</li>
+			<li>VoidMonolithAttachmentTop</li>
+			<li>VoidMonolithAttachmentBottomLeft</li>
+			<li>VoidMonolithAttachmentBottomRight</li>
+			<li>VoidNode</li>
+			<li>VoidStructure</li>
 			<li>Wall</li>
+			<li>GrayWall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
 			<li>Bees_Wildhive</li>
