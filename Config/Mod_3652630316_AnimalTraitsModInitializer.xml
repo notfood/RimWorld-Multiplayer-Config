@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnimalTraitExtension.AnimalTraitsSettings">
+		<traitCommonality>24</traitCommonality>
+		<maximumAnimalTraits>2</maximumAnimalTraits>
+		<renameAnimalsWithTraits>False</renameAnimalsWithTraits>
+		<animalExclusions />
+		<traitWeightOverrideKeys />
+		<traitWeightOverrideValues />
+		<traitConfigOverrides>
+			<keys />
+			<values />
+		</traitConfigOverrides>
+	</ModSettings>
+</SettingsBlock>
