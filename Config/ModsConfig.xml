@@ -1,4 +1,4 @@
-﻿<ModsConfigData>
+<ModsConfigData>
   <version>1.6.4633 rev1273</version>
   <activeMods>
     <li>zetrith.prepatcher</li>
@@ -12,6 +12,8 @@
     <li>rwmt.multiplayer</li>
     <li>rwmt.multiplayercompatibility</li>
     <li>ccl.patchoperation.highlander</li>
+    <li>adaptive.storage.framework</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>dubwise.dubsappareltweaks</li>
     <li>dvs.norandomrelations</li>
     <li>erdelf.minifyeverything</li>
@@ -39,13 +41,13 @@
     <li>ponpeco.kidsclothes</li>
     <li>ponpeco.pkcallagepatch</li>
     <li>ponpeco.ponpecoaccessories</li>
+    <li>vanillaexpanded.vweg</li>
     <li>arquebus.morepersonatraits</li>
     <li>janson.weapontech</li>
     <li>setosa.power.tools</li>
     <li>shinzy.apparello</li>
     <li>statistno1.personabond</li>
     <li>luved.animaltraits</li>
-    <li>adaptive.storage.framework</li>
     <li>telkir.tmods.morefloors</li>
     <li>twokay.plushies.specific</li>
     <li>ucp.tabletopdecorations</li>
@@ -57,7 +59,9 @@
     <li>jaxe.bubbles</li>
     <li>jiopaba.fences</li>
     <li>jiopaba.fencetab</li>
+    <li>jpt.openthewindows</li>
     <li>karvinen.tablesplus</li>
+    <li>meltup.beautifuloutdoors</li>
     <li>mlie.decorativecliffs</li>
     <li>mlie.eggincubator</li>
     <li>mlie.syrprosthetictable</li>
@@ -87,7 +91,6 @@
     <li>lazyfridaystudio.genesexpandedhorns</li>
     <li>mlie.nomissinggeneicons</li>
     <li>sg.ratkin</li>
-    <li>sl4vp0wer.dominantgene</li>
     <li>tac.genetrader</li>
     <li>daniledman.cyberfauna</li>
     <li>darthsergeant.nursejob</li>
@@ -147,13 +150,13 @@
     <li>dubwise.dubsmintminimap</li>
     <li>haecriver.injuredcarry</li>
     <li>kathanon.showweapontallies</li>
+    <li>keyz182.keyzallowutilities</li>
     <li>llunak.dietfiltersinstorage</li>
     <li>mlie.bestmix</li>
     <li>mlie.flickablestorage</li>
     <li>mlie.shoo</li>
     <li>mlie.stufflist</li>
     <li>mlie.zonetoschedule</li>
-    <li>navyseal5.moreharvestdesignators</li>
     <li>owlchemist.toggleableoverlays</li>
     <li>superniquito.traiticons</li>
     <li>telardo.pipettetool</li>

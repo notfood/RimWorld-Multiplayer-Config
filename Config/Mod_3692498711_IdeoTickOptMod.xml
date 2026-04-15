@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="IdeoTickOpt.IdeoTickOptMod+IdeoTickOptModSettings">
+		<EnableThisMod>True</EnableThisMod>
+		<EnableAlwaysTickPlayerPawn>False</EnableAlwaysTickPlayerPawn>
+		<EnableSkipAllNonPlayerIdeologies>False</EnableSkipAllNonPlayerIdeologies>
+		<SkipPausedMap>False</SkipPausedMap>
+		<EnableDebugLog>False</EnableDebugLog>
+	</ModSettings>
+</SettingsBlock>

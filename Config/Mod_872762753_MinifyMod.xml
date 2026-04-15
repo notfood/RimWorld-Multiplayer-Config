@@ -102,11 +102,12 @@
 			<li>AncientWarwalkerTorso</li>
 			<li>AncientWashingMachine</li>
 			<li>AncientWheel</li>
-			<li>AnimalLab</li>
 			<li>AnimalSleepingSpot</li>
 			<li>Autodoor</li>
 			<li>BabySleepingSpot</li>
 			<li>Plant_TreeBamboo</li>
+			<li>Fence_Bar</li>
+			<li>Gate_Bar</li>
 			<li>Barricade</li>
 			<li>Plant_TreeBirch</li>
 			<li>Brick_Cliff_Left</li>
@@ -125,8 +126,11 @@
 			<li>InsectLairEntrance</li>
 			<li>CaveExit</li>
 			<li>Plant_TreeCecropia</li>
+			<li>Fence_Chainlink</li>
+			<li>Gate_Chainlink</li>
 			<li>CollapsedRocks</li>
 			<li>Column</li>
+			<li>WarpedObelisk_Duplicator</li>
 			<li>CraftingSpot</li>
 			<li>ShuttleCrashed_Exitable_Mechanitor</li>
 			<li>MechRelay_Crashed</li>
@@ -220,6 +224,8 @@
 			<li>PFS_ColumnC</li>
 			<li>Fence_Picket</li>
 			<li>Plant_TreePine</li>
+			<li>PitGate</li>
+			<li>PitGateExit</li>
 			<li>sewagePipeStuff</li>
 			<li>Plant_TreePoplar</li>
 			<li>PowerConduit</li>
