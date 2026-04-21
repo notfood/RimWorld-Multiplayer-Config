@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AlphaArmoury.AlphaArmoury_Settings">
+		<minWeaponTraits>1</minWeaponTraits>
+		<maxWeaponTraits>3</maxWeaponTraits>
+		<sendWeaponPods>False</sendWeaponPods>
+		<addWeaponsToMoreMercs>False</addWeaponsToMoreMercs>
+		<addKitsToMoreMercs>False</addKitsToMoreMercs>
+		<addWeaponsToAllRaids>False</addWeaponsToAllRaids>
+		<makeRaidWeaponsBiocoded>True</makeRaidWeaponsBiocoded>
+		<makeRaidWeaponsDestroyedOnDrop>False</makeRaidWeaponsDestroyedOnDrop>
+		<addUniquesToMUR>False</addUniquesToMUR>
+		<makeMoreCommonAsQuestRewards>False</makeMoreCommonAsQuestRewards>
+	</ModSettings>
+</SettingsBlock>

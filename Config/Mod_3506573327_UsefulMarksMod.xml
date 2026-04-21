@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UsefulMarks.Settings">
+		<IconShadowOffset>2</IconShadowOffset>
+		<IconSizeMultiplier>1</IconSizeMultiplier>
+		<ConditionUpdateRateMultiplier>1</ConditionUpdateRateMultiplier>
+		<WeaponUnderPortraitOffset>0</WeaponUnderPortraitOffset>
+	</ModSettings>
+</SettingsBlock>

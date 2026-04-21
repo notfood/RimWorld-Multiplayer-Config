@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CorpseTickOpt.CorpseTickOptMod+CorpseTickOptModSettings">
+		<EnableThisMod>True</EnableThisMod>
+		<EnableDebugLog>False</EnableDebugLog>
+	</ModSettings>
+</SettingsBlock>

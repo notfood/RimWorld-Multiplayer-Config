@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="KeyzAllowUtilities.Settings">
-		<PlantGrownLevel>1</PlantGrownLevel>
+		<PlantGrownLevel>0.995145619</PlantGrownLevel>
 	</ModSettings>
 </SettingsBlock>

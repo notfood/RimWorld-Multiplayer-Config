@@ -26,6 +26,8 @@
 			<li>RimWorld.Designator_PlantsHarvestWood</li>
 			<li>RimWorld.Designator_Mine</li>
 			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>KeyzAllowUtilities.Designator_HarvestGrown</li>
 		</WheelDefs>
 		<FBenchTemplates>
 			<li>
