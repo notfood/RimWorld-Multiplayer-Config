@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="Maux36.RimPsyche.RimpsycheSettings" />
+	<ModSettings Class="Maux36.RimPsyche.RimpsycheSettings">
+		<allowFacetEdit>True</allowFacetEdit>
+		<showFacetInMenu>True</showFacetInMenu>
+		<showFacetGraph>True</showFacetGraph>
+	</ModSettings>
 </SettingsBlock>

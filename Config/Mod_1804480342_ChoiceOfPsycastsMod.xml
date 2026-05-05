@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimWorld.ChoiceOfPsycasts.ChoiceOfPsycastsSettings">
+		<PsycastOptions>4</PsycastOptions>
+	</ModSettings>
+</SettingsBlock>

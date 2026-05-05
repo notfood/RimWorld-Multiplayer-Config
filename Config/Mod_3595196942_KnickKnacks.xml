@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DinnerDateWithEuterpe.KnickKnacksSettings">
+		<daysBetweenDecorations>2</daysBetweenDecorations>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WVC_XenotypesAndGenes.WVC_BiotechSettings">
+		<firstModLaunch>False</firstModLaunch>
+		<generateSkillGenes>False</generateSkillGenes>
+		<disableLegacy>True</disableLegacy>
+		<disableUniqueXenotypeScenarios>True</disableUniqueXenotypeScenarios>
+		<learning_CyclicallySelfLearning_MaxSkillLevel>20</learning_CyclicallySelfLearning_MaxSkillLevel>
+		<generalGenesRarity_Divisor>0</generalGenesRarity_Divisor>
+		<xenotypeGestator_GestationTimeFactor>1</xenotypeGestator_GestationTimeFactor>
+		<xenotypeGestator_GestationMatchPercent>0.400000006</xenotypeGestator_GestationMatchPercent>
+		<reincarnation_MinChronoAge>200</reincarnation_MinChronoAge>
+		<reincarnation_Chance>1</reincarnation_Chance>
+		<reincarnation_DelayDays>15</reincarnation_DelayDays>
+		<hemogenic_ImplanterFangsChanceFactor>1</hemogenic_ImplanterFangsChanceFactor>
+		<thrallMaker_cooldownOverride>9</thrallMaker_cooldownOverride>
+		<invisibility_invisDurationFactor>0</invisibility_invisDurationFactor>
+		<featheredAgeless_GenesCostFactor>1</featheredAgeless_GenesCostFactor>
+		<mechlink_HediffFromGeneChance>0.0199999996</mechlink_HediffFromGeneChance>
+		<psylink_HediffFromGeneChance>0.0199999996</psylink_HediffFromGeneChance>
+		<golemnoids_ShutdownRechargePerTick>0.5</golemnoids_ShutdownRechargePerTick>
+		<voidlink_mechCostFactor>3</voidlink_mechCostFactor>
+		<voidlink_mechCostLimit>99</voidlink_mechCostLimit>
+		<voidlink_resourceGainFromMechsFactor>0.00999999978</voidlink_resourceGainFromMechsFactor>
+		<shapeshifer_GeneCellularRegeneration>1</shapeshifer_GeneCellularRegeneration>
+		<shapeshifer_BaseGenesMatch>0.699999988</shapeshifer_BaseGenesMatch>
+		<shapeshifer_CooldownDurationFactor>1</shapeshifer_CooldownDurationFactor>
+		<traitshifter_MaxTraits>3</traitshifter_MaxTraits>
+		<chimeraStartingGenes>5</chimeraStartingGenes>
+		<duplicator_RandomOutcomeChance>0.660000026</duplicator_RandomOutcomeChance>
+		<duplicator_RandomGeneChance>0.119999997</duplicator_RandomGeneChance>
+		<fleshmass_MaxMutationsLevel>5</fleshmass_MaxMutationsLevel>
+		<gestatedDryads_FilthRateFactor>0.100000001</gestatedDryads_FilthRateFactor>
+		<gestatedDryads_AnomalyRegeneration>0</gestatedDryads_AnomalyRegeneration>
+		<preferredXenotypes_RequiredMinMatch>0.600000024</preferredXenotypes_RequiredMinMatch>
+	</ModSettings>
+</SettingsBlock>
