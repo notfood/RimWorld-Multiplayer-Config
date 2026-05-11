@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CompatibilityEditor.CompatibilityEditorSettings">
+		<sliderMin>-5</sliderMin>
+		<sliderMax>5</sliderMax>
+		<showButtonBar>False</showButtonBar>
+	</ModSettings>
+</SettingsBlock>

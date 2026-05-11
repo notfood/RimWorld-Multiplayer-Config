@@ -1,4 +1,5 @@
-﻿<ModsConfigData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
   <version>1.6.4633 rev1273</version>
   <activeMods>
     <li>zetrith.prepatcher</li>
@@ -15,6 +16,7 @@
     <li>adaptive.storage.framework</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>blackphoenix.traitsgiveaptitude</li>
+    <li>chris.cutercatearreplacer</li>
     <li>dubwise.dubsappareltweaks</li>
     <li>dvs.norandomrelations</li>
     <li>erdelf.minifyeverything</li>
@@ -68,7 +70,6 @@
     <li>mlie.syrprosthetictable</li>
     <li>mosi.practicalpallets</li>
     <li>notfood.mendandrecycle</li>
-    <li>oels.nanamewalls</li>
     <li>owlchemist.ceilingutilities</li>
     <li>owlchemist.chickennests</li>
     <li>owlchemist.fridgeutilities</li>
@@ -183,10 +184,12 @@
     <li>owlchemist.scatteredstones</li>
     <li>vaguelysexual.modpackageid.goeshere</li>
     <li>rimworld.randomcoughdrop.geneassistant</li>
-    <li>isorex.pawneditor</li>
+    <li>segaswolf.pawneditor.fork</li>
     <li>ferny.nomodlistonloading</li>
+    <li>jomar.pawncompatibilityeditor</li>
     <li>sandy.rpgstyleinventory</li>
     <li>superniquito.modoptionssort</li>
+    <li>zhuma.xenotypesummary</li>
     <li>notfood.glue</li>
   </activeMods>
   <knownExpansions>
