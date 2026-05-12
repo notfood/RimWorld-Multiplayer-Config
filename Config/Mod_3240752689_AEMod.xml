@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnomaliesExpected.AESettings">
+		<UndergroundFleshmassNestMult>0.5</UndergroundFleshmassNestMult>
+		<UndergroundFleshmassNestRestore>0.100000001</UndergroundFleshmassNestRestore>
+		<UndergroundFleshmassNestFrequencyMult>1</UndergroundFleshmassNestFrequencyMult>
+		<DevDisableClockworkObelisk>True</DevDisableClockworkObelisk>
+	</ModSettings>
+</SettingsBlock>

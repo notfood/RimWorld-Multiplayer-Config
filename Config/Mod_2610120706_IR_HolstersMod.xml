@@ -438,6 +438,11 @@
 					<li>AdvancedTool_NailGun</li>
 					<li>AArmoury_Gun_Launcher_Unique</li>
 					<li>WVC_GolemGun_Slugthrower</li>
+					<li>Gun_AESnowBall</li>
+					<li>Gun_AESnowBlock</li>
+					<li>Gun_AEIcicle</li>
+					<li>Gun_AESnowBallGun</li>
+					<li>Gun_AEIcicleRifle</li>
 				</weapons>
 			</li>
 			<li>
@@ -637,6 +642,7 @@
 					<li>Gun_SurplusSemiAutomaticPistol</li>
 					<li>Gun_SurvivalRevolver</li>
 					<li>Gun_Revolver_Unique</li>
+					<li>Weapon_AEGrenadeNitrogen</li>
 				</weapons>
 			</li>
 			<li>
@@ -1082,6 +1088,9 @@
 					<li>AdvancedTool_Chisel</li>
 					<li>AdvancedTool_Jackhammer</li>
 					<li>AdvancedTool_Drill</li>
+					<li>MeleeWeapon_AEClockworkHand</li>
+					<li>MeleeWeapon_AEIceSword</li>
+					<li>MeleeWeapon_AEIceSpear</li>
 				</weapons>
 			</li>
 			<li>
