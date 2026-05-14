@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="PeteTimesSix.ResearchReinvented.ResearchReinvented_Settings">
+		<changeTicker>1</changeTicker>
 		<activePreset>SettingsPreset_RR_Slow</activePreset>
 		<categorySettingChanges>
 			<li>

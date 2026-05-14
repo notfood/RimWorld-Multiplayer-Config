@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterArchitect.BetterArchitectSettings">
+		<menuHeight>330</menuHeight>
+		<rememberSubcategory>True</rememberSubcategory>
+		<backgroundAlpha>0.419999987</backgroundAlpha>
+		<sortSettingsPerCategory>
+			<keys>
+				<li>Ferny_Walls</li>
+				<li>Ferny_GeneralStorage</li>
+				<li>Ferny_Ranching</li>
+				<li>Orders</li>
+				<li>Ferny_Production</li>
+				<li>Ferny_PowerGeneration</li>
+				<li>Ferny_DecoPlants</li>
+				<li>Misc</li>
+				<li>Floors</li>
+				<li>Joy</li>
+				<li>Ferny_SpacePlatform</li>
+				<li>Ferny_InformationStorage</li>
+				<li>Ferny_GearStorage</li>
+				<li>Ferny_FoodStorage</li>
+				<li>ASFstorage</li>
+				<li>Ferny_Windows</li>
+				<li>Ferny_DecoRugs</li>
+				<li>Ferny_DecoHanging</li>
+				<li>Ferny_Decorations</li>
+				<li>Production</li>
+				<li>Ferny_ProductionInfrastructure</li>
+				<li>Ferny_Farming</li>
+				<li>Ferny_AerialTransport</li>
+				<li>Ferny_Outreach</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+			</values>
+		</sortSettingsPerCategory>
+		<groupByTechLevelPerCategory>
+			<keys />
+			<values />
+		</groupByTechLevelPerCategory>
+		<parentOverrides>
+			<keys />
+			<values />
+		</parentOverrides>
+		<categoryOverrides>
+			<keys />
+			<values />
+		</categoryOverrides>
+		<skippedParentCategoryIds />
+	</ModSettings>
+</SettingsBlock>
