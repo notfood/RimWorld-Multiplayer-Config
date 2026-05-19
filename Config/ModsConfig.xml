@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <ModsConfigData>
   <version>1.6.4633 rev1273</version>
   <activeMods>
@@ -54,6 +55,7 @@
     <li>shinzy.apparello</li>
     <li>statistno1.personabond</li>
     <li>luved.animaltraits</li>
+    <li>sarg.alphaanimals</li>
     <li>meltup.beautifuloutdoors</li>
     <li>jpt.openthewindows</li>
     <li>4loris4.morelinkables</li>
@@ -102,6 +104,7 @@
     <li>amegakull.simplenekomimixenotype</li>
     <li>defi.generipper</li>
     <li>ebsg.aio</li>
+    <li>grillmaster.vanillaxenotypesimproved</li>
     <li>lazyfridaystudio.genesexpandedhorns</li>
     <li>mlie.nomissinggeneicons</li>
     <li>sg.ratkin</li>
@@ -115,8 +118,12 @@
     <li>proxyer.desurgeries.desurgeries</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>dubwise.rimefeller</li>
+    <li>kahirdragoon.rimefellercompatpatch11111</li>
     <li>overpl.drawnspots</li>
     <li>proxyer.desurgeries.dbhpatch</li>
+    <li>grillmaster.integratedcreepjoiners</li>
+    <li>metalocif.cultbuffs</li>
+    <li>metalocif.morecreeps</li>
     <li>mrhydralisk.anomaliesexpected</li>
     <li>merthsoft.timeofdayswitch</li>
     <li>supes.powerlogic.core</li>
@@ -127,11 +134,11 @@
     <li>kogasastudio.multiconversion</li>
     <li>marvinkosh.sometimesraidsgowrong</li>
     <li>mlie.morefactioninteraction</li>
-    <li>nalzurin.orphanageanddaycare</li>
     <li>pb3n.simpleleadership</li>
     <li>petetimessix.researchreinvented</li>
     <li>petetimessix.researchreinvented.steppingstones</li>
     <li>sinnamon.moreritualrewards</li>
+    <li>zal.orphanageanddaycare</li>
     <li>oblitus.mylittleplanet</li>
     <li>mehni.pickupandhaul</li>
     <li>memegoddess.mealsonwheels</li>
@@ -170,6 +177,7 @@
     <li>dubwise.dubsmintminimap</li>
     <li>ferny.betterarchitect</li>
     <li>haecriver.injuredcarry</li>
+    <li>hahapig4.dragprioritizeanything</li>
     <li>kathanon.showweapontallies</li>
     <li>keyz182.keyzallowutilities</li>
     <li>llunak.dietfiltersinstorage</li>
