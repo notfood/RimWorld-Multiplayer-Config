@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="PrioritizeAnything.PrioritizeAnything_Settings" />
+	<ModSettings Class="PrioritizeAnything.PrioritizeAnything_Settings">
+		<showAreaSelectionButton>False</showAreaSelectionButton>
+	</ModSettings>
 </SettingsBlock>

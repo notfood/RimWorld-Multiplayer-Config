@@ -2,7 +2,9 @@
 <SettingsBlock>
 	<ModSettings Class="KeyzAllowUtilities.Settings">
 		<DisableHaulUrgently>True</DisableHaulUrgently>
+		<DisableClaimAll>True</DisableClaimAll>
 		<DisableFinishOff>True</DisableFinishOff>
+		<DisableSelectRotting>True</DisableSelectRotting>
 		<PlantGrownLevel>0.995145619</PlantGrownLevel>
 	</ModSettings>
 </SettingsBlock>

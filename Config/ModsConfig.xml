@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ModsConfigData>
-  <version>1.6.4633 rev1273</version>
+  <version>1.6.4850 rev655</version>
   <activeMods>
     <li>zetrith.prepatcher</li>
     <li>brrainz.harmony</li>
@@ -44,22 +44,19 @@
     <li>won2.hair</li>
     <li>javier.culturalcouture</li>
     <li>mlie.mercerbackpacks</li>
-    <li>ponpeco.kidsclothes</li>
-    <li>ponpeco.pkcallagepatch</li>
     <li>ponpeco.ponpecoaccessories</li>
+    <li>shinzy.apparello</li>
     <li>vanillaexpanded.vweg</li>
     <li>arquebus.morepersonatraits</li>
     <li>janson.weapontech</li>
     <li>sarg.alphaarmoury</li>
     <li>setosa.power.tools</li>
-    <li>shinzy.apparello</li>
     <li>statistno1.personabond</li>
     <li>luved.animaltraits</li>
     <li>sarg.alphaanimals</li>
     <li>meltup.beautifuloutdoors</li>
     <li>jpt.openthewindows</li>
     <li>4loris4.morelinkables</li>
-    <li>adamas.bees</li>
     <li>alias.doormats</li>
     <li>godlyannihilator.animalmedicalbed</li>
     <li>jamaicancastle.rf.fertilefields</li>
@@ -71,7 +68,6 @@
     <li>mlie.decorativecliffs</li>
     <li>mlie.eggincubator</li>
     <li>mlie.syrprosthetictable</li>
-    <li>mosi.practicalpallets</li>
     <li>notfood.mendandrecycle</li>
     <li>owlchemist.ceilingutilities</li>
     <li>owlchemist.chickennests</li>
@@ -90,7 +86,6 @@
     <li>zylle.childrensdrawings</li>
     <li>ferny.replacelib</li>
     <li>ferny.progressionagriculture</li>
-    <li>iworosiak.holsters</li>
     <li>kaitorisenkou.whatstodaysmenu</li>
     <li>mlie.realdining</li>
     <li>atlas.fallouttraits</li>
@@ -112,7 +107,6 @@
     <li>wvc.sergkart.races.biotech</li>
     <li>daniledman.cyberfauna</li>
     <li>darthsergeant.nursejob</li>
-    <li>dubwise.dubsrimkit</li>
     <li>frozensnowfox.vanillabionicsexpansion</li>
     <li>mlie.newlimbsneedstraining</li>
     <li>proxyer.desurgeries.desurgeries</li>
@@ -131,13 +125,14 @@
     <li>frozensnowfox.betterexplorationloot</li>
     <li>ghxx.techadvancing</li>
     <li>katavrik.crashlanding</li>
-    <li>kogasastudio.multiconversion</li>
+    <li>leo.eventsexpanded</li>
     <li>marvinkosh.sometimesraidsgowrong</li>
     <li>mlie.morefactioninteraction</li>
     <li>pb3n.simpleleadership</li>
     <li>petetimessix.researchreinvented</li>
     <li>petetimessix.researchreinvented.steppingstones</li>
     <li>sinnamon.moreritualrewards</li>
+    <li>vanillaexpanded.vee</li>
     <li>zal.orphanageanddaycare</li>
     <li>oblitus.mylittleplanet</li>
     <li>mehni.pickupandhaul</li>
@@ -181,18 +176,19 @@
     <li>kathanon.showweapontallies</li>
     <li>keyz182.keyzallowutilities</li>
     <li>llunak.dietfiltersinstorage</li>
-    <li>mlie.bestmix</li>
     <li>mlie.flickablestorage</li>
     <li>mlie.shoo</li>
     <li>mlie.stufflist</li>
     <li>mlie.zonetoschedule</li>
     <li>owlchemist.toggleableoverlays</li>
+    <li>ray1203.simplecamerasetting</li>
     <li>superniquito.traiticons</li>
     <li>telardo.pipettetool</li>
     <li>usagirei.pocketsand</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>com.yayo.yayoani.continued</li>
     <li>cucumpear.azrael.varietycoats</li>
+    <li>iworosiak.holsters</li>
     <li>owlchemist.scatteredflames</li>
     <li>owlchemist.scatteredstones</li>
     <li>vaguelysexual.modpackageid.goeshere</li>

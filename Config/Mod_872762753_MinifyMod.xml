@@ -159,19 +159,23 @@
 			<li>EndlessPit3x3c</li>
 			<li>Fence</li>
 			<li>FenceGate</li>
+			<li>FleshSack</li>
 			<li>Fleshbulb</li>
 			<li>Fleshmass</li>
 			<li>Fleshmass_Active</li>
 			<li>FleshmassSpitter</li>
+			<li>AE_FleshmassSpitterMedium</li>
 			<li>OrbitalAncientFortifiedWall</li>
 			<li>AncientFortifiedWall</li>
 			<li>GeothermalGenerator</li>
+			<li>AE_FleshmassSpitterGiant</li>
 			<li>Grave</li>
 			<li>Plant_TreeGrayPine</li>
 			<li>HiddenConduit</li>
 			<li>Terraform_Ice-RockyDirt</li>
 			<li>Terraform_Ice-WaterShallow</li>
 			<li>Shuttle</li>
+			<li>LifeSupportUnit</li>
 			<li>CocoonLocust</li>
 			<li>MajorArchotechStructure</li>
 			<li>MajorArchotechStructureStudiable</li>
@@ -224,6 +228,7 @@
 			<li>PFS_ColumnC</li>
 			<li>Fence_Picket</li>
 			<li>Plant_TreePine</li>
+			<li>PitBurrow</li>
 			<li>PitGate</li>
 			<li>PitGateExit</li>
 			<li>sewagePipeStuff</li>
@@ -278,6 +283,7 @@
 			<li>Terraform_WaterShallow-Sand</li>
 			<li>Terraform_WaterShallow-SoilF</li>
 			<li>SleepingSpot</li>
+			<li>AE_FleshmassSpitterSmall</li>
 			<li>Snowman</li>
 			<li>Terraform_SoilF-Marsh</li>
 			<li>Terraform_SoilF-SoilMarshy</li>
@@ -308,6 +314,7 @@
 			<li>TwistedArchotechSupport_Large</li>
 			<li>TwistedArchotechSupport_Vertical</li>
 			<li>WarpedObelisk_Mutator</li>
+			<li>AE_BloodLakeUndergroundNest</li>
 			<li>Vent</li>
 			<li>VoidmetalMassSmall</li>
 			<li>VoidmetalMassMedium</li>
@@ -324,7 +331,6 @@
 			<li>GrayWall</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
-			<li>Bees_Wildhive</li>
 			<li>Plant_TreeWillow</li>
 			<li>Plant_Witchwood</li>
 		</disabledDefList>
