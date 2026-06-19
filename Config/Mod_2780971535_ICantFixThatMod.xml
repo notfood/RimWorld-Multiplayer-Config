@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ICantFixThat.ICantFixThatSettings">
+		<AlsoBlockTechlevel>False</AlsoBlockTechlevel>
+		<AlsoBlockTechlevelLevel>1</AlsoBlockTechlevelLevel>
+	</ModSettings>
+</SettingsBlock>

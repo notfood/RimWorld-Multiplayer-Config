@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.6.4850 rev655</version>
   <activeMods>
@@ -15,7 +15,10 @@
     <li>ccl.patchoperation.highlander</li>
     <li>adaptive.storage.framework</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>archiev.betterweight</li>
+    <li>battyvanthe.concertsforall</li>
     <li>blackphoenix.traitsgiveaptitude</li>
+    <li>bodilpwnz.animalbiosculpter</li>
     <li>chris.cutercatearreplacer</li>
     <li>dubwise.dubsappareltweaks</li>
     <li>dvs.norandomrelations</li>
@@ -23,6 +26,7 @@
     <li>fed1splay.pawntargetfix</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>hobtook.mortaraccuracy</li>
+    <li>mlie.icantfixthat</li>
     <li>mlie.justignoremepassing</li>
     <li>mlie.noversionwarning</li>
     <li>mlie.syrharvestyield</li>
@@ -35,6 +39,8 @@
     <li>sakurata.ideotickopt</li>
     <li>sclarke.groundtargeter1.6temp</li>
     <li>sensiblebedownership.1trickpwnyta</li>
+    <li>thesepeople.usefulrelics</li>
+    <li>zed.0xff.forcexenogermimplantation</li>
     <li>jintuzilamian.hairstyle.afumenshairstyles</li>
     <li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
     <li>mlie.ponytailiskawaii</li>
@@ -69,6 +75,7 @@
     <li>mlie.eggincubator</li>
     <li>mlie.syrprosthetictable</li>
     <li>notfood.mendandrecycle</li>
+    <li>overpl.animalsarcophagus</li>
     <li>owlchemist.ceilingutilities</li>
     <li>owlchemist.chickennests</li>
     <li>owlchemist.fridgeutilities</li>
@@ -127,7 +134,6 @@
     <li>katavrik.crashlanding</li>
     <li>leo.eventsexpanded</li>
     <li>marvinkosh.sometimesraidsgowrong</li>
-    <li>mlie.morefactioninteraction</li>
     <li>pb3n.simpleleadership</li>
     <li>petetimessix.researchreinvented</li>
     <li>petetimessix.researchreinvented.steppingstones</li>
@@ -138,6 +144,7 @@
     <li>mehni.pickupandhaul</li>
     <li>memegoddess.mealsonwheels</li>
     <li>mlie.animalharvestingspot</li>
+    <li>aelanna.betterpyromania</li>
     <li>avilmask.nonunopinata</li>
     <li>balistafreak.stopdropandroll</li>
     <li>bsandyh.livingbonds</li>
@@ -175,15 +182,18 @@
     <li>hahapig4.dragprioritizeanything</li>
     <li>kathanon.showweapontallies</li>
     <li>keyz182.keyzallowutilities</li>
+    <li>leoltron.genebankindicators</li>
     <li>llunak.dietfiltersinstorage</li>
     <li>mlie.flickablestorage</li>
     <li>mlie.shoo</li>
     <li>mlie.stufflist</li>
+    <li>mlie.wehadatrader</li>
     <li>mlie.zonetoschedule</li>
     <li>owlchemist.toggleableoverlays</li>
     <li>ray1203.simplecamerasetting</li>
     <li>superniquito.traiticons</li>
     <li>telardo.pipettetool</li>
+    <li>tixiv.whoshotmylegoff</li>
     <li>usagirei.pocketsand</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>com.yayo.yayoani.continued</li>

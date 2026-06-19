@@ -16,8 +16,7 @@
 
 		<item defName="AIPersonaCore" stackLimit="1" />
 		<item defName="TechprofSubpersonaCore" stackLimit="1" />
-		<item defName="InfusedAmplifier" stackLimit="1" />
-		<item defName="BTEMy_ReverenceFuel" stackLimit="30" />
+		<item defName="AE_BakingPiesPiece" stackLimit="1" />
 		<item defName="Chemfuel" stackLimit="150" />
 	</IndividualItemOverrides>
 
