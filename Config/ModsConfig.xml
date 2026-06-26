@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ModsConfigData>
   <version>1.6.4850 rev655</version>
   <activeMods>
@@ -35,6 +35,7 @@
     <li>nercury.assignanimalfood</li>
     <li>ogre.ogrestack</li>
     <li>opa.allspecialistscanwork</li>
+    <li>royallytipsy.beautystatmod</li>
     <li>sakurata.corpsetickopt</li>
     <li>sakurata.ideotickopt</li>
     <li>sclarke.groundtargeter1.6temp</li>
@@ -145,6 +146,7 @@
     <li>memegoddess.mealsonwheels</li>
     <li>mlie.animalharvestingspot</li>
     <li>aelanna.betterpyromania</li>
+    <li>argotis.enemiesuseappareltoo</li>
     <li>avilmask.nonunopinata</li>
     <li>balistafreak.stopdropandroll</li>
     <li>bsandyh.livingbonds</li>
@@ -178,6 +180,7 @@
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
     <li>ferny.betterarchitect</li>
+    <li>fodo.adaptiveplayerfactionicon</li>
     <li>haecriver.injuredcarry</li>
     <li>hahapig4.dragprioritizeanything</li>
     <li>kathanon.showweapontallies</li>

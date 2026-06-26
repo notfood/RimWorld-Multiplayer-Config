@@ -229,6 +229,7 @@
 				<li>VEE_PsychicRain</li>
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
+				<li>AE_IncidentDef_BrokenStatueSpawn</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -455,6 +456,7 @@
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
 				<li>True</li>
 			</values>
 		</incidentsStatus>
@@ -685,6 +687,7 @@
 				<li>VEE_PsychicRain</li>
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
+				<li>AE_IncidentDef_BrokenStatueSpawn</li>
 			</keys>
 			<values>
 				<li>0.699999988</li>
@@ -912,6 +915,7 @@
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
+				<li>1</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -1141,6 +1145,7 @@
 				<li>VEE_PsychicRain</li>
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
+				<li>AE_IncidentDef_BrokenStatueSpawn</li>
 			</keys>
 			<values>
 				<li>0.699999988</li>
@@ -1368,6 +1373,7 @@
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
+				<li>1</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
