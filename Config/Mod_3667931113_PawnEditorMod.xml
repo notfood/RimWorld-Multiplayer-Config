@@ -3,6 +3,5 @@
 	<ModSettings Class="PawnEditor.PawnEditorSettings">
 		<DontShowAgain />
 		<ShowOpenButton>False</ShowOpenButton>
-		<PointLimit>100000</PointLimit>
 	</ModSettings>
 </SettingsBlock>

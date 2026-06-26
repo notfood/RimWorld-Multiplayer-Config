@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BeautyStatMod.BeautyStatSettings">
+		<NegotiationStatFactor>0.200000003</NegotiationStatFactor>
+		<ConversionStatFactor>0.200000003</ConversionStatFactor>
+		<TradePriceStatFactor>0.100000001</TradePriceStatFactor>
+		<SuppressionStatFactor>0.0500000007</SuppressionStatFactor>
+		<SocialImpactStatFactor>0.200000003</SocialImpactStatFactor>
+	</ModSettings>
+</SettingsBlock>

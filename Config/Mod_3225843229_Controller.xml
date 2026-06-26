@@ -3,11 +3,11 @@
 	<ModSettings Class="RFF_Code.Settings">
 		<playHardMode>True</playHardMode>
 		<plantScrapsPercent>100.5</plantScrapsPercent>
-		<depleteChance>1.93259621</depleteChance>
+		<depleteChance>0</depleteChance>
 		<depleteRecords>
 			<li>
 				<defName>Soil</defName>
-				<mtbDays>23.9984379</mtbDays>
+				<mtbDays>24.0343742</mtbDays>
 				<rtsFactor>1</rtsFactor>
 			</li>
 			<li>

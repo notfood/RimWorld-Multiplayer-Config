@@ -321,6 +321,7 @@
 				<li>AnimalInsanityMassPurple</li>
 				<li>VEE_PsychicRain</li>
 				<li>VEE_PsychicBloom</li>
+				<li>AE_IncidentDef_BrokenStatueSpawn</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -594,6 +595,7 @@
 				<li>0</li>
 				<li>0</li>
 				<li>5</li>
+				<li>0</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
