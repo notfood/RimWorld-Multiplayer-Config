@@ -322,6 +322,16 @@
 				<li>VEE_PsychicRain</li>
 				<li>VEE_PsychicBloom</li>
 				<li>AE_IncidentDef_BrokenStatueSpawn</li>
+				<li>VEE_ManhunterSingleArrival</li>
+				<li>VEE_Crashlanded</li>
+				<li>VEE_PsychicStimulation</li>
+				<li>VEE_PsychicOverdrive</li>
+				<li>VEE_PsychicHum</li>
+				<li>VEE_VisitorGroupRaid</li>
+				<li>InfestationPurple</li>
+				<li>VEE_WhiteoutRefugees</li>
+				<li>VEE_Whiteout</li>
+				<li>VEE_Scorch</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -595,6 +605,16 @@
 				<li>0</li>
 				<li>0</li>
 				<li>5</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>

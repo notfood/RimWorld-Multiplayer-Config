@@ -1293,8 +1293,13 @@
 			<li>Ship_Beam_CrashLanded</li>
 			<li>Ship_Engine_CrashLanded</li>
 			<li>RR_VoltaicPile</li>
-			<li>VEE_ShipChunkHuman</li>
 			<li>VEE_Shuttle</li>
+			<li>VEE_Shuttle_Combat</li>
+			<li>VEE_Shuttle_Heavy</li>
+			<li>VEE_ShipChunkHuman</li>
+			<li>VEE_ShipChunkHuman_Volatile_Spawner</li>
+			<li>VEE_ShipChunkHuman_Cargo</li>
+			<li>VEE_ShipChunkHuman_DropPod_Spawner</li>
 			<li>DrugCabinet_Fridge</li>
 			<li>PFS_Shelf</li>
 		</DefaultToPatch>
@@ -1701,6 +1706,7 @@
 			<li>Autoclave</li>
 			<li>MoreCreeps_VoidmetalWall</li>
 			<li>MoreCreeps_VoidmetalBeacon</li>
+			<li>MoreCreeps_VoidmetalFocus</li>
 			<li>AE_AnomalyBed</li>
 			<li>AE_AnomalyHospitalBed</li>
 			<li>AE_MeatGrinder</li>

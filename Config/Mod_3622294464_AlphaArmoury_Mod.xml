@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="AlphaArmoury.AlphaArmoury_Settings">
 		<minWeaponTraits>1</minWeaponTraits>
-		<maxWeaponTraits>3</maxWeaponTraits>
+		<maxWeaponTraits>5</maxWeaponTraits>
 		<sendWeaponPods>False</sendWeaponPods>
 		<addWeaponsToMoreMercs>False</addWeaponsToMoreMercs>
 		<addKitsToMoreMercs>False</addKitsToMoreMercs>

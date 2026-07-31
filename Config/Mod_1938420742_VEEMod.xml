@@ -230,6 +230,14 @@
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
 				<li>AE_IncidentDef_BrokenStatueSpawn</li>
+				<li>VEE_ManhunterSingleArrival</li>
+				<li>VEE_Crashlanded</li>
+				<li>VEE_PsychicStimulation</li>
+				<li>VEE_PsychicOverdrive</li>
+				<li>VEE_PsychicHum</li>
+				<li>VEE_VisitorGroupRaid</li>
+				<li>VEE_Whiteout</li>
+				<li>VEE_Scorch</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -456,6 +464,14 @@
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 			</values>
@@ -688,6 +704,14 @@
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
 				<li>AE_IncidentDef_BrokenStatueSpawn</li>
+				<li>VEE_ManhunterSingleArrival</li>
+				<li>VEE_Crashlanded</li>
+				<li>VEE_PsychicStimulation</li>
+				<li>VEE_PsychicOverdrive</li>
+				<li>VEE_PsychicHum</li>
+				<li>VEE_VisitorGroupRaid</li>
+				<li>VEE_Whiteout</li>
+				<li>VEE_Scorch</li>
 			</keys>
 			<values>
 				<li>0.699999988</li>
@@ -916,6 +940,14 @@
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
 				<li>1</li>
+				<li>2</li>
+				<li>0.349999994</li>
+				<li>0.799999952</li>
+				<li>0.799999952</li>
+				<li>0.5</li>
+				<li>0.550000012</li>
+				<li>0.0399999991</li>
+				<li>0.0399999991</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -1146,6 +1178,14 @@
 				<li>VEE_LongNight</li>
 				<li>VEE_PsychicBloom</li>
 				<li>AE_IncidentDef_BrokenStatueSpawn</li>
+				<li>VEE_ManhunterSingleArrival</li>
+				<li>VEE_Crashlanded</li>
+				<li>VEE_PsychicStimulation</li>
+				<li>VEE_PsychicOverdrive</li>
+				<li>VEE_PsychicHum</li>
+				<li>VEE_VisitorGroupRaid</li>
+				<li>VEE_Whiteout</li>
+				<li>VEE_Scorch</li>
 			</keys>
 			<values>
 				<li>0.699999988</li>
@@ -1374,6 +1414,14 @@
 				<li>0.0399999991</li>
 				<li>0.0399999991</li>
 				<li>1</li>
+				<li>2</li>
+				<li>0.349999994</li>
+				<li>0.800000012</li>
+				<li>0.800000012</li>
+				<li>0.5</li>
+				<li>0.550000012</li>
+				<li>0.0399999991</li>
+				<li>0.0399999991</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>

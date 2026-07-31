@@ -5,5 +5,7 @@
 		<UndergroundFleshmassNestRestore>0.100000001</UndergroundFleshmassNestRestore>
 		<UndergroundFleshmassNestFrequencyMult>1</UndergroundFleshmassNestFrequencyMult>
 		<DevDisableClockworkObelisk>True</DevDisableClockworkObelisk>
+		<BrokenStatueDisableSpineBreaker>True</BrokenStatueDisableSpineBreaker>
+		<IsIgnoringObserver>True</IsIgnoringObserver>
 	</ModSettings>
 </SettingsBlock>
