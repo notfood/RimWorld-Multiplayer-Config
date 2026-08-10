@@ -138,6 +138,7 @@
 			<li>Fence_Chainlink</li>
 			<li>Gate_Chainlink</li>
 			<li>ClimateAdjuster</li>
+			<li>AE_Obelisk_Clockwork</li>
 			<li>Fence_Closeboard</li>
 			<li>Gate_Closeboard</li>
 			<li>LTS_CobblestoneFence</li>
@@ -410,6 +411,8 @@
 			<li>VoidStructure</li>
 			<li>Wall</li>
 			<li>GrayWall</li>
+			<li>WarpedObelisk_Abductor</li>
+			<li>WarpedObelisk_Labyrinth</li>
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
 			<li>Plant_TreeWillow</li>

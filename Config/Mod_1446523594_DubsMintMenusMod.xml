@@ -23,6 +23,7 @@
 			<li>RimWorld.Designator_Claim</li>
 			<li>RimWorld.Designator_Mine</li>
 			<li>KeyzAllowUtilities.Designator_HarvestGrown</li>
+			<li>RimWorld.Designator_Deconstruct</li>
 		</WheelDefs>
 		<FBenchTemplates />
 	</ModSettings>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UniqueMeleeWeapons.UniqueMeleeWeaponsSettings">
+		<disabledWeapons />
+		<warbandQuestWeight>0.600000024</warbandQuestWeight>
+		<earthshakeCooldownHours>12</earthshakeCooldownHours>
+		<earthshakeRadius>3.9000001</earthshakeRadius>
+		<rallyingCryCooldownDays>3</rallyingCryCooldownDays>
+		<rallyingCryRadius>9.89999962</rallyingCryRadius>
+		<ralliedDurationHours>2</ralliedDurationHours>
+	</ModSettings>
+</SettingsBlock>

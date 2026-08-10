@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="KeyzAllowUtilities.Settings">
-		<DisableHaulUrgently>True</DisableHaulUrgently>
 		<DisableClaimAll>True</DisableClaimAll>
 		<DisableFinishOff>True</DisableFinishOff>
+		<DisableStripMine>True</DisableStripMine>
 		<DisableSelectRotting>True</DisableSelectRotting>
 		<PlantGrownLevel>0.995145619</PlantGrownLevel>
 	</ModSettings>
