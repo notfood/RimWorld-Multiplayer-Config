@@ -27,6 +27,7 @@
 		<shapeshifer_CooldownDurationFactor>1</shapeshifer_CooldownDurationFactor>
 		<traitshifter_MaxTraits>3</traitshifter_MaxTraits>
 		<chimeraStartingGenes>5</chimeraStartingGenes>
+		<devourer_CooldownFactor>2</devourer_CooldownFactor>
 		<duplicator_RandomOutcomeChance>0.660000026</duplicator_RandomOutcomeChance>
 		<duplicator_RandomGeneChance>0.119999997</duplicator_RandomGeneChance>
 		<fleshmass_MaxMutationsLevel>5</fleshmass_MaxMutationsLevel>

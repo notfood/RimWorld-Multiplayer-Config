@@ -1196,6 +1196,7 @@
 			<li>PFS_DecoTablewareB</li>
 			<li>PFS_DecoTablewareC</li>
 			<li>PFS_DecoTablewareD</li>
+			<li>PFS_DecoTablewareE</li>
 			<li>PFS_TabletopPlant</li>
 			<li>PFS_MetalTeddyBear</li>
 			<li>PFS_ObsidianFigurine</li>
@@ -1205,6 +1206,7 @@
 			<li>PFS_DoorFrameB</li>
 			<li>PFS_DoorFrameC</li>
 			<li>PFS_DoorSlope</li>
+			<li>PFS_Bedroll</li>
 			<li>PFS_Stool</li>
 			<li>PFS_StoolB</li>
 			<li>PFS_CubeLight</li>
@@ -1500,6 +1502,8 @@
 			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>CompostBarrel</li>
 			<li>HeavySandbags</li>
+			<li>RFF_ExcavationPit</li>
+			<li>RFF_PoweredExcavator</li>
 			<li>TableLinkable</li>
 			<li>LTS_HemnesDouble</li>
 			<li>LTS_HemnesSingle</li>

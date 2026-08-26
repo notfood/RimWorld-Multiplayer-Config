@@ -1092,6 +1092,11 @@
 					<li>MeleeWeapon_AEClockworkHand</li>
 					<li>MeleeWeapon_AEIceSword</li>
 					<li>MeleeWeapon_AEIceSpear</li>
+					<li>UMW_BreachAxe_Unique</li>
+					<li>UMW_LongSword_Unique</li>
+					<li>UMW_Spear_Unique</li>
+					<li>UMW_Axe_Unique</li>
+					<li>UMW_Warhammer_Unique</li>
 				</weapons>
 			</li>
 			<li>
@@ -1289,6 +1294,9 @@
 					<li>MeleeWeapon_Ikwa</li>
 					<li>VPE_MeleeWeapon_EltexDagger</li>
 					<li>VPE_MeleeWeapon_EltexMace</li>
+					<li>UMW_Gladius_Unique</li>
+					<li>UMW_Knife_Unique</li>
+					<li>UMW_Mace_Unique</li>
 				</weapons>
 			</li>
 			<li>

@@ -307,8 +307,64 @@
 				<li>AArmoury_VacuumSealed</li>
 				<li>AArmoury_RandomProjectiles</li>
 				<li>AArmoury_Voltaic</li>
+				<li>UMW_ArmorSpike</li>
+				<li>UMW_Barbed</li>
+				<li>UMW_BellCast</li>
+				<li>UMW_BloodStained</li>
+				<li>UMW_Carbonized</li>
+				<li>UMW_Counterweighted</li>
+				<li>UMW_Cumbersome</li>
+				<li>UMW_DeadBlow</li>
+				<li>UMW_Enameled</li>
+				<li>UMW_Envenomed</li>
+				<li>UMW_Flanged</li>
+				<li>UMW_GoldInlay</li>
+				<li>UMW_HeadWeighted</li>
+				<li>UMW_JadeInlay</li>
+				<li>UMW_Lightweight</li>
+				<li>UMW_Monomolecular</li>
+				<li>UMW_NeedlePoint</li>
+				<li>UMW_Opiated</li>
+				<li>UMW_Ornamental</li>
+				<li>UMW_Piledriver</li>
+				<li>UMW_PlasmaCored</li>
+				<li>UMW_Quilloned</li>
+				<li>UMW_Razored</li>
+				<li>UMW_Serrated</li>
+				<li>UMW_Storied</li>
+				<li>UMW_Studded</li>
+				<li>UMW_Ugly</li>
+				<li>UMW_ZeusHeaded</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

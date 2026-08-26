@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Maux36.RimPsyche.RimpsycheSettings">
 		<allowFacetEdit>True</allowFacetEdit>
-		<showFacetInMenu>True</showFacetInMenu>
 		<showFacetGraph>True</showFacetGraph>
+		<descriptors />
 	</ModSettings>
 </SettingsBlock>

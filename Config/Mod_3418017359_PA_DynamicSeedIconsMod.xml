@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PA_DynamicSeedIcons.SeedIconSettings">
+		<PlantIconScale>0.25</PlantIconScale>
+		<PlantOutlineScale>0.109999999</PlantOutlineScale>
+		<PlantOffsetX>0</PlantOffsetX>
+		<PlantOffsetY>225</PlantOffsetY>
+		<OutlineOffsetX>2</OutlineOffsetX>
+		<OutlineOffsetY>2</OutlineOffsetY>
+	</ModSettings>
+</SettingsBlock>
