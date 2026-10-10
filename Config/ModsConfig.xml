@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.6.4871 rev600</version>
   <activeMods>
@@ -67,6 +67,7 @@
     <li>jpt.openthewindows</li>
     <li>4loris4.morelinkables</li>
     <li>alias.doormats</li>
+    <li>eeg.architecture</li>
     <li>godlyannihilator.animalmedicalbed</li>
     <li>jamaicancastle.rf.fertilefields</li>
     <li>jaxe.bubbles</li>
@@ -74,6 +75,7 @@
     <li>jiopaba.fencetab</li>
     <li>karvinen.tablesplus</li>
     <li>limetreesnake.furnishing</li>
+    <li>milple.expertstairs</li>
     <li>mlie.decorativecliffs</li>
     <li>mlie.eggincubator</li>
     <li>mlie.syrprosthetictable</li>
@@ -173,6 +175,7 @@
     <li>name.krypt.rimworld.pawntablegrouped</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>andromeda.usefulmarks</li>
+    <li>superniquito.traiticons</li>
     <li>andromeda.packablecontainers</li>
     <li>arl85.corpseinfo</li>
     <li>automatic.autolinks</li>
@@ -197,7 +200,6 @@
     <li>mlie.zonetoschedule</li>
     <li>owlchemist.toggleableoverlays</li>
     <li>ray1203.simplecamerasetting</li>
-    <li>superniquito.traiticons</li>
     <li>telardo.pipettetool</li>
     <li>tixiv.whoshotmylegoff</li>
     <li>usagirei.pocketsand</li>

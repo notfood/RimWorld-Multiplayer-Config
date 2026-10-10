@@ -4,6 +4,8 @@
 		<menuHeight>330</menuHeight>
 		<rememberSubcategory>True</rememberSubcategory>
 		<backgroundAlpha>0.419999987</backgroundAlpha>
+		<useSpecialFloorsTab>False</useSpecialFloorsTab>
+		<mysteryUnlocks>False</mysteryUnlocks>
 		<sortSettingsPerCategory>
 			<keys>
 				<li>Ferny_Walls</li>

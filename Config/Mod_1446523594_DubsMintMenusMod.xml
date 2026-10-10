@@ -13,6 +13,10 @@
 		<listWidth>445</listWidth>
 		<ResearchListWidth>350</ResearchListWidth>
 		<WheelOnRightClick>True</WheelOnRightClick>
+		<WheelButtonSize>75</WheelButtonSize>
+		<WheelSlots IsNull="True" />
+		<WheelGridSlots IsNull="True" />
+		<DesignatorBarList IsNull="True" />
 		<pinnedArchitectTabs IsNull="True" />
 		<ResourceReadout />
 		<WheelDefs>

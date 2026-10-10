@@ -1131,6 +1131,46 @@
 			<li>LTS_Gamlared</li>
 			<li>LTS_KoppangD</li>
 			<li>LTS_Havsta</li>
+			<li>milple_Window</li>
+			<li>milple_WindowD</li>
+			<li>milple_WindowLong</li>
+			<li>milple_WindowLongD</li>
+			<li>milple_WindowR</li>
+			<li>milple_WindowRD</li>
+			<li>milple_WindowLongR</li>
+			<li>milple_WindowLongRD</li>
+			<li>milple_HandRails</li>
+			<li>milple_HandRailsPillar</li>
+			<li>milple_HandRailsPillarXL</li>
+			<li>milple_HandRailsPillarR</li>
+			<li>milple_HandRailsPillarXLR</li>
+			<li>milple_HandRailsDiagonalL</li>
+			<li>milple_HandRailsSquare</li>
+			<li>milple_HandRailsDiagonal</li>
+			<li>milple_HandRailsRound</li>
+			<li>milple_Stairs</li>
+			<li>milple_HalfStairs</li>
+			<li>milple_DiagonalStairsL</li>
+			<li>milple_DiagonalStairsR</li>
+			<li>milple_SquareStairs</li>
+			<li>milple_DiagonalStairs</li>
+			<li>milple_DiagonalStairsB</li>
+			<li>milple_RoundStairs</li>
+			<li>milple_RoundStairsB</li>
+			<li>milple_SquareStairsI</li>
+			<li>milple_DiagonalStairsI</li>
+			<li>milple_DiagonalStairsBI</li>
+			<li>milple_RoundStairsI</li>
+			<li>milple_RoundStairsBI</li>
+			<li>milple_PlainWall</li>
+			<li>milple_PlainWallR</li>
+			<li>milple_PlainWallU</li>
+			<li>milple_PlainWallUR</li>
+			<li>milple_PlainWallB</li>
+			<li>milple_PlainWallBR</li>
+			<li>milple_PlainWallH</li>
+			<li>milple_PlainWallL</li>
+			<li>milple_ToolWall</li>
 			<li>Stone_Cliff_Right</li>
 			<li>Stone_Cliff_Left</li>
 			<li>Stone_CliffTop_Right</li>
@@ -1218,6 +1258,38 @@
 			<li>PFS_AutodoorC</li>
 			<li>PFS_HoloGlassAutodoor</li>
 			<li>PFS_Heater</li>
+			<li>sbz_SmallGravshipGlassShelf</li>
+			<li>sbz_GravshipGlassShelf</li>
+			<li>sbz_SmallGravshipShelf</li>
+			<li>sbz_GravshipShelf</li>
+			<li>sbz_GravshipTwoTierShelf</li>
+			<li>sbz_GravshipWeaponRack</li>
+			<li>sbz_DisplayTable</li>
+			<li>sbz_RoundPedestal</li>
+			<li>sbz_TallCrate</li>
+			<li>sbz_Crate</li>
+			<li>sbz_MidCrate</li>
+			<li>sbz_SmallCrate</li>
+			<li>sbz_Pallet</li>
+			<li>sbz_HalfPallet</li>
+			<li>sbz_MiniPallet</li>
+			<li>sbz_DisplayCabinet</li>
+			<li>sbz_NarrowDisplayCabinet</li>
+			<li>sbz_TwoTierDisplayShelf</li>
+			<li>sbz_DisplayShelf</li>
+			<li>sbz_SmallDisplayShelf</li>
+			<li>sbz_MeatHook</li>
+			<li>sbz_TextileRack</li>
+			<li>sbz_Safe</li>
+			<li>sbz_Drum</li>
+			<li>sbz_OpenShelf</li>
+			<li>sbz_TallDisplayShelf</li>
+			<li>sbz_NarrowTallDisplayShelf</li>
+			<li>sbz_WideHangerShelf</li>
+			<li>sbz_HangerShelf</li>
+			<li>sbz_HorizontalWeaponRack</li>
+			<li>sbz_VerticalWeaponRack</li>
+			<li>sbz_WeaponRack</li>
 			<li>ucp_remote</li>
 			<li>ucp_register</li>
 			<li>ucp_toolbox</li>
@@ -1485,6 +1557,23 @@
 			<li>KitchenCupboard</li>
 			<li>SurgicalLamp</li>
 			<li>SurgicalInstruments</li>
+			<li>AR_Rafter</li>
+			<li>AR_Eave</li>
+			<li>AR_Eave_half</li>
+			<li>AR_EaveInnerCorner</li>
+			<li>AR_EaveCorner</li>
+			<li>AR_EaveStony</li>
+			<li>AR_EaveStony_half</li>
+			<li>AR_StonyEaveInnerCornerSmall</li>
+			<li>AR_StonyEaveOuterCornerSmall</li>
+			<li>AR_StonyEaveInnerCorner</li>
+			<li>AR_StonyEaveOuterCorner</li>
+			<li>AR_EaveWoody</li>
+			<li>AR_EaveWoody_half</li>
+			<li>AR_WoodyEaveInnerCornerSmall</li>
+			<li>AR_WoodyEaveOuterCornerSmall</li>
+			<li>AR_WoodyEaveInnerCorner</li>
+			<li>AR_WoodyEaveOuterCorner</li>
 			<li>SUN_MedicalAnimalBed</li>
 			<li>RockMill</li>
 			<li>Terraform_RockyDirt-Stone</li>
@@ -1601,40 +1690,13 @@
 			<li>PFS_ColumnA</li>
 			<li>PFS_ColumnB</li>
 			<li>PFS_ColumnC</li>
-			<li>sbz_LargeGravshipCrate</li>
 			<li>sbz_GravshipCrate</li>
+			<li>sbz_2x3GravshipCrate</li>
+			<li>sbz_2x4GravshipCrate</li>
 			<li>sbz_LongGravshipCrate</li>
-			<li>sbz_GravshipGlassShelf</li>
-			<li>sbz_GravshipTwoTierShelf</li>
-			<li>sbz_GravshipShelf</li>
-			<li>sbz_SmallGravshipShelf</li>
-			<li>sbz_GravshipWeaponRack</li>
-			<li>sbz_TallCrate</li>
-			<li>sbz_Crate</li>
-			<li>sbz_MidCrate</li>
-			<li>sbz_SmallCrate</li>
-			<li>sbz_Pallet</li>
-			<li>sbz_MiniPallet</li>
-			<li>sbz_HalfPallet</li>
-			<li>sbz_OpenShelf</li>
-			<li>sbz_TwoTierDisplayShelf</li>
-			<li>sbz_DisplayShelf</li>
-			<li>sbz_SmallDisplayShelf</li>
-			<li>sbz_TallDisplayShelf</li>
-			<li>sbz_NarrowTallDisplayShelf</li>
-			<li>sbz_WideHangerShelf</li>
-			<li>sbz_HangerShelf</li>
-			<li>sbz_DisplayCabinet</li>
-			<li>sbz_NarrowDisplayCabinet</li>
-			<li>sbz_DisplayTable</li>
-			<li>sbz_RoundPedestal</li>
-			<li>sbz_MeatHook</li>
-			<li>sbz_TextileRack</li>
-			<li>sbz_Safe</li>
-			<li>sbz_Drum</li>
-			<li>sbz_HorizontalWeaponRack</li>
-			<li>sbz_VerticalWeaponRack</li>
-			<li>sbz_WeaponRack</li>
+			<li>sbz_LargeGravshipCrate</li>
+			<li>sbz_3x4GravshipCrate</li>
+			<li>sbz_3x5GravshipCrate</li>
 			<li>sbz_Fridge</li>
 			<li>sbz_LargeFridge</li>
 			<li>sbz_SingleChestFridge</li>

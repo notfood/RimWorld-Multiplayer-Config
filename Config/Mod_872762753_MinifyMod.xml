@@ -104,6 +104,9 @@
 			<li>AncientWheel</li>
 			<li>AnimalSleepingSpot</li>
 			<li>AnticraftBeam</li>
+			<li>milple_WindowLongRD</li>
+			<li>milple_WindowR</li>
+			<li>milple_WindowLongR</li>
 			<li>LTS_ArchedDoor</li>
 			<li>LTS_SimpleArchedDoor</li>
 			<li>ArchonexusCore</li>
@@ -145,6 +148,7 @@
 			<li>LTS_CobblestoneWall</li>
 			<li>CollapsedRocks</li>
 			<li>Column</li>
+			<li>AR_EaveCorner</li>
 			<li>sbz_CorpseSpot</li>
 			<li>WarpedObelisk_Duplicator</li>
 			<li>CraftingSpot</li>
@@ -155,6 +159,9 @@
 			<li>Ship_Beam_CrashLanded</li>
 			<li>ShuttleCrashed</li>
 			<li>ShuttleCrashed_Exitable</li>
+			<li>VEE_Shuttle</li>
+			<li>VEE_Shuttle_Combat</li>
+			<li>VEE_Shuttle_Heavy</li>
 			<li>CraterSmall</li>
 			<li>CraterMedium</li>
 			<li>CraterLarge</li>
@@ -163,6 +170,15 @@
 			<li>Terraform_WaterDeep-WaterShallow</li>
 			<li>DeepWaterWellInlet</li>
 			<li>CerebrexCore_Destroyed</li>
+			<li>milple_PlainWallBR</li>
+			<li>milple_DiagonalStairs</li>
+			<li>milple_DiagonalStairsB</li>
+			<li>milple_HandRailsDiagonal</li>
+			<li>milple_DiagonalStairsI</li>
+			<li>milple_DiagonalStairsBI</li>
+			<li>milple_PlainWallR</li>
+			<li>milple_PlainWallUR</li>
+			<li>DinkySnowman</li>
 			<li>Dirt_Hill_Left</li>
 			<li>Dirt_Hill_Right</li>
 			<li>Dirt_HillTop_Left</li>
@@ -174,13 +190,16 @@
 			<li>Plant_TreeDrago</li>
 			<li>DryadCocoon</li>
 			<li>DryadHealingPod</li>
+			<li>AR_Eave_half</li>
 			<li>EndlessPit2x2c</li>
 			<li>EndlessPit3x2c</li>
 			<li>EndlessPit3x3c</li>
+			<li>RFF_ExcavationPit</li>
 			<li>LTS_FancyDoorOne</li>
 			<li>LTS_FancyDoorTwo</li>
 			<li>Fence</li>
 			<li>FenceGate</li>
+			<li>Terraform_Topsoil-DirtFert</li>
 			<li>FleshSack</li>
 			<li>Fleshbulb</li>
 			<li>Fleshmass</li>
@@ -202,8 +221,10 @@
 			<li>GrandArchotechStructure</li>
 			<li>Grave</li>
 			<li>Plant_TreeGrayPine</li>
+			<li>milple_HalfStairs</li>
 			<li>LTS_HangarDoor</li>
 			<li>HiddenConduit</li>
+			<li>HugeOpenWindow</li>
 			<li>Terraform_Ice-RockyDirt</li>
 			<li>Terraform_Ice-WaterShallow</li>
 			<li>Shuttle</li>
@@ -215,7 +236,15 @@
 			<li>LTS_GlassDoorM</li>
 			<li>LTS_GlassDoorL</li>
 			<li>LTS_GlassDoorSingle</li>
+			<li>AR_StonyEaveInnerCornerSmall</li>
+			<li>AR_WoodyEaveInnerCornerSmall</li>
+			<li>AR_EaveInnerCorner</li>
+			<li>AR_StonyEaveInnerCorner</li>
+			<li>AR_WoodyEaveInnerCorner</li>
+			<li>milple_HandRailsPillar</li>
 			<li>LTS_LargeFenceGate</li>
+			<li>LargeReinforcedOpenWindow</li>
+			<li>LargeOpenWindow</li>
 			<li>LifeSupportUnit</li>
 			<li>CocoonLocust</li>
 			<li>MajorArchotechStructure</li>
@@ -235,8 +264,12 @@
 			<li>Terraform_SoilMarshy-SoilF</li>
 			<li>MassGrave</li>
 			<li>MassGraveAlt</li>
+			<li>MechBooster</li>
+			<li>MechDropBeacon</li>
+			<li>MechGestator</li>
+			<li>ShieldGeneratorMortar</li>
+			<li>ShieldGeneratorBullets</li>
 			<li>MechanoidDropPod</li>
-			<li>AncientEmergencyLight_Green</li>
 			<li>MechanoidProcessor</li>
 			<li>MechRelay</li>
 			<li>ShipChunk_Mech</li>
@@ -270,6 +303,10 @@
 			<li>LTS_OrnateFence</li>
 			<li>LTS_OrnateFenceGate</li>
 			<li>LTS_LargeOrnateFenceGate</li>
+			<li>AR_StonyEaveOuterCornerSmall</li>
+			<li>AR_WoodyEaveOuterCornerSmall</li>
+			<li>AR_StonyEaveOuterCorner</li>
+			<li>AR_WoodyEaveOuterCorner</li>
 			<li>Terraform_PackedDirt-SoilF</li>
 			<li>Plant_TreePalm</li>
 			<li>PartySpot</li>
@@ -288,6 +325,7 @@
 			<li>PitGate</li>
 			<li>PitGateExit</li>
 			<li>sewagePipeStuff</li>
+			<li>sewagePipeHidden</li>
 			<li>Plant_TreePoplar</li>
 			<li>PowerConduit</li>
 			<li>PrimitiveWell</li>
@@ -296,6 +334,7 @@
 			<li>Plant_RatPalm</li>
 			<li>LTS_ReinforcedDoorL</li>
 			<li>LTS_FuturisticReinforcedWall</li>
+			<li>ReinforcedOpenWindow</li>
 			<li>MechStabilizer</li>
 			<li>Terraform_SoilWorn-SoilF</li>
 			<li>RR_ThinkingSpot</li>
@@ -308,7 +347,12 @@
 			<li>Terraform_RockyDirt-WaterShallow</li>
 			<li>Terraform_RockyDirt-SoilF</li>
 			<li>Terraform_RockyDirt-Gravel</li>
+			<li>milple_RoundStairs</li>
+			<li>milple_RoundStairsB</li>
 			<li>Gate_Round</li>
+			<li>milple_HandRailsRound</li>
+			<li>milple_RoundStairsI</li>
+			<li>milple_RoundStairsBI</li>
 			<li>RubblePile</li>
 			<li>AncientCraneArm</li>
 			<li>AncientCraneArmSmall</li>
@@ -353,6 +397,7 @@
 			<li>LTS_LargeSimpleDoorTwo</li>
 			<li>LTS_SimpleDoorL</li>
 			<li>LTS_SimpleLargeDoorFrame</li>
+			<li>AR_Eave</li>
 			<li>LTS_SimpleDoorFrame</li>
 			<li>LTS_SimpleDoorFrameL</li>
 			<li>LTS_SimpleSingleDoorOne</li>
@@ -360,6 +405,9 @@
 			<li>LTS_SimpleSingleDoorThree</li>
 			<li>LTS_FuturisticDoorFrame</li>
 			<li>SleepingSpot</li>
+			<li>milple_HandRailsDiagonalL</li>
+			<li>milple_DiagonalStairsL</li>
+			<li>milple_DiagonalStairsR</li>
 			<li>AE_FleshmassSpitterSmall</li>
 			<li>Snowman</li>
 			<li>Terraform_SoilF-Marsh</li>
@@ -371,6 +419,18 @@
 			<li>Terraform_SoilF-WaterShallow</li>
 			<li>Terraform_SoilF-SoilF</li>
 			<li>Terraform_SoilF-Gravel</li>
+			<li>milple_SquareStairs</li>
+			<li>milple_WindowD</li>
+			<li>milple_WindowRD</li>
+			<li>milple_WindowLongD</li>
+			<li>Gate_Square</li>
+			<li>milple_HandRailsSquare</li>
+			<li>milple_SquareStairsI</li>
+			<li>milple_Window</li>
+			<li>milple_WindowLong</li>
+			<li>FakeStairCR</li>
+			<li>VeeFakeStairCRs</li>
+			<li>milple_Stairs</li>
 			<li>ToiletStallDoor</li>
 			<li>SteamGeyser</li>
 			<li>Stone_Cliff_Left</li>
@@ -379,6 +439,8 @@
 			<li>Stone_CliffTop_Right</li>
 			<li>Gate_Stone</li>
 			<li>Terraform_Stone-RockyDirt</li>
+			<li>AR_EaveStony</li>
+			<li>AR_EaveStony_half</li>
 			<li>Terraform_Gravel-RockyDirt</li>
 			<li>Terraform_Gravel-Sand</li>
 			<li>Terraform_Gravel-SoilF</li>
@@ -389,6 +451,8 @@
 			<li>LTS_TilesBorderCorner</li>
 			<li>LTS_TilesBorderEdge</li>
 			<li>LTS_TilesBorderInvertedEdge</li>
+			<li>Terraform_SoilRich-SoilTilled</li>
+			<li>Terraform_Stone-Topsoil</li>
 			<li>ToxicSpewer</li>
 			<li>LTS_MetalFrameL</li>
 			<li>TwistedArchotechSupport_Small</li>
@@ -416,7 +480,10 @@
 			<li>WaterWellInlet</li>
 			<li>WaterproofConduit</li>
 			<li>Plant_TreeWillow</li>
+			<li>OpenWindow</li>
 			<li>Plant_Witchwood</li>
+			<li>AR_EaveWoody</li>
+			<li>AR_EaveWoody_half</li>
 		</disabledDefList>
 	</ModSettings>
 </SettingsBlock>
